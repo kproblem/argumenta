@@ -1,0 +1,39 @@
+[x-cloak] { display: none !important; }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.skip { position: absolute; left: -9999px; top: 0; z-index: 10; padding: .75rem 1rem; background: #fff; color: #000; }
+.skip:focus { left: 0; }
+:root { --acento: #8ec5ff; --acento-texto: #0b1a2b; --foco: #8ec5ff; }
+[data-theme="light"] { --acento: #0b4a8f; --acento-texto: #fff; --foco: #0b5cad; --pico-form-element-placeholder-color: #5a6270; }
+:focus-visible { outline: 3px solid var(--foco); outline-offset: 2px; }
+main:focus { outline: none; }
+
+.chips { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1rem; }
+.chip { width: auto; margin: 0; padding: .4rem .9rem; font-size: .9rem; background: transparent; color: var(--acento); border: 2px solid var(--acento); }
+.chip[aria-pressed="true"] { background: var(--acento); color: var(--acento-texto); }
+.cabecera { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+.cabecera h1 { margin-bottom: 1rem; }
+.tema { display: flex; flex: none; align-items: center; width: 3.5rem; height: 2rem; margin: 0; padding: .15rem; border-radius: 2rem; background: transparent; border: 2px solid var(--acento); }
+.tema:is(:hover, :active, :focus) { background: transparent; }
+.bola { display: flex; align-items: center; justify-content: center; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--acento); color: var(--acento-texto); transition: transform .2s; }
+.tema[aria-checked="true"] .bola { transform: translateX(1.45rem); }
+.acciones { display: flex; flex-wrap: wrap; gap: .5rem; }
+.acciones > :is(button, a[role="button"]) { display: inline-flex; align-items: center; justify-content: center; width: auto; min-height: 2.75rem; margin: 0; padding: .5rem 1rem; font-size: .9rem; }
+.fuentes a { margin-left: .75rem; }
+.etq { font-weight: 700; }
+canvas { max-height: 260px; }
+article ol { padding-left: 1.2rem; }
+table { font-size: .9rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

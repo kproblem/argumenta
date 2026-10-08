@@ -1,0 +1,80 @@
+{
+  "actualizado": "2026-10-08T15:21:56.166Z",
+  "series": [
+    {
+      "id": "paro-es-ue",
+      "titulo": "Tasa de paro (% población activa 15-74)",
+      "fuente": "Eurostat (une_rt_a)",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a",
+      "etiquetas": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "series": [
+        {
+          "nombre": "España",
+          "datos": [
+            15.3,
+            14.1,
+            15.5,
+            14.9,
+            13,
+            12.2,
+            11.4,
+            10.5
+          ]
+        },
+        {
+          "nombre": "UE-27",
+          "datos": [
+            7.4,
+            6.8,
+            7.2,
+            7.1,
+            6.2,
+            6.1,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pib-es",
+      "titulo": "Crecimiento del PIB de España (% anual)",
+      "fuente": "Banco Mundial (NY.GDP.MKTP.KD.ZG)",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ES",
+      "etiquetas": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "series": [
+        {
+          "nombre": "España",
+          "datos": [
+            2.4,
+            1.96,
+            -10.94,
+            6.68,
+            6.37,
+            2.46,
+            3.46,
+            2.82
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "fichas": [
+    {
+      "id": "vivienda-construir-mas",
+      "seccion": "Vivienda y Suelo",
+      "mito": "Construir libremente es la única forma de bajar el precio del alquiler.",
+      "claves": [
+        "Sin vivienda pública ni regulación, la vivienda funciona como activo financiero.",
+        "Más suelo libre atrae capital que compra al contado y destina la oferta a alquiler turístico o de temporada.",
+        "El problema es la concentración y las viviendas vacías, no solo la falta de superficie construida."
+      ],
+      "serie": null,
+      "fuentes": [
+        { "texto": "INE – Índice de Precios de Vivienda", "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736152838" }
+      ],
+      "etiquetas": ["vivienda", "alquiler", "oferta", "grandes tenedores", "vacías"],
+      "borrador": true
+    },
+    {
+      "id": "macro-crecimiento-pib",
+      "seccion": "Macroeconomía Real",
+      "mito": "La economía española va mal.",
+      "claves": [
+        "España crece por encima de la media de la zona euro en los últimos ejercicios.",
+        "El crecimiento anual del PIB se mantiene en torno al 2,5-3 %.",
+        "Consulta el gráfico: datos del Banco Mundial actualizados periódicamente."
+      ],
+      "serie": "pib-es",
+      "fuentes": [
+        { "texto": "Banco Mundial – Crecimiento del PIB", "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ES" }
+      ],
+      "etiquetas": ["pib", "crecimiento", "economía", "macro"],
+      "borrador": true
+    },
+    {
+      "id": "empleo-paro-ue",
+      "seccion": "Empleo y Salarios",
+      "mito": "El paro en España no mejora.",
+      "claves": [
+        "La tasa de paro ha bajado de forma sostenida desde 2020.",
+        "La comparación con la UE-27 muestra que la brecha se está reduciendo.",
+        "Consulta el gráfico: datos de Eurostat actualizados periódicamente."
+      ],
+      "serie": "paro-es-ue",
+      "fuentes": [
+        { "texto": "Eurostat – Tasa de paro anual", "url": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a" }
+      ],
+      "etiquetas": ["paro", "empleo", "desempleo", "trabajo"],
+      "borrador": true
+    }
+  ]
+}

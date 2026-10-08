@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <script>try { if (localStorage.getItem('tema') === 'light') document.documentElement.dataset.theme = 'light'; } catch {}</script>
+  <title>Argumenta · Mito vs. Realidad</title>
+  <link rel="stylesheet" href="vendor/pico.2.1.1.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="vendor/chart.4.5.1.min.js"></script>
+  <script src="vendor/html-to-image.1.11.13.js"></script>
+  <script type="module" src="js/app.js"></script>
+  <script defer src="vendor/alpine.3.17.4.min.js"></script>
+</head>
+<body x-data="app()" x-init="init()">
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+
+  <header class="container">
+    <div class="cabecera">
+      <h1>Argumenta: mito vs. realidad</h1>
+      <button type="button" class="tema" role="switch" :aria-checked="tema === 'dark'" aria-label="Tema oscuro" @click="alternarTema()">
+        <span class="bola" aria-hidden="true">
+          <svg x-show="tema === 'dark'" x-cloak focusable="false" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <svg x-show="tema === 'light'" x-cloak focusable="false" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+        </span>
+      </button>
+    </div>
+    <form role="search" @submit.prevent>
+      <input id="buscador" type="search" aria-label="Buscar un tema" placeholder="Buscar un tema: vivienda, paro, PIB…" x-model="q" autocomplete="off">
+    </form>
+    <div role="group" aria-label="Filtrar por sección" class="chips">
+      <button type="button" class="chip" :aria-pressed="seccion === ''" @click="seccion = ''">Todas</button>
+      <template x-for="s in secciones" :key="s">
+        <button type="button" class="chip" :aria-pressed="seccion === s" @click="seccion = s" x-text="s"></button>
+      </template>
+    </div>
+  </header>
+
+  <main id="contenido" class="container" tabindex="-1">
+    <p role="status" x-show="cargando" aria-busy="true">Cargando fichas…</p>
+    <p role="status" x-text="resumen"></p>
+    <p class="sr-only" role="status" aria-live="polite" x-text="aviso"></p>
+
+    <template x-for="f in filtradas" :key="f.id">
+      <article :id="f.id" :aria-labelledby="f.id + '-t'">
+        <header>
+          <small x-text="f.seccion"></small>
+          <h2 :id="f.id + '-t'"><span class="etq">Mito:</span> <span x-text="f.mito"></span></h2>
+        </header>
+
+        <h3>La realidad en 3 claves</h3>
+        <ol>
+          <template x-for="c in f.claves"><li x-text="c"></li></template>
+        </ol>
+
+        <template x-if="f.serie && series[f.serie]">
+          <figure>
+            <canvas role="img" :aria-label="descripcion(series[f.serie])" x-init="$nextTick(() => dibujar($el, f.serie))"></canvas>
+            <figcaption>
+              <small x-text="'Fuente: ' + series[f.serie].fuente + '. Actualizado: ' + fecha + '.'"></small>
+            </figcaption>
+            <details>
+              <summary>Ver los datos en tabla</summary>
+              <table>
+                <caption x-text="series[f.serie].titulo"></caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Año</th>
+                    <template x-for="s in series[f.serie].series"><th scope="col" x-text="s.nombre"></th></template>
+                  </tr>
+                </thead>
+                <tbody>
+                  <template x-for="(e, i) in series[f.serie].etiquetas" :key="e">
+                    <tr>
+                      <th scope="row" x-text="e"></th>
+                      <template x-for="s in series[f.serie].series"><td x-text="s.datos[i] ?? 'sin dato'"></td></template>
+                    </tr>
+                  </template>
+                </tbody>
+              </table>
+            </details>
+          </figure>
+        </template>
+
+        <p class="fuentes">
+          <strong>Fuentes:</strong>
+          <template x-for="s in f.fuentes">
+            <a :href="s.url" target="_blank" rel="noopener noreferrer"><span x-text="s.texto"></span><span class="sr-only"> (se abre en una pestaña nueva)</span></a>
+          </template>
+        </p>
+
+        <footer class="acciones">
+          <button type="button" class="secondary" @click="copiar(f)">Copiar argumento<span class="sr-only" x-text="': ' + f.mito"></span></button>
+          <button type="button" class="secondary" @click="tarjeta(f)">Descargar tarjeta<span class="sr-only" x-text="': ' + f.mito"></span></button>
+          <a role="button" class="secondary" :href="whatsapp(f)" target="_blank" rel="noopener noreferrer">Compartir en WhatsApp<span class="sr-only" x-text="': ' + f.mito + ' (se abre en una pestaña nueva)'"></span></a>
+        </footer>
+      </article>
+    </template>
+
+    <section x-show="noticias.length && !q" aria-labelledby="noticias-t">
+      <h2 id="noticias-t">Últimas noticias</h2>
+      <ul>
+        <template x-for="n in noticias" :key="n.enlace">
+          <li><a :href="n.enlace" target="_blank" rel="noopener noreferrer"><span x-text="n.titular"></span><span class="sr-only"> (se abre en una pestaña nueva)</span></a> <small x-text="'(' + n.medio + ')'"></small></li>
+        </template>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="container">
+    <small>Datos: Eurostat, Banco Mundial, INE y otras fuentes oficiales, con sus licencias de reutilización. Contenido en borrador.</small>
+  </footer>
+</body>
+</html>
