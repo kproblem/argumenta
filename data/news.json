@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-08T20:10:09.290Z",
+  "actualizado": "2026-10-09T06:11:57.095Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Sven Beckert, historiador: “El capitalismo es una historia de guerra constante”",
+      "enlace": "https://www.eldiario.es/economia/sven-beckert-historiador-capitalismo-historia-guerra-constante_1_13566681.html",
+      "fecha": "Thu, 08 Oct 2026 20:34:55 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El mapa de las rentas de los caseros por código postal: cómo los barrios ricos acaparan los ingresos del alquiler",
+      "enlace": "https://www.eldiario.es/economia/mapa-rentas-caseros-codigo-postal-barrios-ricos-acaparan-ingresos-alquiler_1_13573554.html",
+      "fecha": "Thu, 08 Oct 2026 20:34:53 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las recetas del responsable económico de Vox: rumbo a la privatización de las pensiones y un IRPF a medida de los ricos",
+      "enlace": "https://www.eldiario.es/economia/recetas-responsable-economico-vox-rumbo-privatizacion-pensiones-irpf-medida-ricos_1_13572527.html",
+      "fecha": "Thu, 08 Oct 2026 20:34:53 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El decreto de vivienda pone coto al Plan Vive de Ayuso: prohíbe que los gastos extras suban los alquileres asequibles",
+      "enlace": "https://www.eldiario.es/economia/decreto-vivienda-pone-coto-plan-vive-ayuso-prohibe-gastos-extras-suban-alquileres-asequibles_1_13569109.html",
+      "fecha": "Thu, 08 Oct 2026 20:34:52 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Yolanda Díaz defiende que el salario mínimo suba por encima de la inflación y que las empresas “repartan su riqueza”",
@@ -36,30 +60,6 @@
       "titular": "La riqueza de las familias marca récord en el segundo trimestre y su deuda sobre PIB cae a mínimos de 1999",
       "enlace": "https://www.eldiario.es/economia/riqueza-familias-marca-record-segundo-trimestre-deuda-pib-cae-minimos-1999_1_13571567.html",
       "fecha": "Thu, 08 Oct 2026 09:52:47 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Bizum cumple 10 años: ya se hacen 40 pagos por segundo en España y se han transferido 310.000 millones de euros",
-      "enlace": "https://www.eldiario.es/economia/bizum-cumple-10-anos-40-pagos-segundo-espana-han-transferido-310-000-millones-euros_1_13571317.html",
-      "fecha": "Thu, 08 Oct 2026 08:52:58 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Qué es BPCE, el banco francés que ha entrado en Sabadell para evitar otra OPA como la del BBVA",
-      "enlace": "https://www.eldiario.es/economia/bpce-banco-frances-entrado-sabadell-evitar-opa-bbva_1_13569748.html",
-      "fecha": "Wed, 07 Oct 2026 22:07:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Elecciones en boom económico",
-      "enlace": "https://www.eldiario.es/economia/elecciones-boom-economico_129_13568278.html",
-      "fecha": "Wed, 07 Oct 2026 22:07:34 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Maricarmen, la mujer que prendió la revuelta de la vivienda en España y precipitó unas elecciones",
-      "enlace": "https://www.eldiario.es/economia/maricarmen-mujer-prendio-revuelta-vivienda-espana-precipito-elecciones_1_13570143.html",
-      "fecha": "Wed, 07 Oct 2026 19:50:57 +0000"
     }
   ]
 }
