@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-09T06:11:57.095Z",
+  "actualizado": "2026-10-09T09:10:24.717Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La CNMC pide flexibilizar la obligación a los centros de datos de cubrir el 80% de su consumo con renovables",
+      "enlace": "https://www.eldiario.es/economia/cnmc-pide-flexibilizar-obligacion-centros-datos-cubrir-80-consumo-renovables_1_13574342.html",
+      "fecha": "Fri, 09 Oct 2026 07:56:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo multa con 750.000 euros la rifa de un coche de lujo de un youtuber residente en Andorra",
+      "enlace": "https://www.eldiario.es/economia/consumo-multa-750-000-euros-rifa-coche-lujo-youtuber-residente-andorra_1_13572983.html",
+      "fecha": "Fri, 09 Oct 2026 07:04:13 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Sven Beckert, historiador: “El capitalismo es una historia de guerra constante”",
@@ -48,18 +60,6 @@
       "titular": "Los maquinistas de Semaf convocan seis días de huelga en Ouigo durante los puentes de noviembre y diciembre",
       "enlace": "https://www.eldiario.es/economia/maquinistas-semaf-convocan-seis-dias-huelga-ouigo-durante-puentes-noviembre-diciembre_1_13571932.html",
       "fecha": "Thu, 08 Oct 2026 10:44:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Prórrogas y precios congelados: qué cambia para inquilinos y caseros con la entrada en vigor del decreto de vivienda",
-      "enlace": "https://www.eldiario.es/economia/prorrogas-precios-congelados-cambia-inquilinos-caseros-entrada-vigor-decreto-vivienda_1_13571231.html",
-      "fecha": "Thu, 08 Oct 2026 09:55:19 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La riqueza de las familias marca récord en el segundo trimestre y su deuda sobre PIB cae a mínimos de 1999",
-      "enlace": "https://www.eldiario.es/economia/riqueza-familias-marca-record-segundo-trimestre-deuda-pib-cae-minimos-1999_1_13571567.html",
-      "fecha": "Thu, 08 Oct 2026 09:52:47 +0000"
     }
   ]
 }
