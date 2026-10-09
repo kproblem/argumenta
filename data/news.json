@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-09T09:10:24.717Z",
+  "actualizado": "2026-10-09T17:08:42.397Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La UE logra un acuerdo con China para reducir a la mitad sus exportaciones de vehículos híbridos a Europa",
+      "enlace": "https://www.eldiario.es/economia/ue-logra-acuerdo-china-reducir-mitad-exportaciones-vehiculos-hibridos-europa_1_13574933.html",
+      "fecha": "Fri, 09 Oct 2026 13:52:40 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Banco de España dispara al 2,2% su previsión del PIB en 2027 ante la “notable resiliencia” de la economía",
+      "enlace": "https://www.eldiario.es/economia/banco-espana-mejora-2-6-prevision-pib-notable-resiliencia-economia_1_13574446.html",
+      "fecha": "Fri, 09 Oct 2026 11:00:02 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El campo anuncia una \"gran tractorada\" en Madrid el 28 de octubre con las organizaciones agrarias divididas",
+      "enlace": "https://www.eldiario.es/economia/campo-anuncia-gran-tractorada-madrid-28-octubre-organizaciones-agrarias-divididas_1_13574700.html",
+      "fecha": "Fri, 09 Oct 2026 09:41:58 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El piso \"con bicho\" que tenía nombre, la cultura buitre y los sueños de mileurista",
+      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/piso-bicho-tenia-nombre-cultura-buitre-suenos-mileurista_132_13574296.html",
+      "fecha": "Fri, 09 Oct 2026 09:38:02 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La CNMC pide flexibilizar la obligación a los centros de datos de cubrir el 80% de su consumo con renovables",
@@ -33,33 +57,9 @@
     },
     {
       "medio": "elDiario.es",
-      "titular": "El decreto de vivienda pone coto al Plan Vive de Ayuso: prohíbe que los gastos extras suban los alquileres asequibles",
+      "titular": "El decreto de vivienda pone coto al Plan Vive de Ayuso: prohíbe que los gastos extra suban los alquileres asequibles",
       "enlace": "https://www.eldiario.es/economia/decreto-vivienda-pone-coto-plan-vive-ayuso-prohibe-gastos-extras-suban-alquileres-asequibles_1_13569109.html",
       "fecha": "Thu, 08 Oct 2026 20:34:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Yolanda Díaz defiende que el salario mínimo suba por encima de la inflación y que las empresas “repartan su riqueza”",
-      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-defiende-salario-minimo-suba-inflacion-empresas-repartan-riqueza_1_13572547.html",
-      "fecha": "Thu, 08 Oct 2026 12:59:40 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Un 13% de quienes comparten piso vive en la habitación con personas que no son su pareja",
-      "enlace": "https://www.eldiario.es/economia/13-comparten-piso-vive-habitacion-personas-no-son-pareja_1_13572222.html",
-      "fecha": "Thu, 08 Oct 2026 12:04:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los españoles apoyan masivamente los decretos de vivienda: un 76% cree que hay que intervenir el mercado",
-      "enlace": "https://www.eldiario.es/economia/espanoles-apoyan-masivamente-decretos-vivienda-76-cree-hay-intervenir-mercado_1_13572002.html",
-      "fecha": "Thu, 08 Oct 2026 11:02:56 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los maquinistas de Semaf convocan seis días de huelga en Ouigo durante los puentes de noviembre y diciembre",
-      "enlace": "https://www.eldiario.es/economia/maquinistas-semaf-convocan-seis-dias-huelga-ouigo-durante-puentes-noviembre-diciembre_1_13571932.html",
-      "fecha": "Thu, 08 Oct 2026 10:44:52 +0000"
     }
   ]
 }
