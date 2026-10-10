@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-09T20:07:01.783Z",
+  "actualizado": "2026-10-10T06:09:48.998Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Mariana Mazzucato, economista: “Ningún gobierno tiene el coraje, los cojones, de cambiar el sistema fiscal\"",
+      "enlace": "https://www.eldiario.es/economia/mariana-mazzucato-economista-gobierno-coraje-cojones-cambiar-sistema-fiscal_128_13567398.html",
+      "fecha": "Fri, 09 Oct 2026 20:40:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno ultima dos decretos para relanzar el autoconsumo e impulsar las comunidades energéticas",
+      "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decretos-relanzar-autoconsumo-e-impulsar-comunidades-energeticas_1_13574724.html",
+      "fecha": "Fri, 09 Oct 2026 20:40:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "España se encamina a una huelga general “a la ofensiva” por el estallido social de la crisis de la vivienda",
+      "enlace": "https://www.eldiario.es/economia/espana-encamina-huelga-general-ofensiva-estallido-social-crisis-vivienda_1_13573925.html",
+      "fecha": "Fri, 09 Oct 2026 20:40:13 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La UE logra un acuerdo con China para reducir a la mitad sus exportaciones de vehículos híbridos a Europa",
@@ -42,24 +60,6 @@
       "titular": "Sven Beckert, historiador: “El capitalismo es una historia de guerra constante”",
       "enlace": "https://www.eldiario.es/economia/sven-beckert-historiador-capitalismo-historia-guerra-constante_1_13566681.html",
       "fecha": "Thu, 08 Oct 2026 20:34:55 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El mapa de las rentas de los caseros por código postal: cómo los barrios ricos acaparan los ingresos del alquiler",
-      "enlace": "https://www.eldiario.es/economia/mapa-rentas-caseros-codigo-postal-barrios-ricos-acaparan-ingresos-alquiler_1_13573554.html",
-      "fecha": "Thu, 08 Oct 2026 20:34:53 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las recetas del responsable económico de Vox: rumbo a la privatización de las pensiones y un IRPF a medida de los ricos",
-      "enlace": "https://www.eldiario.es/economia/recetas-responsable-economico-vox-rumbo-privatizacion-pensiones-irpf-medida-ricos_1_13572527.html",
-      "fecha": "Thu, 08 Oct 2026 20:34:53 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El decreto de vivienda pone coto al Plan Vive de Ayuso: prohíbe que los gastos extra suban los alquileres asequibles",
-      "enlace": "https://www.eldiario.es/economia/decreto-vivienda-pone-coto-plan-vive-ayuso-prohibe-gastos-extras-suban-alquileres-asequibles_1_13569109.html",
-      "fecha": "Thu, 08 Oct 2026 20:34:52 +0000"
     }
   ]
 }
