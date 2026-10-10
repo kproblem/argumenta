@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-10T09:08:14.402Z",
+  "actualizado": "2026-10-10T17:06:18.914Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los frugales van ganando: la propuesta irlandesa para negociar el presupuesto europeo parte de un recorte del 8%",
+      "enlace": "https://www.eldiario.es/economia/frugales-ganando-propuesta-irlandesa-negociar-presupuesto-europeo-parte-recorte-8_1_13577038.html",
+      "fecha": "Sat, 10 Oct 2026 09:06:44 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Mariana Mazzucato, economista: “Ningún gobierno tiene el coraje, los cojones, de cambiar el sistema fiscal\"",
@@ -54,12 +60,6 @@
       "titular": "Consumo multa con 750.000 euros la rifa de un coche de lujo de un youtuber residente en Andorra",
       "enlace": "https://www.eldiario.es/economia/consumo-multa-750-000-euros-rifa-coche-lujo-youtuber-residente-andorra_1_13572983.html",
       "fecha": "Fri, 09 Oct 2026 07:04:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sven Beckert, historiador: “El capitalismo es una historia de guerra constante”",
-      "enlace": "https://www.eldiario.es/economia/sven-beckert-historiador-capitalismo-historia-guerra-constante_1_13566681.html",
-      "fecha": "Thu, 08 Oct 2026 20:34:55 +0000"
     }
   ]
 }
