@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-10T20:06:59.515Z",
+  "actualizado": "2026-10-11T06:10:08.718Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "De K Street a Mar-a-Lago: los ‘lobbies’ se reajustan a las nuevas riendas del poder ‘trumpista’",
+      "enlace": "https://www.eldiario.es/economia/k-street-mar-lago-lobbies-reajustan-nuevas-riendas-trumpista_129_13573286.html",
+      "fecha": "Sat, 10 Oct 2026 20:10:46 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La espiral de deuda en la que se ahoga Francia puede contagiar a Europa",
+      "enlace": "https://www.eldiario.es/economia/espiral-deuda-ahoga-francia-contagiar-europa_1_13574722.html",
+      "fecha": "Sat, 10 Oct 2026 20:10:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Radiografía económica de una legislatura: liderazgo en crecimiento y empleo con el lastre de la vivienda y los precios",
+      "enlace": "https://www.eldiario.es/economia/radiografia-economica-legislatura-liderazgo-crecimiento-empleo-lastre-vivienda-precios_1_13573154.html",
+      "fecha": "Sat, 10 Oct 2026 20:10:42 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los frugales van ganando: la propuesta irlandesa para negociar el presupuesto europeo parte de un recorte del 8%",
@@ -42,24 +60,6 @@
       "titular": "El campo anuncia una \"gran tractorada\" en Madrid el 28 de octubre con las organizaciones agrarias divididas",
       "enlace": "https://www.eldiario.es/economia/campo-anuncia-gran-tractorada-madrid-28-octubre-organizaciones-agrarias-divididas_1_13574700.html",
       "fecha": "Fri, 09 Oct 2026 09:41:58 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El piso \"con bicho\" que tenía nombre, la cultura buitre y los sueños de mileurista",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/piso-bicho-tenia-nombre-cultura-buitre-suenos-mileurista_132_13574296.html",
-      "fecha": "Fri, 09 Oct 2026 09:38:02 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La CNMC pide flexibilizar la obligación a los centros de datos de cubrir el 80% de su consumo con renovables",
-      "enlace": "https://www.eldiario.es/economia/cnmc-pide-flexibilizar-obligacion-centros-datos-cubrir-80-consumo-renovables_1_13574342.html",
-      "fecha": "Fri, 09 Oct 2026 07:56:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo multa con 750.000 euros la rifa de un coche de lujo de un youtuber residente en Andorra",
-      "enlace": "https://www.eldiario.es/economia/consumo-multa-750-000-euros-rifa-coche-lujo-youtuber-residente-andorra_1_13572983.html",
-      "fecha": "Fri, 09 Oct 2026 07:04:13 +0000"
     }
   ]
 }
