@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-12T09:11:47.934Z",
+  "actualizado": "2026-10-12T17:09:39.501Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
+      "enlace": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html",
+      "fecha": "Mon, 12 Oct 2026 10:03:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Claves del pacto sobre coches híbridos chinos: cupo de 350.000 vehículos al año sin afectar a los fabricados en la UE",
+      "enlace": "https://www.eldiario.es/economia/claves-pacto-coches-hibridos-chinos-cupo-350-000-vehiculos-ano-afectar-fabricados-ue_1_13579340.html",
+      "fecha": "Mon, 12 Oct 2026 09:51:35 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Ayuso, el juguete roto del Neverland de Feijóo",
@@ -48,18 +60,6 @@
       "titular": "El Gobierno ultima dos decretos para relanzar el autoconsumo e impulsar las comunidades energéticas",
       "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decretos-relanzar-autoconsumo-e-impulsar-comunidades-energeticas_1_13574724.html",
       "fecha": "Fri, 09 Oct 2026 20:40:14 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España se encamina a una huelga general “a la ofensiva” por el estallido social de la crisis de la vivienda",
-      "enlace": "https://www.eldiario.es/economia/espana-encamina-huelga-general-ofensiva-estallido-social-crisis-vivienda_1_13573925.html",
-      "fecha": "Fri, 09 Oct 2026 20:40:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La UE logra un acuerdo con China para reducir a la mitad sus exportaciones de vehículos híbridos a Europa",
-      "enlace": "https://www.eldiario.es/economia/ue-logra-acuerdo-china-reducir-mitad-exportaciones-vehiculos-hibridos-europa_1_13574933.html",
-      "fecha": "Fri, 09 Oct 2026 13:52:40 +0000"
     }
   ]
 }
