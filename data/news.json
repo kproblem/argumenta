@@ -1,9 +1,21 @@
 {
-  "actualizado": "2026-10-13T06:12:37.958Z",
+  "actualizado": "2026-10-13T09:11:16.750Z",
   "noticias": [
     {
       "medio": "elDiario.es",
-      "titular": "Renfe asume que los retrasos en el AVE entre Madrid y Barcelona pueden prolongarse durante este martes",
+      "titular": "España, junto a los países del Sur y del Este, avisan de que los recortes del presupuesto \"socavan\" a Europa",
+      "enlace": "https://www.eldiario.es/economia/espana-paises-sur-avisan-recortes-presupuesto-socavan-europa_1_13580781.html",
+      "fecha": "Tue, 13 Oct 2026 08:21:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El BOE publica el calendario laboral de 2027, con nueve festivos comunes y cuatro puentes en toda España",
+      "enlace": "https://www.eldiario.es/economia/boe-publica-calendario-laboral-2027-9-festivos-comunes-cuatro-puentes-espana_1_13580763.html",
+      "fecha": "Tue, 13 Oct 2026 07:16:08 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La alta velocidad entre Madrid y Barcelona opera con retrasos en su vuelta al servicio tras el incendio de un tren",
       "enlace": "https://www.eldiario.es/economia/renfe-asume-retrasos-ave-madrid-barcelona-prolongarse-durante-martes_1_13580671.html",
       "fecha": "Tue, 13 Oct 2026 05:25:11 +0000"
     },
@@ -48,18 +60,6 @@
       "titular": "De K Street a Mar-a-Lago: los ‘lobbies’ se reajustan a las nuevas riendas del poder ‘trumpista’",
       "enlace": "https://www.eldiario.es/economia/k-street-mar-lago-lobbies-reajustan-nuevas-riendas-trumpista_129_13573286.html",
       "fecha": "Sat, 10 Oct 2026 20:10:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La espiral de deuda en la que se ahoga Francia puede contagiar a Europa",
-      "enlace": "https://www.eldiario.es/economia/espiral-deuda-ahoga-francia-contagiar-europa_1_13574722.html",
-      "fecha": "Sat, 10 Oct 2026 20:10:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Radiografía económica de una legislatura: liderazgo en crecimiento y empleo con el lastre de la vivienda y los precios",
-      "enlace": "https://www.eldiario.es/economia/radiografia-economica-legislatura-liderazgo-crecimiento-empleo-lastre-vivienda-precios_1_13573154.html",
-      "fecha": "Sat, 10 Oct 2026 20:10:42 +0000"
     }
   ]
 }
