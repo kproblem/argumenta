@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-12T20:09:45.864Z",
+  "actualizado": "2026-10-13T06:12:37.958Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Renfe asume que los retrasos en el AVE entre Madrid y Barcelona pueden prolongarse durante este martes",
+      "enlace": "https://www.eldiario.es/economia/renfe-asume-retrasos-ave-madrid-barcelona-prolongarse-durante-martes_1_13580671.html",
+      "fecha": "Tue, 13 Oct 2026 05:25:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El FMI confirma a España como la líder de las economías avanzadas por tercer año consecutivo",
+      "enlace": "https://www.eldiario.es/economia/fmi-confirma-espana-lider-economias-avanzadas-tercer-ano-consecutivo_1_13579631.html",
+      "fecha": "Tue, 13 Oct 2026 04:01:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los créditos al consumo se disparan en medio de la subida de precios y entre acusaciones de usura",
+      "enlace": "https://www.eldiario.es/economia/creditos-consumo-disparan-medio-subida-precios-acusaciones-usura_1_13576101.html",
+      "fecha": "Mon, 12 Oct 2026 20:35:10 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
@@ -42,24 +60,6 @@
       "titular": "Radiografía económica de una legislatura: liderazgo en crecimiento y empleo con el lastre de la vivienda y los precios",
       "enlace": "https://www.eldiario.es/economia/radiografia-economica-legislatura-liderazgo-crecimiento-empleo-lastre-vivienda-precios_1_13573154.html",
       "fecha": "Sat, 10 Oct 2026 20:10:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los frugales van ganando: la propuesta irlandesa para negociar el presupuesto europeo parte de un recorte del 8%",
-      "enlace": "https://www.eldiario.es/economia/frugales-ganando-propuesta-irlandesa-negociar-presupuesto-europeo-parte-recorte-8_1_13577038.html",
-      "fecha": "Sat, 10 Oct 2026 09:06:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Mariana Mazzucato, economista: “Ningún gobierno tiene el coraje, los cojones, de cambiar el sistema fiscal\"",
-      "enlace": "https://www.eldiario.es/economia/mariana-mazzucato-economista-gobierno-coraje-cojones-cambiar-sistema-fiscal_128_13567398.html",
-      "fecha": "Fri, 09 Oct 2026 20:40:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno ultima dos decretos para relanzar el autoconsumo e impulsar las comunidades energéticas",
-      "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decretos-relanzar-autoconsumo-e-impulsar-comunidades-energeticas_1_13574724.html",
-      "fecha": "Fri, 09 Oct 2026 20:40:14 +0000"
     }
   ]
 }
