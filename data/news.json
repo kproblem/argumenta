@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-13T09:11:16.750Z",
+  "actualizado": "2026-10-13T17:10:12.294Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "CCOO y UGT piden al Gobierno que el salario mínimo suba \"al menos un 7%\" hasta los 1.300 euros en 2027",
+      "enlace": "https://www.eldiario.es/economia/ccoo-ugt-piden-gobierno-salario-minimo-suba-7-1-300-euros-2027_1_13581251.html",
+      "fecha": "Tue, 13 Oct 2026 09:51:52 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "España, junto a los países del Sur y del Este, avisan de que los recortes del presupuesto \"socavan\" a Europa",
@@ -54,12 +60,6 @@
       "titular": "La gran asignatura pendiente de la vivienda: pocos pisos públicos tanto de las comunidades como del Estado",
       "enlace": "https://www.eldiario.es/economia/gran-asignatura-pendiente-vivienda-pisos-publicos-comunidades_1_13574570.html",
       "fecha": "Sun, 11 Oct 2026 19:10:55 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "De K Street a Mar-a-Lago: los ‘lobbies’ se reajustan a las nuevas riendas del poder ‘trumpista’",
-      "enlace": "https://www.eldiario.es/economia/k-street-mar-lago-lobbies-reajustan-nuevas-riendas-trumpista_129_13573286.html",
-      "fecha": "Sat, 10 Oct 2026 20:10:46 +0000"
     }
   ]
 }
