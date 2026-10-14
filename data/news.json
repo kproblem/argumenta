@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-13T20:20:20.930Z",
+  "actualizado": "2026-10-14T06:22:35.606Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Trenes cancelados y pasajeros reubicados en el tercer día de complicaciones para la alta velocidad entre Madrid y Barcelona",
+      "enlace": "https://www.eldiario.es/economia/trenes-cancelados-pasajeros-reubicados-tercer-dia-complicaciones-alta-velocidad-madrid-barcelona_1_13583585.html",
+      "fecha": "Wed, 14 Oct 2026 05:22:05 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La Administración Trump impone una multa de 1.200 millones a Bank of America por blanqueo de capitales",
+      "enlace": "https://www.eldiario.es/economia/administracion-trump-impone-multa-1-200-millones-bank-of-america-blanqueo-capitales_1_13583459.html",
+      "fecha": "Tue, 13 Oct 2026 21:15:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La amenaza de la derecha sobre pensiones y bajas médicas se cuela en los motivos de la huelga general del 11N",
+      "enlace": "https://www.eldiario.es/economia/amenaza-derecha-pensiones-bajas-medicas-cuela-motivos-huelga-general-11n_1_13582344.html",
+      "fecha": "Tue, 13 Oct 2026 20:57:30 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La mayoría de españoles apoya la huelga general y un 64% dice que la crisis de la vivienda le anima a votar",
+      "enlace": "https://www.eldiario.es/economia/mayoria-espanoles-apoya-huelga-general-64-dice-crisis-vivienda-le-anima-votar_1_13582090.html",
+      "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Inquilinos contra caseros: la nueva fractura de clase",
+      "enlace": "https://www.eldiario.es/economia/inquilinos-caseros-nueva-fractura-clase_129_13581045.html",
+      "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "CCOO y UGT piden al Gobierno que el salario mínimo suba \"al menos un 7%\" hasta los 1.300 euros en 2027",
@@ -30,36 +60,6 @@
       "titular": "El FMI confirma a España como la líder de las economías avanzadas por tercer año consecutivo",
       "enlace": "https://www.eldiario.es/economia/fmi-confirma-espana-lider-economias-avanzadas-tercer-ano-consecutivo_1_13579631.html",
       "fecha": "Tue, 13 Oct 2026 04:01:22 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los créditos al consumo se disparan en medio de la subida de precios y entre acusaciones de usura",
-      "enlace": "https://www.eldiario.es/economia/creditos-consumo-disparan-medio-subida-precios-acusaciones-usura_1_13576101.html",
-      "fecha": "Mon, 12 Oct 2026 20:35:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Robert Hall y Michael Woodford ganan el Nobel de Economía por \"ayudar a suavizar los altibajos de la economía\"",
-      "enlace": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html",
-      "fecha": "Mon, 12 Oct 2026 10:03:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Claves del pacto sobre coches híbridos chinos: cupo de 350.000 vehículos al año sin afectar a los fabricados en la UE",
-      "enlace": "https://www.eldiario.es/economia/claves-pacto-coches-hibridos-chinos-cupo-350-000-vehiculos-ano-afectar-fabricados-ue_1_13579340.html",
-      "fecha": "Mon, 12 Oct 2026 09:51:35 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ayuso, el juguete roto del Neverland de Feijóo",
-      "enlace": "https://www.eldiario.es/economia/ayuso-juguete-roto-neverland-feijoo_129_13575852.html",
-      "fecha": "Sun, 11 Oct 2026 19:10:56 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La gran asignatura pendiente de la vivienda: pocos pisos públicos tanto de las comunidades como del Estado",
-      "enlace": "https://www.eldiario.es/economia/gran-asignatura-pendiente-vivienda-pisos-publicos-comunidades_1_13574570.html",
-      "fecha": "Sun, 11 Oct 2026 19:10:55 +0000"
     }
   ]
 }
