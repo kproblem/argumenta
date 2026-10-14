@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-14T17:22:05.783Z",
+  "actualizado": "2026-10-14T20:21:51.952Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno prevé un coste de 1.200 millones en bonificaciones a caseros e inquilinos y recaudar 200 por el IVA a pisos turísticos",
+      "enlace": "https://www.eldiario.es/economia/gobierno-preve-coste-1-200-millones-bonificaciones-caseros-e-inquilinos-recaudar-200-iva-pisos-turisticos_1_13576221.html",
+      "fecha": "Wed, 14 Oct 2026 20:18:23 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Netflix prepara el despido de unos 1.000 empleados, el 6% de su plantilla, la mayor ronda desde 2022",
@@ -54,12 +60,6 @@
       "titular": "La amenaza de la derecha sobre pensiones y bajas médicas se cuela en los motivos de la huelga general del 11N",
       "enlace": "https://www.eldiario.es/economia/amenaza-derecha-pensiones-bajas-medicas-cuela-motivos-huelga-general-11n_1_13582344.html",
       "fecha": "Tue, 13 Oct 2026 20:57:30 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La mayoría de españoles apoya la huelga general y la crisis de la vivienda moviliza más a la izquierda para votar",
-      "enlace": "https://www.eldiario.es/economia/mayoria-espanoles-apoya-huelga-general-64-dice-crisis-vivienda-le-anima-votar_1_13582090.html",
-      "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
     }
   ]
 }
