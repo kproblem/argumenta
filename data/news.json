@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-14T09:23:07.007Z",
+  "actualizado": "2026-10-14T17:22:05.783Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Netflix prepara el despido de unos 1.000 empleados, el 6% de su plantilla, la mayor ronda desde 2022",
+      "enlace": "https://www.eldiario.es/economia/netflix-prepara-despido-1-000-empleados-6-plantilla-mayor-ronda-2022_1_13585676.html",
+      "fecha": "Wed, 14 Oct 2026 14:58:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Avatel anuncia a los sindicatos un ERE para 444 trabajadores, un tercio de la plantilla",
+      "enlace": "https://www.eldiario.es/economia/avatel-anuncia-sindicatos-ere-444-empleados-tercio-plantilla_1_13585539.html",
+      "fecha": "Wed, 14 Oct 2026 14:11:10 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Lufthansa gana la puja por TAP: Portugal vende el 49,9% de la aerolínea por 1.201 millones",
+      "enlace": "https://www.eldiario.es/economia/lufthansa-gana-puja-tap-portugal-vende-49-9-aerolinea-1-201-millones_1_13585413.html",
+      "fecha": "Wed, 14 Oct 2026 13:30:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La inflación acelera en EEUU al 3,7% a tres meses de las legislativas disparada por los precios de la energía a causa de la guerra en Irán",
+      "enlace": "https://www.eldiario.es/economia/inflacion-acelera-eeuu-3-7-tres-meses-legislativas-disparada-precios-energia-causa-guerra-iran_1_13585213.html",
+      "fecha": "Wed, 14 Oct 2026 12:42:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La 'cara B' que esconde el simulador de sueldos de Vox que concentra el \"ahorro fiscal\" en las rentas altas",
+      "enlace": "https://www.eldiario.es/economia/cara-b-esconde-simulador-sueldos-vox-concentra-ahorro-fiscal-rentas-altas_1_13584016.html",
+      "fecha": "Wed, 14 Oct 2026 09:45:43 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El INE confirma que el IPC cerró en el 4,9% en septiembre y mantiene la rebaja de 20 céntimos en gasolina y diésel en noviembre",
@@ -30,36 +60,6 @@
       "titular": "La mayoría de españoles apoya la huelga general y la crisis de la vivienda moviliza más a la izquierda para votar",
       "enlace": "https://www.eldiario.es/economia/mayoria-espanoles-apoya-huelga-general-64-dice-crisis-vivienda-le-anima-votar_1_13582090.html",
       "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Inquilinos contra caseros: la nueva fractura de clase",
-      "enlace": "https://www.eldiario.es/economia/inquilinos-caseros-nueva-fractura-clase_129_13581045.html",
-      "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "CCOO y UGT piden al Gobierno que el salario mínimo suba \"al menos un 7%\" hasta los 1.300 euros en 2027",
-      "enlace": "https://www.eldiario.es/economia/ccoo-ugt-piden-gobierno-salario-minimo-suba-7-1-300-euros-2027_1_13581251.html",
-      "fecha": "Tue, 13 Oct 2026 09:51:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España, junto a los países del Sur y del Este, avisan de que los recortes del presupuesto \"socavan\" a Europa",
-      "enlace": "https://www.eldiario.es/economia/espana-paises-sur-avisan-recortes-presupuesto-socavan-europa_1_13580781.html",
-      "fecha": "Tue, 13 Oct 2026 08:21:14 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El BOE publica el calendario laboral de 2027, con nueve festivos comunes y cuatro puentes en toda España",
-      "enlace": "https://www.eldiario.es/economia/boe-publica-calendario-laboral-2027-9-festivos-comunes-cuatro-puentes-espana_1_13580763.html",
-      "fecha": "Tue, 13 Oct 2026 07:16:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La alta velocidad entre Madrid y Barcelona opera con retrasos en su vuelta al servicio tras el incendio de un tren",
-      "enlace": "https://www.eldiario.es/economia/renfe-asume-retrasos-ave-madrid-barcelona-prolongarse-durante-martes_1_13580671.html",
-      "fecha": "Tue, 13 Oct 2026 05:25:11 +0000"
     }
   ]
 }
