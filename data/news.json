@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-14T06:22:35.606Z",
+  "actualizado": "2026-10-14T09:23:07.007Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El INE confirma que el IPC cerró en el 4,9% en septiembre y mantiene la rebaja de 20 céntimos en gasolina y diésel en noviembre",
+      "enlace": "https://www.eldiario.es/economia/ine-confirma-ipc-cerro-4-9-septiembre-mantiene-rebaja-20-centimos-gasolina-diesel-noviembre_1_13583669.html",
+      "fecha": "Wed, 14 Oct 2026 07:00:35 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Trenes cancelados y pasajeros reubicados en el tercer día de complicaciones para la alta velocidad entre Madrid y Barcelona",
@@ -21,7 +27,7 @@
     },
     {
       "medio": "elDiario.es",
-      "titular": "La mayoría de españoles apoya la huelga general y un 64% dice que la crisis de la vivienda le anima a votar",
+      "titular": "La mayoría de españoles apoya la huelga general y la crisis de la vivienda moviliza más a la izquierda para votar",
       "enlace": "https://www.eldiario.es/economia/mayoria-espanoles-apoya-huelga-general-64-dice-crisis-vivienda-le-anima-votar_1_13582090.html",
       "fecha": "Tue, 13 Oct 2026 20:57:29 +0000"
     },
@@ -54,12 +60,6 @@
       "titular": "La alta velocidad entre Madrid y Barcelona opera con retrasos en su vuelta al servicio tras el incendio de un tren",
       "enlace": "https://www.eldiario.es/economia/renfe-asume-retrasos-ave-madrid-barcelona-prolongarse-durante-martes_1_13580671.html",
       "fecha": "Tue, 13 Oct 2026 05:25:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El FMI confirma a España como la líder de las economías avanzadas por tercer año consecutivo",
-      "enlace": "https://www.eldiario.es/economia/fmi-confirma-espana-lider-economias-avanzadas-tercer-ano-consecutivo_1_13579631.html",
-      "fecha": "Tue, 13 Oct 2026 04:01:22 +0000"
     }
   ]
 }
