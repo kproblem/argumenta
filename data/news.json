@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-15T09:23:06.369Z",
+  "actualizado": "2026-10-15T17:22:28.932Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Unos mil delegados de CCOO protestan ante las sedes de los bancos para que negocien mejoras para sus plantillas",
+      "enlace": "https://www.eldiario.es/economia/mil-delegados-ccoo-protestan-sedes-bancos-negocien-mejoras-empleados_1_13588866.html",
+      "fecha": "Thu, 15 Oct 2026 15:10:28 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La patronal ve \"increíble\" que el Gobierno use su \"poder\" para subir el salario mínimo en periodo electoral",
+      "enlace": "https://www.eldiario.es/economia/patronal-ve-increible-gobierno-use-subir-salario-minimo-periodo-electoral_1_13588699.html",
+      "fecha": "Thu, 15 Oct 2026 14:43:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Facua denuncia a los 6 grandes portales inmobiliarios por incumplir el nuevo decreto en sus anuncios de alquiler",
+      "enlace": "https://www.eldiario.es/economia/facua-denuncia-6-grandes-portales-inmobiliarios-incumplir-nuevo-decreto-anuncios-alquiler_1_13588698.html",
+      "fecha": "Thu, 15 Oct 2026 14:31:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Red Eléctrica prohíbe parar centrales por mantenimiento tras declararse no disponibles el 35% de las plantas de gas",
+      "enlace": "https://www.eldiario.es/economia/red-electrica-prohibe-parar-centrales-mantenimiento-declararse-no-disponibles-35-plantas-gas_1_13587862.html",
+      "fecha": "Thu, 15 Oct 2026 11:37:58 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los sindicatos presionan al Gobierno para que apruebe la subida salarial de los funcionarios del 4,5% para 2027",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-presionan-gobierno-apruebe-subida-salarial-funcionarios-4-5-2027_1_13587428.html",
+      "fecha": "Thu, 15 Oct 2026 10:28:50 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Gobierno abre la puerta a aprobar, tras las elecciones y en funciones, la subida de las pensiones",
@@ -30,36 +60,6 @@
       "titular": "Por qué el sistema público de pensiones ni \"está quebrado\" ni \"va a petar\" como dicen PP y Vox",
       "enlace": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
       "fecha": "Wed, 14 Oct 2026 20:32:56 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno prevé un coste de 1.200 millones en bonificaciones a caseros e inquilinos y recaudar 200 por el IVA a pisos turísticos",
-      "enlace": "https://www.eldiario.es/economia/gobierno-preve-coste-1-200-millones-bonificaciones-caseros-e-inquilinos-recaudar-200-iva-pisos-turisticos_1_13576221.html",
-      "fecha": "Wed, 14 Oct 2026 20:18:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Netflix prepara el despido de unos 1.000 empleados, el 6% de su plantilla, la mayor ronda desde 2022",
-      "enlace": "https://www.eldiario.es/economia/netflix-prepara-despido-1-000-empleados-6-plantilla-mayor-ronda-2022_1_13585676.html",
-      "fecha": "Wed, 14 Oct 2026 14:58:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Avatel anuncia a los sindicatos un ERE para 444 trabajadores, un tercio de la plantilla",
-      "enlace": "https://www.eldiario.es/economia/avatel-anuncia-sindicatos-ere-444-empleados-tercio-plantilla_1_13585539.html",
-      "fecha": "Wed, 14 Oct 2026 14:11:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Lufthansa gana la puja por TAP: Portugal vende el 49,9% de la aerolínea por 1.201 millones",
-      "enlace": "https://www.eldiario.es/economia/lufthansa-gana-puja-tap-portugal-vende-49-9-aerolinea-1-201-millones_1_13585413.html",
-      "fecha": "Wed, 14 Oct 2026 13:30:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La inflación acelera en EEUU al 3,7% a tres meses de las legislativas disparada por los precios de la energía a causa de la guerra en Irán",
-      "enlace": "https://www.eldiario.es/economia/inflacion-acelera-eeuu-3-7-tres-meses-legislativas-disparada-precios-energia-causa-guerra-iran_1_13585213.html",
-      "fecha": "Wed, 14 Oct 2026 12:42:49 +0000"
     }
   ]
 }
