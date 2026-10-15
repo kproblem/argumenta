@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-15T06:23:33.721Z",
+  "actualizado": "2026-10-15T09:23:06.369Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno abre la puerta a aprobar, tras las elecciones y en funciones, la subida de las pensiones",
+      "enlace": "https://www.eldiario.es/economia/gobierno-abre-puerta-aprobar-elecciones-funciones-subida-pensiones_1_13586929.html",
+      "fecha": "Thu, 15 Oct 2026 07:42:55 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno hace cambios en la CNMC: crea un Economista Jefe y una Subdirección de Inteligencia Económica",
+      "enlace": "https://www.eldiario.es/economia/gobierno-cambios-cnmc-crea-economista-jefe-subdireccion-inteligencia-economica_1_13586856.html",
+      "fecha": "Thu, 15 Oct 2026 07:16:38 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La banca ética suma 200.000 clientes en España y ya concentra el 30% de su crédito en vivienda",
+      "enlace": "https://www.eldiario.es/economia/banca-etica-suma-200-000-clientes-espana-concentra-30-credito-vivienda_1_13585776.html",
+      "fecha": "Thu, 15 Oct 2026 06:53:57 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El síndrome de Francia",
@@ -9,7 +27,7 @@
     },
     {
       "medio": "elDiario.es",
-      "titular": "Del sistema de pensiones \"quebrado\" de Vox al \"va a petar\" del PP: las alarmas que no avalan Bruselas ni la AIReF",
+      "titular": "Por qué el sistema público de pensiones ni \"está quebrado\" ni \"va a petar\" como dicen PP y Vox",
       "enlace": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
       "fecha": "Wed, 14 Oct 2026 20:32:56 +0000"
     },
@@ -42,24 +60,6 @@
       "titular": "La inflación acelera en EEUU al 3,7% a tres meses de las legislativas disparada por los precios de la energía a causa de la guerra en Irán",
       "enlace": "https://www.eldiario.es/economia/inflacion-acelera-eeuu-3-7-tres-meses-legislativas-disparada-precios-energia-causa-guerra-iran_1_13585213.html",
       "fecha": "Wed, 14 Oct 2026 12:42:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La 'cara B' que esconde el simulador de sueldos de Vox que concentra el \"ahorro fiscal\" en las rentas altas",
-      "enlace": "https://www.eldiario.es/economia/cara-b-esconde-simulador-sueldos-vox-concentra-ahorro-fiscal-rentas-altas_1_13584016.html",
-      "fecha": "Wed, 14 Oct 2026 09:45:43 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El INE confirma que el IPC cerró en el 4,9% en septiembre y mantiene la rebaja de 20 céntimos en gasolina y diésel en noviembre",
-      "enlace": "https://www.eldiario.es/economia/ine-confirma-ipc-cerro-4-9-septiembre-mantiene-rebaja-20-centimos-gasolina-diesel-noviembre_1_13583669.html",
-      "fecha": "Wed, 14 Oct 2026 07:00:35 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Trenes cancelados y pasajeros reubicados en el tercer día de complicaciones para la alta velocidad entre Madrid y Barcelona",
-      "enlace": "https://www.eldiario.es/economia/trenes-cancelados-pasajeros-reubicados-tercer-dia-complicaciones-alta-velocidad-madrid-barcelona_1_13583585.html",
-      "fecha": "Wed, 14 Oct 2026 05:22:05 +0000"
     }
   ]
 }
