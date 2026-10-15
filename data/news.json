@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-15T17:22:28.932Z",
+  "actualizado": "2026-10-15T20:18:54.807Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Motosierra o seguridad? Las pensiones también se votan el 29-N",
+      "enlace": "https://www.eldiario.es/economia/motosierra-seguridad-pensiones-votan-29-n_129_13587308.html",
+      "fecha": "Thu, 15 Oct 2026 20:03:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Amnistía fiscal y herencia millonaria: la inmobiliaria de dos hermanos con 1.200 pisos de \"flex living\" en Madrid",
+      "enlace": "https://www.eldiario.es/economia/amnistia-fiscal-herencia-millonaria-inmobiliaria-hermanos-1-200-pisos-flex-living-madrid_1_13570040.html",
+      "fecha": "Thu, 15 Oct 2026 20:03:50 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Unos mil delegados de CCOO protestan ante las sedes de los bancos para que negocien mejoras para sus plantillas",
@@ -48,18 +60,6 @@
       "titular": "La banca ética suma 200.000 clientes en España y ya concentra el 30% de su crédito en vivienda",
       "enlace": "https://www.eldiario.es/economia/banca-etica-suma-200-000-clientes-espana-concentra-30-credito-vivienda_1_13585776.html",
       "fecha": "Thu, 15 Oct 2026 06:53:57 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El síndrome de Francia",
-      "enlace": "https://www.eldiario.es/economia/sindrome-francia_129_13586102.html",
-      "fecha": "Wed, 14 Oct 2026 20:32:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Por qué el sistema público de pensiones ni \"está quebrado\" ni \"va a petar\" como dicen PP y Vox",
-      "enlace": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
-      "fecha": "Wed, 14 Oct 2026 20:32:56 +0000"
     }
   ]
 }
