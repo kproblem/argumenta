@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-16T09:22:12.437Z",
+  "actualizado": "2026-10-16T17:18:39.679Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Supremo rechaza que las empresas limiten el permiso para cuidar a familiares graves a cinco días al año",
+      "enlace": "https://www.eldiario.es/economia/supremo-rechaza-empresas-limiten-permiso-cuidar-familiares-graves-cinco-dias-ano_1_13592361.html",
+      "fecha": "Fri, 16 Oct 2026 15:48:53 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los maquinistas de Semaf convocan huelga en Renfe el 29 de octubre",
+      "enlace": "https://www.eldiario.es/economia/maquinistas-semaf-convocan-huelga-renfe-29-octubre_1_13592383.html",
+      "fecha": "Fri, 16 Oct 2026 15:45:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Parlamento alemán aprueba la reforma de Merz que dará 10 euros a cada niño para invertir en un plan de pensiones",
+      "enlace": "https://www.eldiario.es/economia/parlamento-aleman-aprueba-reforma-merz-dara-10-euros-nino-invertir-plan-pensiones_1_13592310.html",
+      "fecha": "Fri, 16 Oct 2026 15:19:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Mahle anuncia otro ERE en Motilla del Palancar que afecta a 170 trabajadores",
+      "enlace": "https://www.eldiario.es/economia/mahle-anuncia-ere-motilla-palancar-afecta-170-trabajadores_1_13592183.html",
+      "fecha": "Fri, 16 Oct 2026 15:02:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Congreso aprueba la prórroga de las rebajas fiscales en las gasolinas y el tope a la tarifa del gas por la guerra en Irán",
+      "enlace": "https://www.eldiario.es/economia/congreso-aprueba-prorroga-rebajas-fiscales-gasolinas-tope-tarifa-gas-guerra-iran_1_13591216.html",
+      "fecha": "Fri, 16 Oct 2026 11:35:06 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "En manos del \"buen casero\", presión turística en Cádiz y otras cartas de los lectores",
+      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/manos-buen-casero-presion-turistica-cadiz-cartas-lectores_132_13590333.html",
+      "fecha": "Fri, 16 Oct 2026 09:25:41 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los desahucios por alquiler e hipoteca caen un 35,7 % en el segundo trimestre",
@@ -24,42 +60,6 @@
       "titular": "¿Motosierra o seguridad? Las pensiones también se votan el 29-N",
       "enlace": "https://www.eldiario.es/economia/motosierra-seguridad-pensiones-votan-29-n_129_13587308.html",
       "fecha": "Thu, 15 Oct 2026 20:03:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Amnistía fiscal y herencia millonaria: la inmobiliaria de dos hermanos con 1.200 pisos de \"flex living\" en Madrid",
-      "enlace": "https://www.eldiario.es/economia/amnistia-fiscal-herencia-millonaria-inmobiliaria-hermanos-1-200-pisos-flex-living-madrid_1_13570040.html",
-      "fecha": "Thu, 15 Oct 2026 20:03:50 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Unos mil delegados de CCOO protestan ante las sedes de los bancos para que negocien mejoras para sus plantillas",
-      "enlace": "https://www.eldiario.es/economia/mil-delegados-ccoo-protestan-sedes-bancos-negocien-mejoras-empleados_1_13588866.html",
-      "fecha": "Thu, 15 Oct 2026 15:10:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La patronal ve \"increíble\" que el Gobierno use su \"poder\" para subir el salario mínimo en periodo electoral",
-      "enlace": "https://www.eldiario.es/economia/patronal-ve-increible-gobierno-use-subir-salario-minimo-periodo-electoral_1_13588699.html",
-      "fecha": "Thu, 15 Oct 2026 14:43:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Facua denuncia a los 6 grandes portales inmobiliarios por incumplir el nuevo decreto en sus anuncios de alquiler",
-      "enlace": "https://www.eldiario.es/economia/facua-denuncia-6-grandes-portales-inmobiliarios-incumplir-nuevo-decreto-anuncios-alquiler_1_13588698.html",
-      "fecha": "Thu, 15 Oct 2026 14:31:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Red Eléctrica prohíbe parar centrales por mantenimiento tras declararse no disponibles el 35% de las plantas de gas",
-      "enlace": "https://www.eldiario.es/economia/red-electrica-prohibe-parar-centrales-mantenimiento-declararse-no-disponibles-35-plantas-gas_1_13587862.html",
-      "fecha": "Thu, 15 Oct 2026 11:37:58 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los sindicatos presionan al Gobierno para que apruebe la subida salarial de los funcionarios del 4,5% para 2027",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-presionan-gobierno-apruebe-subida-salarial-funcionarios-4-5-2027_1_13587428.html",
-      "fecha": "Thu, 15 Oct 2026 10:28:50 +0000"
     }
   ]
 }
