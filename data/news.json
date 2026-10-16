@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-16T06:22:32.177Z",
+  "actualizado": "2026-10-16T09:22:12.437Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los desahucios por alquiler e hipoteca caen un 35,7 % en el segundo trimestre",
+      "enlace": "https://www.eldiario.es/economia/desahucios-alquiler-e-hipoteca-caen-35-7-segundo-trimestre-cgpj_1_13590285.html",
+      "fecha": "Fri, 16 Oct 2026 08:43:34 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo abre un expediente a una gran empresa de telecomunicaciones por \"prácticas abusivas\"",
+      "enlace": "https://www.eldiario.es/economia/consumo-abre-expediente-gran-empresa-telecomunicaciones-practicas-abusivas_1_13590059.html",
+      "fecha": "Fri, 16 Oct 2026 07:47:52 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las negociaciones para acordar el presupuesto europeo naufragan ante posturas irreconciliables",
@@ -48,18 +60,6 @@
       "titular": "Los sindicatos presionan al Gobierno para que apruebe la subida salarial de los funcionarios del 4,5% para 2027",
       "enlace": "https://www.eldiario.es/economia/sindicatos-presionan-gobierno-apruebe-subida-salarial-funcionarios-4-5-2027_1_13587428.html",
       "fecha": "Thu, 15 Oct 2026 10:28:50 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno abre la puerta a aprobar, tras las elecciones y en funciones, la subida de las pensiones",
-      "enlace": "https://www.eldiario.es/economia/gobierno-abre-puerta-aprobar-elecciones-funciones-subida-pensiones_1_13586929.html",
-      "fecha": "Thu, 15 Oct 2026 07:42:55 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno hace cambios en la CNMC: crea un Economista Jefe y una Subdirección de Inteligencia Económica",
-      "enlace": "https://www.eldiario.es/economia/gobierno-cambios-cnmc-crea-economista-jefe-subdireccion-inteligencia-economica_1_13586856.html",
-      "fecha": "Thu, 15 Oct 2026 07:16:38 +0000"
     }
   ]
 }
