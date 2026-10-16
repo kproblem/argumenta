@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-15T20:18:54.807Z",
+  "actualizado": "2026-10-16T06:22:32.177Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las negociaciones para acordar el presupuesto europeo naufragan ante posturas irreconciliables",
+      "enlace": "https://www.eldiario.es/economia/negociaciones-acordar-presupuesto-europeo-naufragan-posturas-irreconciliables_1_13588976.html",
+      "fecha": "Thu, 15 Oct 2026 20:40:51 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "¿Motosierra o seguridad? Las pensiones también se votan el 29-N",
@@ -54,12 +60,6 @@
       "titular": "El Gobierno hace cambios en la CNMC: crea un Economista Jefe y una Subdirección de Inteligencia Económica",
       "enlace": "https://www.eldiario.es/economia/gobierno-cambios-cnmc-crea-economista-jefe-subdireccion-inteligencia-economica_1_13586856.html",
       "fecha": "Thu, 15 Oct 2026 07:16:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La banca ética suma 200.000 clientes en España y ya concentra el 30% de su crédito en vivienda",
-      "enlace": "https://www.eldiario.es/economia/banca-etica-suma-200-000-clientes-espana-concentra-30-credito-vivienda_1_13585776.html",
-      "fecha": "Thu, 15 Oct 2026 06:53:57 +0000"
     }
   ]
 }
