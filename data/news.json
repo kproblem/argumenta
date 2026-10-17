@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-16T20:15:25.861Z",
+  "actualizado": "2026-10-17T06:18:52.398Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El mundo vive endeudado, el FMI pide un ajuste y los gobiernos no se dan por aludidos",
+      "enlace": "https://www.eldiario.es/economia/mundo-vive-endeudado-fmi-pide-ajuste-gobiernos-no-dan-aludidos_129_13590463.html",
+      "fecha": "Fri, 16 Oct 2026 22:28:23 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La medida antispam que arranca este sábado: todas las llamadas comerciales tienen que empezar con el prefijo 400",
+      "enlace": "https://www.eldiario.es/economia/medida-antispam-arranca-sabado-llamadas-comerciales-empezar-prefijo-400_1_13587279.html",
+      "fecha": "Fri, 16 Oct 2026 22:28:21 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno mira a Irlanda y sus medidas ante el \"significativo riesgo\" de apagones por culpa de los centros de datos",
+      "enlace": "https://www.eldiario.es/economia/gobierno-mira-irlanda-medidas-significativo-riesgo-apagones-culpa-centros-datos_1_13584339.html",
+      "fecha": "Fri, 16 Oct 2026 22:28:21 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Supremo rechaza que las empresas limiten el permiso para cuidar a familiares graves a cinco días al año",
@@ -42,24 +60,6 @@
       "titular": "Los desahucios por alquiler e hipoteca caen un 35,7 % en el segundo trimestre",
       "enlace": "https://www.eldiario.es/economia/desahucios-alquiler-e-hipoteca-caen-35-7-segundo-trimestre-cgpj_1_13590285.html",
       "fecha": "Fri, 16 Oct 2026 08:43:34 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo abre un expediente a una gran empresa de telecomunicaciones por \"prácticas abusivas\"",
-      "enlace": "https://www.eldiario.es/economia/consumo-abre-expediente-gran-empresa-telecomunicaciones-practicas-abusivas_1_13590059.html",
-      "fecha": "Fri, 16 Oct 2026 07:47:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las negociaciones para acordar el presupuesto europeo naufragan ante posturas irreconciliables",
-      "enlace": "https://www.eldiario.es/economia/negociaciones-acordar-presupuesto-europeo-naufragan-posturas-irreconciliables_1_13588976.html",
-      "fecha": "Thu, 15 Oct 2026 20:40:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Motosierra o seguridad? Las pensiones también se votan el 29-N",
-      "enlace": "https://www.eldiario.es/economia/motosierra-seguridad-pensiones-votan-29-n_129_13587308.html",
-      "fecha": "Thu, 15 Oct 2026 20:03:54 +0000"
     }
   ]
 }
