@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-17T20:11:15.783Z",
+  "actualizado": "2026-10-18T06:17:56.710Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
+      "enlace": "https://www.eldiario.es/economia/vacaciones-productivos-reino-unido-dice-si_129_13589076.html",
+      "fecha": "Sat, 17 Oct 2026 20:11:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Han retirado los caseros sus ofertas de alquiler por los decretos de vivienda?",
+      "enlace": "https://www.eldiario.es/economia/han-retirado-caseros-ofertas-alquiler-decretos-vivienda_1_13591130.html",
+      "fecha": "Sat, 17 Oct 2026 20:11:42 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El mundo vive endeudado, el FMI pide un ajuste y los gobiernos no se dan por aludidos",
@@ -48,18 +60,6 @@
       "titular": "El Congreso aprueba la prórroga de las rebajas fiscales en las gasolinas y el tope a la tarifa del gas por la guerra en Irán",
       "enlace": "https://www.eldiario.es/economia/congreso-aprueba-prorroga-rebajas-fiscales-gasolinas-tope-tarifa-gas-guerra-iran_1_13591216.html",
       "fecha": "Fri, 16 Oct 2026 11:35:06 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "En manos del \"buen casero\", presión turística en Cádiz y otras cartas de los lectores",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/manos-buen-casero-presion-turistica-cadiz-cartas-lectores_132_13590333.html",
-      "fecha": "Fri, 16 Oct 2026 09:25:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los desahucios por alquiler e hipoteca caen un 35,7 % en el segundo trimestre",
-      "enlace": "https://www.eldiario.es/economia/desahucios-alquiler-e-hipoteca-caen-35-7-segundo-trimestre-cgpj_1_13590285.html",
-      "fecha": "Fri, 16 Oct 2026 08:43:34 +0000"
     }
   ]
 }
