@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-18T17:15:46.947Z",
+  "actualizado": "2026-10-18T20:11:30.865Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los impuestos en campaña",
+      "enlace": "https://www.eldiario.es/economia/impuestos-campana_129_13587782.html",
+      "fecha": "Sun, 18 Oct 2026 19:47:38 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Ajuste fiscal frente a gasto público: los modelos económicos de Lula y Bolsonaro se enfrentan en las urnas",
+      "enlace": "https://www.eldiario.es/economia/ajuste-fiscal-frente-gasto-publico-modelos-economicos-lula-bolsonaro-enfrentan-urnas_1_13592407.html",
+      "fecha": "Sun, 18 Oct 2026 19:47:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Más de 3,4 millones de personas pueden teletrabajar, pero no lo permiten sus empresas",
+      "enlace": "https://www.eldiario.es/economia/3-4-millones-personas-teletrabajar-no-permiten-empresas_1_13590326.html",
+      "fecha": "Sun, 18 Oct 2026 19:47:32 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
@@ -42,24 +60,6 @@
       "titular": "Los maquinistas de Semaf convocan huelga en Renfe el 29 de octubre",
       "enlace": "https://www.eldiario.es/economia/maquinistas-semaf-convocan-huelga-renfe-29-octubre_1_13592383.html",
       "fecha": "Fri, 16 Oct 2026 15:45:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Parlamento alemán aprueba la reforma de Merz que dará 10 euros a cada niño para invertir en un plan de pensiones",
-      "enlace": "https://www.eldiario.es/economia/parlamento-aleman-aprueba-reforma-merz-dara-10-euros-nino-invertir-plan-pensiones_1_13592310.html",
-      "fecha": "Fri, 16 Oct 2026 15:19:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Mahle anuncia otro ERE en Motilla del Palancar que afecta a 170 trabajadores",
-      "enlace": "https://www.eldiario.es/economia/mahle-anuncia-ere-motilla-palancar-afecta-170-trabajadores_1_13592183.html",
-      "fecha": "Fri, 16 Oct 2026 15:02:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Congreso aprueba la prórroga de las rebajas fiscales en las gasolinas y el tope a la tarifa del gas por la guerra en Irán",
-      "enlace": "https://www.eldiario.es/economia/congreso-aprueba-prorroga-rebajas-fiscales-gasolinas-tope-tarifa-gas-guerra-iran_1_13591216.html",
-      "fecha": "Fri, 16 Oct 2026 11:35:06 +0000"
     }
   ]
 }
