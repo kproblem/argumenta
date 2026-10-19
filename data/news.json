@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-19T06:27:41.308Z",
+  "actualizado": "2026-10-19T09:26:51.447Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno ultima un decreto con mejoras en las prestaciones por cuidados de menores, viudedad o incapacidad",
+      "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decreto-mejoras-prestaciones-cuidados-menores-viudedad-incapacidad_1_13596145.html",
+      "fecha": "Mon, 19 Oct 2026 08:31:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Santander y Nvidia llegan a un acuerdo de tres años para desplegar la IA en todo el banco",
+      "enlace": "https://www.eldiario.es/economia/santander-nvidia-llegan-acuerdo-tres-anos-desplegar-ia-banco_1_13596011.html",
+      "fecha": "Mon, 19 Oct 2026 07:16:03 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los impuestos en campaña",
@@ -48,18 +60,6 @@
       "titular": "El Gobierno mira a Irlanda y sus medidas ante el \"significativo riesgo\" de apagones por culpa de los centros de datos",
       "enlace": "https://www.eldiario.es/economia/gobierno-mira-irlanda-medidas-significativo-riesgo-apagones-culpa-centros-datos_1_13584339.html",
       "fecha": "Fri, 16 Oct 2026 22:28:21 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Supremo rechaza que las empresas limiten el permiso para cuidar a familiares graves a cinco días al año",
-      "enlace": "https://www.eldiario.es/economia/supremo-rechaza-empresas-limiten-permiso-cuidar-familiares-graves-cinco-dias-ano_1_13592361.html",
-      "fecha": "Fri, 16 Oct 2026 15:48:53 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los maquinistas de Semaf convocan huelga en Renfe el 29 de octubre",
-      "enlace": "https://www.eldiario.es/economia/maquinistas-semaf-convocan-huelga-renfe-29-octubre_1_13592383.html",
-      "fecha": "Fri, 16 Oct 2026 15:45:16 +0000"
     }
   ]
 }
