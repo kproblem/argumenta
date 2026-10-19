@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-19T09:26:51.447Z",
+  "actualizado": "2026-10-19T17:20:30.977Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Garamendi confirma que los empresarios impugnarán la huelga general por considerarla ilegal y \"electoral\"",
+      "enlace": "https://www.eldiario.es/economia/garamendi-confirma-empresarios-impugnaran-huelga-general-considerarla-ilegal-electoral_1_13597719.html",
+      "fecha": "Mon, 19 Oct 2026 14:01:42 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno aprueba 2.000 nuevas plazas de residencias universitarias por 45 millones",
+      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-2-000-nuevas-plazas-residencias-universitarias-45-millones_1_13597205.html",
+      "fecha": "Mon, 19 Oct 2026 11:52:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Sindicatos mayoritarios y minoritarios van de la mano de las inquilinas al 11N: \"Esta huelga general es de la gente\"",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-mayoritarios-minoritarios-mano-inquilinas-paro-general-11n-huelga-gente_1_13596026.html",
+      "fecha": "Mon, 19 Oct 2026 10:16:02 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "España es el único país europeo donde crece la inversión inmobiliaria en plena crisis de vivienda",
+      "enlace": "https://www.eldiario.es/economia/plena-crisis-vivienda-espana-unico-pais-europeo-crece-inversion-inmobiliaria-17-000-millones_1_13596423.html",
+      "fecha": "Mon, 19 Oct 2026 10:14:51 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle",
+      "enlace": "https://www.eldiario.es/economia/ganan-vecinos-nuevo-mapa-renta-espana-calle-calle_1_13592191.html",
+      "fecha": "Mon, 19 Oct 2026 10:13:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Telefónica, Orange, Deutsche Telekom y Vodafone pujan por los satélites europeos que competirán con Starlink",
+      "enlace": "https://www.eldiario.es/economia/telefonica-orange-deutsche-telekom-vodafone-pujan-satelites-europeos-competiran-starlink_1_13596649.html",
+      "fecha": "Mon, 19 Oct 2026 10:07:07 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Gobierno ultima un decreto con mejoras en las prestaciones por cuidados de menores, viudedad o incapacidad",
@@ -24,42 +60,6 @@
       "titular": "Ajuste fiscal frente a gasto público: los modelos económicos de Lula y Bolsonaro se enfrentan en las urnas",
       "enlace": "https://www.eldiario.es/economia/ajuste-fiscal-frente-gasto-publico-modelos-economicos-lula-bolsonaro-enfrentan-urnas_1_13592407.html",
       "fecha": "Sun, 18 Oct 2026 19:47:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Más de 3,4 millones de personas pueden teletrabajar, pero no lo permiten sus empresas",
-      "enlace": "https://www.eldiario.es/economia/3-4-millones-personas-teletrabajar-no-permiten-empresas_1_13590326.html",
-      "fecha": "Sun, 18 Oct 2026 19:47:32 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
-      "enlace": "https://www.eldiario.es/economia/vacaciones-productivos-reino-unido-dice-si_129_13589076.html",
-      "fecha": "Sat, 17 Oct 2026 20:11:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Han retirado los caseros sus ofertas de alquiler por los decretos de vivienda?",
-      "enlace": "https://www.eldiario.es/economia/han-retirado-caseros-ofertas-alquiler-decretos-vivienda_1_13591130.html",
-      "fecha": "Sat, 17 Oct 2026 20:11:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El mundo vive endeudado, el FMI pide un ajuste y los gobiernos no se dan por aludidos",
-      "enlace": "https://www.eldiario.es/economia/mundo-vive-endeudado-fmi-pide-ajuste-gobiernos-no-dan-aludidos_129_13590463.html",
-      "fecha": "Fri, 16 Oct 2026 22:28:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La medida antispam que arranca este sábado: todas las llamadas comerciales tienen que empezar con el prefijo 400",
-      "enlace": "https://www.eldiario.es/economia/medida-antispam-arranca-sabado-llamadas-comerciales-empezar-prefijo-400_1_13587279.html",
-      "fecha": "Fri, 16 Oct 2026 22:28:21 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno mira a Irlanda y sus medidas ante el \"significativo riesgo\" de apagones por culpa de los centros de datos",
-      "enlace": "https://www.eldiario.es/economia/gobierno-mira-irlanda-medidas-significativo-riesgo-apagones-culpa-centros-datos_1_13584339.html",
-      "fecha": "Fri, 16 Oct 2026 22:28:21 +0000"
     }
   ]
 }
