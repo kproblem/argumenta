@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-20T06:22:41.297Z",
+  "actualizado": "2026-10-20T09:23:50.592Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "UGT denuncia a Idealista y Fotocasa ante Consumo por \"publicidad engañosa\" de viviendas \"ocupadas\"",
+      "enlace": "https://www.eldiario.es/economia/ugt-denuncia-idealista-fotocasa-consumo-publicidad-enganosa-viviendas-ocupadas_1_13599336.html",
+      "fecha": "Tue, 20 Oct 2026 09:08:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las parejas con hijos que acrediten dos años de convivencia podrán recibir la pensión de viudedad",
+      "enlace": "https://www.eldiario.es/economia/parejas-hijos-acrediten-anos-convivencia-tendran-derecho-pension-viudedad_1_13599009.html",
+      "fecha": "Tue, 20 Oct 2026 07:58:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Enagás gana 204 millones hasta septiembre, un 22% menos, pero en línea con sus objetivos",
+      "enlace": "https://www.eldiario.es/economia/enagas-gana-204-millones-septiembre-22-linea-objetivos_1_13598918.html",
+      "fecha": "Tue, 20 Oct 2026 06:56:15 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La vivienda manda a la pobreza a 770.000 trabajadores y tres veces más a inquilinos que a hipotecados",
@@ -42,24 +60,6 @@
       "titular": "España es el único país europeo donde crece la inversión inmobiliaria en plena crisis de vivienda",
       "enlace": "https://www.eldiario.es/economia/plena-crisis-vivienda-espana-unico-pais-europeo-crece-inversion-inmobiliaria-17-000-millones_1_13596423.html",
       "fecha": "Mon, 19 Oct 2026 10:14:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Cuánto ganan tus vecinos? El nuevo mapa de la renta en España, calle a calle",
-      "enlace": "https://www.eldiario.es/economia/ganan-vecinos-nuevo-mapa-renta-espana-calle-calle_1_13592191.html",
-      "fecha": "Mon, 19 Oct 2026 10:13:22 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Telefónica, Orange, Deutsche Telekom y Vodafone pujan por los satélites europeos que competirán con Starlink",
-      "enlace": "https://www.eldiario.es/economia/telefonica-orange-deutsche-telekom-vodafone-pujan-satelites-europeos-competiran-starlink_1_13596649.html",
-      "fecha": "Mon, 19 Oct 2026 10:07:07 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno ultima un decreto con mejoras en las prestaciones por cuidados de menores, viudedad o incapacidad",
-      "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decreto-mejoras-prestaciones-cuidados-menores-viudedad-incapacidad_1_13596145.html",
-      "fecha": "Mon, 19 Oct 2026 08:31:49 +0000"
     }
   ]
 }
