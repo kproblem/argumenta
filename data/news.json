@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-20T09:23:50.592Z",
+  "actualizado": "2026-10-20T17:27:41.484Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Ryanair suprime vuelos de Bruselas a Madrid, Barcelona, Málaga, Valencia y Asturias",
+      "enlace": "https://www.eldiario.es/economia/ryanair-suprime-vuelos-bruselas-madrid-barcelona-malaga-valencia-asturias_1_13600981.html",
+      "fecha": "Tue, 20 Oct 2026 15:29:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Supremo condena a una empresa por despido \"discriminatorio\" por violencia de género en una pionera sentencia",
+      "enlace": "https://www.eldiario.es/economia/supremo-condena-empresa-despido-discriminatorio-violencia-genero-pionera-sentencia_1_13600601.html",
+      "fecha": "Tue, 20 Oct 2026 14:25:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Vivienda duplica la subvención a las comunidades que aplican el tope a los alquileres hasta los 180 millones",
+      "enlace": "https://www.eldiario.es/economia/vivienda-duplica-subvencion-comunidades-aplican-ley-vivienda-180-millones_1_13599587.html",
+      "fecha": "Tue, 20 Oct 2026 10:54:31 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes",
+      "enlace": "https://www.eldiario.es/economia/gobierno-amplia-prestaciones-padres-hijos-enfermos-victimas-violencia-genero-catastrofes_1_13599382.html",
+      "fecha": "Tue, 20 Oct 2026 10:25:27 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno aprueba nuevas ayudas para los agricultores afectados por los incendios y fondos para sanidad animal",
+      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-nuevas-ayudas-agricultores-afectados-incendios-fondos-sanidad-animal_1_13599584.html",
+      "fecha": "Tue, 20 Oct 2026 10:21:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Renfe recurrirá a la Audiencia Nacional la decisión de Competencia de obligarle a ceder sus talleres a Ouigo",
+      "enlace": "https://www.eldiario.es/economia/competencia-exige-renfe-dar-acceso-ouigo-talleres-madrid-barcelona_1_13599421.html",
+      "fecha": "Tue, 20 Oct 2026 09:29:57 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "UGT denuncia a Idealista y Fotocasa ante Consumo por \"publicidad engañosa\" de viviendas \"ocupadas\"",
@@ -24,42 +60,6 @@
       "titular": "La vivienda manda a la pobreza a 770.000 trabajadores y tres veces más a inquilinos que a hipotecados",
       "enlace": "https://www.eldiario.es/economia/vivienda-manda-pobreza-770-000-trabajadores-tres-veces-inquilinos-hipotecados_1_13596860.html",
       "fecha": "Mon, 19 Oct 2026 22:01:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los salarios, los beneficios empresariales y las horas extra: las razones para evitar que la patronal tumbe la huelga del 11N",
-      "enlace": "https://www.eldiario.es/economia/salarios-beneficios-empresariales-horas-extra-razones-evitar-patronal-tumbe-huelga-11n_1_13596022.html",
-      "fecha": "Mon, 19 Oct 2026 19:54:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La crisis climática también va de llegar a fin de mes",
-      "enlace": "https://www.eldiario.es/economia/crisis-climatica-llegar-mes_129_13596482.html",
-      "fecha": "Mon, 19 Oct 2026 19:54:35 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Garamendi confirma que los empresarios impugnarán la huelga general por considerarla ilegal y \"electoral\"",
-      "enlace": "https://www.eldiario.es/economia/garamendi-confirma-empresarios-impugnaran-huelga-general-considerarla-ilegal-electoral_1_13597719.html",
-      "fecha": "Mon, 19 Oct 2026 14:01:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba 2.000 nuevas plazas de residencias universitarias por 45 millones",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-2-000-nuevas-plazas-residencias-universitarias-45-millones_1_13597205.html",
-      "fecha": "Mon, 19 Oct 2026 11:52:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sindicatos mayoritarios y minoritarios van de la mano de las inquilinas al 11N: \"Esta huelga general es de la gente\"",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-mayoritarios-minoritarios-mano-inquilinas-paro-general-11n-huelga-gente_1_13596026.html",
-      "fecha": "Mon, 19 Oct 2026 10:16:02 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España es el único país europeo donde crece la inversión inmobiliaria en plena crisis de vivienda",
-      "enlace": "https://www.eldiario.es/economia/plena-crisis-vivienda-espana-unico-pais-europeo-crece-inversion-inmobiliaria-17-000-millones_1_13596423.html",
-      "fecha": "Mon, 19 Oct 2026 10:14:51 +0000"
     }
   ]
 }
