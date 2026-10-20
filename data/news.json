@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-19T20:22:14.741Z",
+  "actualizado": "2026-10-20T06:22:41.297Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La vivienda manda a la pobreza a 770.000 trabajadores y tres veces más a inquilinos que a hipotecados",
+      "enlace": "https://www.eldiario.es/economia/vivienda-manda-pobreza-770-000-trabajadores-tres-veces-inquilinos-hipotecados_1_13596860.html",
+      "fecha": "Mon, 19 Oct 2026 22:01:25 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los salarios, los beneficios empresariales y las horas extra: las razones para evitar que la patronal tumbe la huelga del 11N",
@@ -54,12 +60,6 @@
       "titular": "El Gobierno ultima un decreto con mejoras en las prestaciones por cuidados de menores, viudedad o incapacidad",
       "enlace": "https://www.eldiario.es/economia/gobierno-ultima-decreto-mejoras-prestaciones-cuidados-menores-viudedad-incapacidad_1_13596145.html",
       "fecha": "Mon, 19 Oct 2026 08:31:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Santander y Nvidia llegan a un acuerdo de tres años para desplegar la IA en todo el banco",
-      "enlace": "https://www.eldiario.es/economia/santander-nvidia-llegan-acuerdo-tres-anos-desplegar-ia-banco_1_13596011.html",
-      "fecha": "Mon, 19 Oct 2026 07:16:03 +0000"
     }
   ]
 }
