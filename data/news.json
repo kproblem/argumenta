@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-20T17:27:41.484Z",
+  "actualizado": "2026-10-20T20:19:31.411Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Huelga en el comedor escolar y en la residencia de ancianos? Las empleadas de la restauración colectiva exigen sueldos dignos",
+      "enlace": "https://www.eldiario.es/economia/huelga-comedor-escolar-residencia-ancianos-empleadas-restauracion-colectiva-exigen-sueldos-dignos_1_13587852.html",
+      "fecha": "Tue, 20 Oct 2026 19:36:50 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "PIB y desigualdad en España",
+      "enlace": "https://www.eldiario.es/economia/pib-desigualdad-espana_129_13599455.html",
+      "fecha": "Tue, 20 Oct 2026 19:36:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Ayuso y su consejera de Economía ocultan un encuentro con el lobby de ultrarricos que fichó a Lasquetty",
+      "enlace": "https://www.eldiario.es/economia/ayuso-consejera-economia-ocultan-encuentro-lobby-ultrarricos-ficho-lasquetty_1_13596886.html",
+      "fecha": "Tue, 20 Oct 2026 19:36:43 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno confirma a los sindicatos que aprobará la subida salarial de los funcionarios del 4,5%",
+      "enlace": "https://www.eldiario.es/economia/gobierno-confirma-sindicatos-aprobara-subida-salarial-funcionarios-4-5_1_13601462.html",
+      "fecha": "Tue, 20 Oct 2026 17:29:38 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Ryanair suprime vuelos de Bruselas a Madrid, Barcelona, Málaga, Valencia y Asturias",
@@ -36,30 +60,6 @@
       "titular": "Renfe recurrirá a la Audiencia Nacional la decisión de Competencia de obligarle a ceder sus talleres a Ouigo",
       "enlace": "https://www.eldiario.es/economia/competencia-exige-renfe-dar-acceso-ouigo-talleres-madrid-barcelona_1_13599421.html",
       "fecha": "Tue, 20 Oct 2026 09:29:57 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "UGT denuncia a Idealista y Fotocasa ante Consumo por \"publicidad engañosa\" de viviendas \"ocupadas\"",
-      "enlace": "https://www.eldiario.es/economia/ugt-denuncia-idealista-fotocasa-consumo-publicidad-enganosa-viviendas-ocupadas_1_13599336.html",
-      "fecha": "Tue, 20 Oct 2026 09:08:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las parejas con hijos que acrediten dos años de convivencia podrán recibir la pensión de viudedad",
-      "enlace": "https://www.eldiario.es/economia/parejas-hijos-acrediten-anos-convivencia-tendran-derecho-pension-viudedad_1_13599009.html",
-      "fecha": "Tue, 20 Oct 2026 07:58:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Enagás gana 204 millones hasta septiembre, un 22% menos, pero en línea con sus objetivos",
-      "enlace": "https://www.eldiario.es/economia/enagas-gana-204-millones-septiembre-22-linea-objetivos_1_13598918.html",
-      "fecha": "Tue, 20 Oct 2026 06:56:15 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La vivienda manda a la pobreza a 770.000 trabajadores y tres veces más a inquilinos que a hipotecados",
-      "enlace": "https://www.eldiario.es/economia/vivienda-manda-pobreza-770-000-trabajadores-tres-veces-inquilinos-hipotecados_1_13596860.html",
-      "fecha": "Mon, 19 Oct 2026 22:01:25 +0000"
     }
   ]
 }
