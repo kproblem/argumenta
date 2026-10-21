@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-21T06:24:12.559Z",
+  "actualizado": "2026-10-21T09:24:29.887Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La letra pequeña de las nuevas prestaciones sociales: bajas por menopausia, viudedad y protección de víctimas de violencia de género",
+      "enlace": "https://www.eldiario.es/economia/letra-pequena-nuevas-prestaciones-sociales-bajas-menopausia-viudedad-proteccion-victimas-violencia-genero_1_13602065.html",
+      "fecha": "Wed, 21 Oct 2026 08:59:36 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La CNMC abre expediente sancionador a la dueña de los oleoductos por tres posibles abusos de posición dominante",
+      "enlace": "https://www.eldiario.es/economia/cnmc-abre-expediente-sancionador-duena-oleoductos-tres-posibles-abusos-posicion-dominante_1_13602068.html",
+      "fecha": "Wed, 21 Oct 2026 07:23:28 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Iberdrola gana 5.816 millones hasta septiembre, un 9,6% más",
+      "enlace": "https://www.eldiario.es/economia/iberdrola-gana-5-816-millones-septiembre-9-6_1_13602011.html",
+      "fecha": "Wed, 21 Oct 2026 06:57:41 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "¿Huelga en el comedor escolar y en la residencia de ancianos? Las empleadas de la restauración colectiva exigen sueldos dignos",
@@ -42,24 +60,6 @@
       "titular": "Vivienda duplica la subvención a las comunidades que aplican el tope a los alquileres hasta los 180 millones",
       "enlace": "https://www.eldiario.es/economia/vivienda-duplica-subvencion-comunidades-aplican-ley-vivienda-180-millones_1_13599587.html",
       "fecha": "Tue, 20 Oct 2026 10:54:31 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno amplía las prestaciones de padres de hijos enfermos, víctimas de violencia de género y catástrofes",
-      "enlace": "https://www.eldiario.es/economia/gobierno-amplia-prestaciones-padres-hijos-enfermos-victimas-violencia-genero-catastrofes_1_13599382.html",
-      "fecha": "Tue, 20 Oct 2026 10:25:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba nuevas ayudas para los agricultores afectados por los incendios y fondos para sanidad animal",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-nuevas-ayudas-agricultores-afectados-incendios-fondos-sanidad-animal_1_13599584.html",
-      "fecha": "Tue, 20 Oct 2026 10:21:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Renfe recurrirá a la Audiencia Nacional la decisión de Competencia de obligarle a ceder sus talleres a Ouigo",
-      "enlace": "https://www.eldiario.es/economia/competencia-exige-renfe-dar-acceso-ouigo-talleres-madrid-barcelona_1_13599421.html",
-      "fecha": "Tue, 20 Oct 2026 09:29:57 +0000"
     }
   ]
 }
