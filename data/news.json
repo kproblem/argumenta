@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-21T09:24:29.887Z",
+  "actualizado": "2026-10-21T17:21:40.951Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "PP y Vox planean gravar más a las renovables en Castilla y León: “Un nuevo impuesto al sol”",
+      "enlace": "https://www.eldiario.es/economia/pp-vox-planean-gravar-renovables-castilla-leon-nuevo-impuesto-sol_1_13604345.html",
+      "fecha": "Wed, 21 Oct 2026 15:53:28 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las ciudades con las casas más caras y más baratas de España: de los 57.000 euros de Puertollano al millón de Calvià",
+      "enlace": "https://www.eldiario.es/economia/ciudades-casas-caras-baratas-espana-57-000-euros-puertollano-millon-calvia_1_13602791.html",
+      "fecha": "Wed, 21 Oct 2026 11:44:40 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las empresas del gran consumo piden atajar el \"absentismo\": \"No es un problema de salud sino de gestión\"",
+      "enlace": "https://www.eldiario.es/economia/empresas-gran-consumo-piden-atajar-absentismo-no-problema-salud-gestion_1_13602759.html",
+      "fecha": "Wed, 21 Oct 2026 10:29:28 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Ceuta sufre un apagón de cerca de una hora en toda la ciudad",
+      "enlace": "https://www.eldiario.es/economia/ceuta-sufre-apagon-cerca-hora-ciudad_1_13602484.html",
+      "fecha": "Wed, 21 Oct 2026 09:40:04 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La letra pequeña de las nuevas prestaciones sociales: bajas por menopausia, viudedad y protección de víctimas de violencia de género",
@@ -36,30 +60,6 @@
       "titular": "Ayuso y su consejera de Economía ocultan un encuentro con el lobby de ultrarricos que fichó a Lasquetty",
       "enlace": "https://www.eldiario.es/economia/ayuso-consejera-economia-ocultan-encuentro-lobby-ultrarricos-ficho-lasquetty_1_13596886.html",
       "fecha": "Tue, 20 Oct 2026 19:36:43 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno confirma a los sindicatos que aprobará la subida salarial de los funcionarios del 4,5%",
-      "enlace": "https://www.eldiario.es/economia/gobierno-confirma-sindicatos-aprobara-subida-salarial-funcionarios-4-5_1_13601462.html",
-      "fecha": "Tue, 20 Oct 2026 17:29:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ryanair suprime vuelos de Bruselas a Madrid, Barcelona, Málaga, Valencia y Asturias",
-      "enlace": "https://www.eldiario.es/economia/ryanair-suprime-vuelos-bruselas-madrid-barcelona-malaga-valencia-asturias_1_13600981.html",
-      "fecha": "Tue, 20 Oct 2026 15:29:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Supremo condena a una empresa por despido \"discriminatorio\" por violencia de género en una pionera sentencia",
-      "enlace": "https://www.eldiario.es/economia/supremo-condena-empresa-despido-discriminatorio-violencia-genero-pionera-sentencia_1_13600601.html",
-      "fecha": "Tue, 20 Oct 2026 14:25:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Vivienda duplica la subvención a las comunidades que aplican el tope a los alquileres hasta los 180 millones",
-      "enlace": "https://www.eldiario.es/economia/vivienda-duplica-subvencion-comunidades-aplican-ley-vivienda-180-millones_1_13599587.html",
-      "fecha": "Tue, 20 Oct 2026 10:54:31 +0000"
     }
   ]
 }
