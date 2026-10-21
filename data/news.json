@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-21T17:21:40.951Z",
+  "actualizado": "2026-10-21T20:21:11.534Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los empresarios colombianos ponen sus ojos en Venezuela mientras De la Espriella espera señales de Trump",
+      "enlace": "https://www.eldiario.es/economia/empresarios-colombianos-ponen-ojos-venezuela-espriella-espera-senales-trump_1_13589138.html",
+      "fecha": "Wed, 21 Oct 2026 19:53:39 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Feijóo miente: por qué un okupa no puede quedarse en tu casa presentando un ticket de pizza",
+      "enlace": "https://www.eldiario.es/economia/feijoo-miente-okupa-no-quedarse-casa-presentando-ticket-pizza_1_13604720.html",
+      "fecha": "Wed, 21 Oct 2026 19:01:18 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El gigante español de la formación del fondo KKR inicia un ERE tras ser sancionado por tener falsos autónomos",
+      "enlace": "https://www.eldiario.es/economia/gigante-espanol-formacion-fondo-kkr-inicia-ere-sancionado-falsos-autonomos_1_13602995.html",
+      "fecha": "Wed, 21 Oct 2026 18:24:18 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "PP y Vox planean gravar más a las renovables en Castilla y León: “Un nuevo impuesto al sol”",
@@ -42,24 +60,6 @@
       "titular": "Iberdrola gana 5.816 millones hasta septiembre, un 9,6% más",
       "enlace": "https://www.eldiario.es/economia/iberdrola-gana-5-816-millones-septiembre-9-6_1_13602011.html",
       "fecha": "Wed, 21 Oct 2026 06:57:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Huelga en el comedor escolar y en la residencia de ancianos? Las empleadas de la restauración colectiva exigen sueldos dignos",
-      "enlace": "https://www.eldiario.es/economia/huelga-comedor-escolar-residencia-ancianos-empleadas-restauracion-colectiva-exigen-sueldos-dignos_1_13587852.html",
-      "fecha": "Tue, 20 Oct 2026 19:36:50 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "PIB y desigualdad en España",
-      "enlace": "https://www.eldiario.es/economia/pib-desigualdad-espana_129_13599455.html",
-      "fecha": "Tue, 20 Oct 2026 19:36:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ayuso y su consejera de Economía ocultan un encuentro con el lobby de ultrarricos que fichó a Lasquetty",
-      "enlace": "https://www.eldiario.es/economia/ayuso-consejera-economia-ocultan-encuentro-lobby-ultrarricos-ficho-lasquetty_1_13596886.html",
-      "fecha": "Tue, 20 Oct 2026 19:36:43 +0000"
     }
   ]
 }
