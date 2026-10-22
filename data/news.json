@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-22T06:25:59.711Z",
+  "actualizado": "2026-10-22T09:25:21.634Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los líderes sindicales piden \"valentía\" a la derecha sobre sus planes si gobiernan: \"Plantean pensiones públicas de pobreza\"",
+      "enlace": "https://www.eldiario.es/economia/lideres-sindicales-piden-valentia-derecha-planes-si-gobiernan-plantean-pensiones-publicas-pobreza_1_13605550.html",
+      "fecha": "Thu, 22 Oct 2026 09:18:32 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los bancos tendrán que devolver el dinero a los afectados por operaciones no autorizadas antes de pleitear por ellas",
+      "enlace": "https://www.eldiario.es/economia/bancos-tendran-devolver-dinero-afectados-operaciones-no-autorizadas-pleitear_1_13605615.html",
+      "fecha": "Thu, 22 Oct 2026 09:13:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El dueño de Politico y de The Telegraph propuso comprar la rama europea de TikTok",
+      "enlace": "https://www.eldiario.es/economia/dueno-politico-the-telegraph-propuso-comprar-rama-europea-tiktok_1_13605396.html",
+      "fecha": "Thu, 22 Oct 2026 08:12:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Bankinter gana hasta septiembre 901 millones, un 11% más, por el crecimiento de la actividad",
+      "enlace": "https://www.eldiario.es/economia/bankinter-gana-septiembre-901-millones-11-crecimiento-actividad_1_13605268.html",
+      "fecha": "Thu, 22 Oct 2026 07:00:26 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los caseros con más pisos suben más los precios a sus inquilinos que los que alquilan solo uno",
@@ -36,30 +60,6 @@
       "titular": "Las ciudades con las casas más caras y más baratas de España: de los 57.000 euros de Puertollano al millón de Calvià",
       "enlace": "https://www.eldiario.es/economia/ciudades-casas-caras-baratas-espana-57-000-euros-puertollano-millon-calvia_1_13602791.html",
       "fecha": "Wed, 21 Oct 2026 11:44:40 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las empresas del gran consumo piden atajar el \"absentismo\": \"No es un problema de salud sino de gestión\"",
-      "enlace": "https://www.eldiario.es/economia/empresas-gran-consumo-piden-atajar-absentismo-no-problema-salud-gestion_1_13602759.html",
-      "fecha": "Wed, 21 Oct 2026 10:29:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ceuta sufre un apagón de cerca de una hora en toda la ciudad",
-      "enlace": "https://www.eldiario.es/economia/ceuta-sufre-apagon-cerca-hora-ciudad_1_13602484.html",
-      "fecha": "Wed, 21 Oct 2026 09:40:04 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La letra pequeña de las nuevas prestaciones sociales: bajas por menopausia, viudedad y protección de víctimas de violencia de género",
-      "enlace": "https://www.eldiario.es/economia/letra-pequena-nuevas-prestaciones-sociales-bajas-menopausia-viudedad-proteccion-victimas-violencia-genero_1_13602065.html",
-      "fecha": "Wed, 21 Oct 2026 08:59:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La CNMC abre expediente sancionador a la dueña de los oleoductos por tres posibles abusos de posición dominante",
-      "enlace": "https://www.eldiario.es/economia/cnmc-abre-expediente-sancionador-duena-oleoductos-tres-posibles-abusos-posicion-dominante_1_13602068.html",
-      "fecha": "Wed, 21 Oct 2026 07:23:28 +0000"
     }
   ]
 }
