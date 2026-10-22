@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-21T20:21:11.534Z",
+  "actualizado": "2026-10-22T06:25:59.711Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los caseros con más pisos suben más los precios a sus inquilinos que los que alquilan solo uno",
+      "enlace": "https://www.eldiario.es/economia/caseros-pisos-suben-precios-inquilinos-alquilan_1_13603331.html",
+      "fecha": "Wed, 21 Oct 2026 22:01:58 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los empresarios colombianos ponen sus ojos en Venezuela mientras De la Espriella espera señales de Trump",
@@ -54,12 +60,6 @@
       "titular": "La CNMC abre expediente sancionador a la dueña de los oleoductos por tres posibles abusos de posición dominante",
       "enlace": "https://www.eldiario.es/economia/cnmc-abre-expediente-sancionador-duena-oleoductos-tres-posibles-abusos-posicion-dominante_1_13602068.html",
       "fecha": "Wed, 21 Oct 2026 07:23:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Iberdrola gana 5.816 millones hasta septiembre, un 9,6% más",
-      "enlace": "https://www.eldiario.es/economia/iberdrola-gana-5-816-millones-septiembre-9-6_1_13602011.html",
-      "fecha": "Wed, 21 Oct 2026 06:57:41 +0000"
     }
   ]
 }
