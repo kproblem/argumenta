@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-23T09:23:58.546Z",
+  "actualizado": "2026-10-23T17:21:21.901Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Telefónica e Indra estudian la creación de una 'joint venture' para servicios de nube soberana en Europa",
+      "enlace": "https://www.eldiario.es/economia/telefonica-e-indra-estudian-creacion-joint-venture-servicios-nube-soberana-europa_1_13610506.html",
+      "fecha": "Fri, 23 Oct 2026 14:42:32 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El menú de la derecha para la vivienda: pizza, bulos y ladrillo",
+      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/menu-derecha-vivienda-pizza-bulos-ladrillo_132_13609269.html",
+      "fecha": "Fri, 23 Oct 2026 11:02:38 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La patronal renovable critica el nuevo impuesto del PP y Vox en Castilla y León: “Va contra la sociedad en su conjunto”",
+      "enlace": "https://www.eldiario.es/economia/patronal-renovable-critica-nuevo-impuesto-pp-vox-castilla-leon-sociedad-conjunto_1_13609210.html",
+      "fecha": "Fri, 23 Oct 2026 10:14:23 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El precio para comprar una vivienda ha crecido 3,6 veces más que los salarios desde 2013",
@@ -42,24 +60,6 @@
       "titular": "La patronal finalmente no recurrirá la convocatoria de la huelga general del 11N",
       "enlace": "https://www.eldiario.es/economia/patronal-finalmente-no-recurrira-convocatoria-huelga-general-11n_1_13607696.html",
       "fecha": "Thu, 22 Oct 2026 16:34:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los sindicatos advierten a las empresas de que no utilicen el teletrabajo como \"esquirolaje moderno\" el 11N",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-advierten-empresas-no-utilicen-teletrabajo-esquirolaje-moderno-11n_1_13607130.html",
-      "fecha": "Thu, 22 Oct 2026 14:57:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las empresas de gran consumo ven con \"preocupación\" las \"revueltas sociales\" y temen \"el riesgo de contagio\"",
-      "enlace": "https://www.eldiario.es/economia/empresas-gran-consumo-ve-preocupacion-revueltas-sociales-temen-riesgo-contagio_1_13607132.html",
-      "fecha": "Thu, 22 Oct 2026 14:06:02 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Huelga convocada en Repsol los días 3 y 4 de noviembre para exigir mejoras en el convenio colectivo",
-      "enlace": "https://www.eldiario.es/economia/huelga-convocada-repsol-dias-3-4-noviembre-exigir-mejoras-convenio-colectivo_1_13607105.html",
-      "fecha": "Thu, 22 Oct 2026 13:55:08 +0000"
     }
   ]
 }
