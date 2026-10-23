@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-23T06:24:29.770Z",
+  "actualizado": "2026-10-23T09:23:58.546Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El precio para comprar una vivienda ha crecido 3,6 veces más que los salarios desde 2013",
+      "enlace": "https://www.eldiario.es/economia/precio-comprar-vivienda-crecido-3-6-veces-salarios-2013_1_13608701.html",
+      "fecha": "Fri, 23 Oct 2026 09:12:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La justicia belga da la razón a España por el impago de renovables y levanta el embargo de 75 millones a Enaire",
+      "enlace": "https://www.eldiario.es/economia/justicia-belga-da-razon-espana-impago-renovables-levanta-embargo-75-millones-enaire_1_13608752.html",
+      "fecha": "Fri, 23 Oct 2026 09:07:02 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El petróleo sube hasta los 114 dólares, su nivel más alto desde finales de abril",
+      "enlace": "https://www.eldiario.es/economia/petroleo-sube-114-dolares-nivel-alto-finales-abril_1_13608529.html",
+      "fecha": "Fri, 23 Oct 2026 07:18:59 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Consumo exige la retirada de 8.000 anuncios de pisos turísticos que se ofertan como alquileres de temporada",
@@ -42,24 +60,6 @@
       "titular": "Huelga convocada en Repsol los días 3 y 4 de noviembre para exigir mejoras en el convenio colectivo",
       "enlace": "https://www.eldiario.es/economia/huelga-convocada-repsol-dias-3-4-noviembre-exigir-mejoras-convenio-colectivo_1_13607105.html",
       "fecha": "Thu, 22 Oct 2026 13:55:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las grandes empresas pagan un tipo del 19,7% en el impuesto de sociedades, tres puntos menos que las pymes",
-      "enlace": "https://www.eldiario.es/economia/grandes-empresas-pagan-tipo-19-7-impuesto-sociedades-tres-puntos-pymes_1_13607058.html",
-      "fecha": "Thu, 22 Oct 2026 13:46:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La escalada de petróleo y gas y el temor a una crisis de deuda aceleran las caídas de las bolsas y el Ibex se deja más de un 2%",
-      "enlace": "https://www.eldiario.es/economia/escalada-petroleo-temor-crisis-deuda-aceleran-caidas-bolsas_1_13606445.html",
-      "fecha": "Thu, 22 Oct 2026 11:43:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La Justicia europea respalda la excepción ibérica del tope al gas por la crisis de 2022",
-      "enlace": "https://www.eldiario.es/economia/justicia-europea-respalda-excepcion-iberica-tope-gas-crisis-2022_1_13606192.html",
-      "fecha": "Thu, 22 Oct 2026 11:21:41 +0000"
     }
   ]
 }
