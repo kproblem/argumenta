@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-22T20:20:15.536Z",
+  "actualizado": "2026-10-23T06:24:29.770Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo exige la retirada de 8.000 anuncios de pisos turísticos que se ofertan como alquileres de temporada",
+      "enlace": "https://www.eldiario.es/economia/consumo-exige-retirada-8-000-anuncios-pisos-turisticos-ofertan-alquileres-temporada_1_13607460.html",
+      "fecha": "Fri, 23 Oct 2026 06:00:05 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Sin pasta ni gasolina: los bloqueos de los transportistas fuerzan a Meloni a aprobar medidas de urgencia en Italia",
+      "enlace": "https://www.eldiario.es/economia/pasta-gasolina-bloqueos-transportistas-fuerzan-meloni-aprobar-medidas-urgencia-italia_1_13607591.html",
+      "fecha": "Thu, 22 Oct 2026 20:11:13 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La cotización del gas natural en Europa rompe nuevos máximos desde finales de 2022",
@@ -48,18 +60,6 @@
       "titular": "La Justicia europea respalda la excepción ibérica del tope al gas por la crisis de 2022",
       "enlace": "https://www.eldiario.es/economia/justicia-europea-respalda-excepcion-iberica-tope-gas-crisis-2022_1_13606192.html",
       "fecha": "Thu, 22 Oct 2026 11:21:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La mayoría de jóvenes necesitan una ayuda para independizarse y renuncian a viviendas por no cumplir requisitos",
-      "enlace": "https://www.eldiario.es/economia/mayoria-jovenes-necesitan-ayuda-independizarse-renuncian-viviendas-no-cumplir-requisitos_1_13605919.html",
-      "fecha": "Thu, 22 Oct 2026 10:43:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El abogado general de la UE avala el impuesto a las energéticas de 2022 en pleno debate para reinstaurarlo",
-      "enlace": "https://www.eldiario.es/economia/abogado-general-ue-avala-impuesto-energeticas-2022-pleno-debate-reinstaurarlo_1_13605944.html",
-      "fecha": "Thu, 22 Oct 2026 10:15:18 +0000"
     }
   ]
 }
