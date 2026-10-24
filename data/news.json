@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-23T20:18:18.387Z",
+  "actualizado": "2026-10-24T06:20:31.063Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La escalada de tipos de interés amenaza con arrojar al ‘ladrillo’ a otra turbulencia crediticia",
+      "enlace": "https://www.eldiario.es/economia/escalada-tipos-interes-amenaza-arrojar-ladrillo-turbulencia-crediticia_129_13609424.html",
+      "fecha": "Fri, 23 Oct 2026 20:40:12 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Por qué es bueno que España atraiga población: ni la economía crece “al peso” ni el PIB per cápita se estanca",
+      "enlace": "https://www.eldiario.es/economia/bueno-espana-atraiga-poblacion-economia-crece-peso-pib-per-capita-estanca_1_13604165.html",
+      "fecha": "Fri, 23 Oct 2026 20:40:11 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Telefónica e Indra estudian la creación de una 'joint venture' para servicios de nube soberana en Europa",
@@ -48,18 +60,6 @@
       "titular": "Sin pasta ni gasolina: los bloqueos de los transportistas fuerzan a Meloni a aprobar medidas de urgencia en Italia",
       "enlace": "https://www.eldiario.es/economia/pasta-gasolina-bloqueos-transportistas-fuerzan-meloni-aprobar-medidas-urgencia-italia_1_13607591.html",
       "fecha": "Thu, 22 Oct 2026 20:11:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La cotización del gas natural en Europa rompe nuevos máximos desde finales de 2022",
-      "enlace": "https://www.eldiario.es/economia/cotizacion-gas-natural-europa-rompe-nuevos-maximos-finales-2022_1_13607866.html",
-      "fecha": "Thu, 22 Oct 2026 17:02:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La patronal finalmente no recurrirá la convocatoria de la huelga general del 11N",
-      "enlace": "https://www.eldiario.es/economia/patronal-finalmente-no-recurrira-convocatoria-huelga-general-11n_1_13607696.html",
-      "fecha": "Thu, 22 Oct 2026 16:34:59 +0000"
     }
   ]
 }
