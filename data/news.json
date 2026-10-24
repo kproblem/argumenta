@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-24T09:18:04.814Z",
+  "actualizado": "2026-10-24T17:16:40.237Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los pensionistas escenifican su unión con la juventud en una gran manifestación en Madrid: \"No vamos a aceptar una marcha atrás\"",
+      "enlace": "https://www.eldiario.es/economia/pensionistas-escenifican-union-juventud-gran-manifestacion-madrid-no-aceptar-marcha_1_13612262.html",
+      "fecha": "Sat, 24 Oct 2026 12:22:49 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La escalada de tipos de interés amenaza con arrojar al ‘ladrillo’ a otra turbulencia crediticia",
@@ -54,12 +60,6 @@
       "titular": "Consumo exige la retirada de 8.000 anuncios de pisos turísticos que se ofertan como alquileres de temporada",
       "enlace": "https://www.eldiario.es/economia/consumo-exige-retirada-8-000-anuncios-pisos-turisticos-ofertan-alquileres-temporada_1_13607460.html",
       "fecha": "Fri, 23 Oct 2026 06:00:05 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sin pasta ni gasolina: los bloqueos de los transportistas fuerzan a Meloni a aprobar medidas de urgencia en Italia",
-      "enlace": "https://www.eldiario.es/economia/pasta-gasolina-bloqueos-transportistas-fuerzan-meloni-aprobar-medidas-urgencia-italia_1_13607591.html",
-      "fecha": "Thu, 22 Oct 2026 20:11:13 +0000"
     }
   ]
 }
