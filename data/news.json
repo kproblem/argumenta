@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-24T20:11:06.713Z",
+  "actualizado": "2026-10-25T06:21:16.106Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La última huelga general no fue en 2012: el 8M reivindica la raíz feminista que inspira el paro por la vivienda",
+      "enlace": "https://www.eldiario.es/economia/ultima-huelga-general-no-2012-8m-reivindica-raiz-feminista-inspira-paro-vivienda_129_13607141.html",
+      "fecha": "Sat, 24 Oct 2026 20:25:25 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Dónde tienen los españoles su ahorro? Los hogares más pobres, en la vivienda; los ricos, en activos financieros",
+      "enlace": "https://www.eldiario.es/economia/espanoles-ahorro-hogares-pobres-vivienda-ricos-activos-financieros_1_13598016.html",
+      "fecha": "Sat, 24 Oct 2026 20:25:24 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Del bar de confianza a la app: por qué las franquicias tiran de 'fieles' para mantener su negocio",
+      "enlace": "https://www.eldiario.es/economia/bar-confianza-app-franquicias-tiran-fieles-mantener-negocio_1_13470068.html",
+      "fecha": "Sat, 24 Oct 2026 20:25:24 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los pensionistas escenifican su unión con la juventud en una gran manifestación en Madrid: \"No vamos a aceptar una marcha atrás\"",
@@ -42,24 +60,6 @@
       "titular": "El precio para comprar una vivienda ha crecido 3,6 veces más que los salarios desde 2013",
       "enlace": "https://www.eldiario.es/economia/precio-comprar-vivienda-crecido-3-6-veces-salarios-2013_1_13608701.html",
       "fecha": "Fri, 23 Oct 2026 09:12:09 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La justicia belga da la razón a España por el impago de renovables y levanta el embargo de 75 millones a Enaire",
-      "enlace": "https://www.eldiario.es/economia/justicia-belga-da-razon-espana-impago-renovables-levanta-embargo-75-millones-enaire_1_13608752.html",
-      "fecha": "Fri, 23 Oct 2026 09:07:02 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El petróleo sube hasta los 114 dólares, su nivel más alto desde finales de abril",
-      "enlace": "https://www.eldiario.es/economia/petroleo-sube-114-dolares-nivel-alto-finales-abril_1_13608529.html",
-      "fecha": "Fri, 23 Oct 2026 07:18:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo exige la retirada de 8.000 anuncios de pisos turísticos que se ofertan como alquileres de temporada",
-      "enlace": "https://www.eldiario.es/economia/consumo-exige-retirada-8-000-anuncios-pisos-turisticos-ofertan-alquileres-temporada_1_13607460.html",
-      "fecha": "Fri, 23 Oct 2026 06:00:05 +0000"
     }
   ]
 }
