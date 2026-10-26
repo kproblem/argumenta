@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-25T20:12:18.333Z",
+  "actualizado": "2026-10-26T06:28:08.842Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las telefónicas de La Caixa, Sepi y los saudíes ya valen 1.000 millones menos",
+      "enlace": "https://www.eldiario.es/economia/caixa-sepi-saudies-palman-1-000-millones-telefonica_129_13609296.html",
+      "fecha": "Sun, 25 Oct 2026 20:21:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El campo vuelve a las calles a un mes de las elecciones para colar sus problemas en la precampaña",
+      "enlace": "https://www.eldiario.es/economia/campo-vuelve-calles-mes-elecciones-colar-problemas-precampana_1_13610659.html",
+      "fecha": "Sun, 25 Oct 2026 20:21:25 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La última huelga general no fue en 2012: el 8M reivindica la raíz feminista que inspira el paro por la vivienda",
@@ -48,18 +60,6 @@
       "titular": "El menú de la derecha para la vivienda: pizza, bulos y ladrillo",
       "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/menu-derecha-vivienda-pizza-bulos-ladrillo_132_13609269.html",
       "fecha": "Fri, 23 Oct 2026 11:02:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La patronal renovable critica el nuevo impuesto del PP y Vox en Castilla y León: “Va contra la sociedad en su conjunto”",
-      "enlace": "https://www.eldiario.es/economia/patronal-renovable-critica-nuevo-impuesto-pp-vox-castilla-leon-sociedad-conjunto_1_13609210.html",
-      "fecha": "Fri, 23 Oct 2026 10:14:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El precio para comprar una vivienda ha crecido 3,6 veces más que los salarios desde 2013",
-      "enlace": "https://www.eldiario.es/economia/precio-comprar-vivienda-crecido-3-6-veces-salarios-2013_1_13608701.html",
-      "fecha": "Fri, 23 Oct 2026 09:12:09 +0000"
     }
   ]
 }
