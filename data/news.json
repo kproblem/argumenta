@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-26T06:28:08.842Z",
+  "actualizado": "2026-10-26T09:31:26.780Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno asegura que el salario mínimo seguirá sin pagar IRPF tras la subida de 2027",
+      "enlace": "https://www.eldiario.es/economia/gobierno-asegura-salario-minimo-seguira-pagar-irpf-subida-2027_1_13614493.html",
+      "fecha": "Mon, 26 Oct 2026 08:43:02 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Moeve y Galp ponen fin a sus negociaciones para crear un 'campeón energético' ibérico",
+      "enlace": "https://www.eldiario.es/economia/moeve-galp-ponen-negociaciones-crear-campeon-energetico-iberico_1_13614446.html",
+      "fecha": "Mon, 26 Oct 2026 08:19:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo expedienta a una plataforma por mantener anuncios turísticos en Palestina ocupada",
+      "enlace": "https://www.eldiario.es/economia/consumo-expedienta-plataforma-mantener-anuncios-turisticos-palestina-ocupada_1_13614442.html",
+      "fecha": "Mon, 26 Oct 2026 08:18:31 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las telefónicas de La Caixa, Sepi y los saudíes ya valen 1.000 millones menos",
@@ -42,24 +60,6 @@
       "titular": "La escalada de tipos de interés amenaza con arrojar al ‘ladrillo’ a otra turbulencia crediticia",
       "enlace": "https://www.eldiario.es/economia/escalada-tipos-interes-amenaza-arrojar-ladrillo-turbulencia-crediticia_129_13609424.html",
       "fecha": "Fri, 23 Oct 2026 20:40:12 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Por qué es bueno que España atraiga población: ni la economía crece “al peso” ni el PIB per cápita se estanca",
-      "enlace": "https://www.eldiario.es/economia/bueno-espana-atraiga-poblacion-economia-crece-peso-pib-per-capita-estanca_1_13604165.html",
-      "fecha": "Fri, 23 Oct 2026 20:40:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Telefónica e Indra estudian la creación de una 'joint venture' para servicios de nube soberana en Europa",
-      "enlace": "https://www.eldiario.es/economia/telefonica-e-indra-estudian-creacion-joint-venture-servicios-nube-soberana-europa_1_13610506.html",
-      "fecha": "Fri, 23 Oct 2026 14:42:32 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El menú de la derecha para la vivienda: pizza, bulos y ladrillo",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/menu-derecha-vivienda-pizza-bulos-ladrillo_132_13609269.html",
-      "fecha": "Fri, 23 Oct 2026 11:02:38 +0000"
     }
   ]
 }
