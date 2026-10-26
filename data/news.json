@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-26T09:31:26.780Z",
+  "actualizado": "2026-10-26T17:30:00.760Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La remontada de Lula golpea a las bolsas a la espera de las decisiones sobre los tipos de interés del BCE y la Fed",
+      "enlace": "https://www.eldiario.es/economia/remontada-lula-golpea-bolsas-espera-decisiones-tipos-interes-bce-fed_1_13616233.html",
+      "fecha": "Mon, 26 Oct 2026 16:51:38 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El consejero delegado de Audi, en el punto de mira en Alemania por su aparición en un mitin de Trump",
+      "enlace": "https://www.eldiario.es/economia/consejero-delegado-audi-punto-mira-alemania-aparicion-mitin-trump_1_13616132.html",
+      "fecha": "Mon, 26 Oct 2026 15:34:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las aerolíneas aumentan su oferta de vuelos para el invierno pero asumen la \"alta incertidumbre\" por Oriente Medio",
+      "enlace": "https://www.eldiario.es/economia/aerolineas-aumentan-oferta-vuelos-invierno-asumen-alta-incertidumbre-oriente-medio_1_13615478.html",
+      "fecha": "Mon, 26 Oct 2026 12:37:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Un importe de 181.000 euros a pagar durante 26 años: así es la hipoteca promedio en España",
+      "enlace": "https://www.eldiario.es/economia/importe-181-000-euros-pagar-durante-26-anos-hipoteca-promedio-espana_1_13614788.html",
+      "fecha": "Mon, 26 Oct 2026 10:52:32 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Transportes fija los servicios mínimos en Renfe para la huelga de maquinistas del jueves: hasta 75% en cercanías y 73% en alta velocidad",
+      "enlace": "https://www.eldiario.es/economia/transportes-fija-servicios-minimos-huelga-maquinistas-jueves-75-cercanias-73-alta-velocidad_1_13614894.html",
+      "fecha": "Mon, 26 Oct 2026 10:40:58 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Óscar Puente: \"Tenemos una necesidad urgente de trenes de alta velocidad\"",
+      "enlace": "https://www.eldiario.es/economia/oscar-puente-necesidad-urgente-trenes-alta-velocidad_1_13614655.html",
+      "fecha": "Mon, 26 Oct 2026 10:01:03 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Gobierno asegura que el salario mínimo seguirá sin pagar IRPF tras la subida de 2027",
@@ -24,42 +60,6 @@
       "titular": "Las telefónicas de La Caixa, Sepi y los saudíes ya valen 1.000 millones menos",
       "enlace": "https://www.eldiario.es/economia/caixa-sepi-saudies-palman-1-000-millones-telefonica_129_13609296.html",
       "fecha": "Sun, 25 Oct 2026 20:21:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El campo vuelve a las calles a un mes de las elecciones para colar sus problemas en la precampaña",
-      "enlace": "https://www.eldiario.es/economia/campo-vuelve-calles-mes-elecciones-colar-problemas-precampana_1_13610659.html",
-      "fecha": "Sun, 25 Oct 2026 20:21:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La última huelga general no fue en 2012: el 8M reivindica la raíz feminista que inspira el paro por la vivienda",
-      "enlace": "https://www.eldiario.es/economia/ultima-huelga-general-no-2012-8m-reivindica-raiz-feminista-inspira-paro-vivienda_129_13607141.html",
-      "fecha": "Sat, 24 Oct 2026 20:25:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Dónde tienen los españoles su ahorro? Los hogares más pobres, en la vivienda; los ricos, en activos financieros",
-      "enlace": "https://www.eldiario.es/economia/espanoles-ahorro-hogares-pobres-vivienda-ricos-activos-financieros_1_13598016.html",
-      "fecha": "Sat, 24 Oct 2026 20:25:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Del bar de confianza a la app: por qué las franquicias tiran de 'fieles' para mantener su negocio",
-      "enlace": "https://www.eldiario.es/economia/bar-confianza-app-franquicias-tiran-fieles-mantener-negocio_1_13470068.html",
-      "fecha": "Sat, 24 Oct 2026 20:25:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los pensionistas escenifican su unión con la juventud en una gran manifestación en Madrid: \"No vamos a aceptar una marcha atrás\"",
-      "enlace": "https://www.eldiario.es/economia/pensionistas-escenifican-union-juventud-gran-manifestacion-madrid-no-aceptar-marcha_1_13612262.html",
-      "fecha": "Sat, 24 Oct 2026 12:22:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La escalada de tipos de interés amenaza con arrojar al ‘ladrillo’ a otra turbulencia crediticia",
-      "enlace": "https://www.eldiario.es/economia/escalada-tipos-interes-amenaza-arrojar-ladrillo-turbulencia-crediticia_129_13609424.html",
-      "fecha": "Fri, 23 Oct 2026 20:40:12 +0000"
     }
   ]
 }
