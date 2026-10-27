@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-27T17:37:07.789Z",
+  "actualizado": "2026-10-27T20:27:16.458Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El gurú económico del PP promete ahora no cambiar “ningún elemento de la regulación del autoconsumo”",
+      "enlace": "https://www.eldiario.es/economia/guru-economico-pp-promete-ahora-no-cambiar-elemento-regulacion-autoconsumo_1_13619778.html",
+      "fecha": "Tue, 27 Oct 2026 17:33:17 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Almeida lamenta no tener competencias para desalojar Sol y Bustinduy responde: \"Empiece con los pisos turísticos ilegales\"",
@@ -54,12 +60,6 @@
       "titular": "Los servicios mínimos de la huelga de Renfe de este jueves 29 de octubre",
       "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-renfe-jueves-29-octubre_1_13617692.html",
       "fecha": "Tue, 27 Oct 2026 09:56:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Sindicato de Inquilinas, Facua y Justicia Alimentaria convocan una huelga de compras todos los miércoles hasta el 11N",
-      "enlace": "https://www.eldiario.es/economia/sindicato-inquilinas-facua-justicia-alimentaria-convocan-huelga-compras-miercoles-11n_1_13617693.html",
-      "fecha": "Tue, 27 Oct 2026 09:38:51 +0000"
     }
   ]
 }
