@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-26T20:21:45.674Z",
+  "actualizado": "2026-10-27T06:27:40.506Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Un informe desmonta las dudas del gurú de Feijóo sobre el autoconsumo: \"Un activo estratégico para la industria\"",
+      "enlace": "https://www.eldiario.es/economia/informe-desmonta-dudas-guru-feijoo-autoconsumo-activo-estrategico-industria_1_13616190.html",
+      "fecha": "Mon, 26 Oct 2026 23:02:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno suaviza la exigencia de renovables a los centros de datos a cambio de aceptar desconexiones",
+      "enlace": "https://www.eldiario.es/economia/gobierno-suaviza-exigencia-renovables-centros-datos-cambio-aceptar-desconexiones_1_13610844.html",
+      "fecha": "Mon, 26 Oct 2026 22:10:13 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El problema de las pensiones no es cuánto cuestan",
+      "enlace": "https://www.eldiario.es/economia/problema-pensiones-no-cuestan_129_13616225.html",
+      "fecha": "Mon, 26 Oct 2026 21:42:30 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La remontada de Lula golpea a las bolsas a la espera de las decisiones sobre los tipos de interés del BCE y la Fed",
@@ -42,24 +60,6 @@
       "titular": "El Gobierno asegura que el salario mínimo seguirá sin pagar IRPF tras la subida de 2027",
       "enlace": "https://www.eldiario.es/economia/gobierno-asegura-salario-minimo-seguira-pagar-irpf-subida-2027_1_13614493.html",
       "fecha": "Mon, 26 Oct 2026 08:43:02 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Moeve y Galp ponen fin a sus negociaciones para crear un 'campeón energético' ibérico",
-      "enlace": "https://www.eldiario.es/economia/moeve-galp-ponen-negociaciones-crear-campeon-energetico-iberico_1_13614446.html",
-      "fecha": "Mon, 26 Oct 2026 08:19:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo expedienta a una plataforma por mantener anuncios turísticos en Palestina ocupada",
-      "enlace": "https://www.eldiario.es/economia/consumo-expedienta-plataforma-mantener-anuncios-turisticos-palestina-ocupada_1_13614442.html",
-      "fecha": "Mon, 26 Oct 2026 08:18:31 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las telefónicas de La Caixa, Sepi y los saudíes ya valen 1.000 millones menos",
-      "enlace": "https://www.eldiario.es/economia/caixa-sepi-saudies-palman-1-000-millones-telefonica_129_13609296.html",
-      "fecha": "Sun, 25 Oct 2026 20:21:26 +0000"
     }
   ]
 }
