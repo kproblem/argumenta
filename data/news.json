@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-27T06:27:40.506Z",
+  "actualizado": "2026-10-27T09:29:13.284Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El empleo marcó un nuevo récord de 22,8 millones de trabajadores y el paro subió en 95.900 personas en verano",
+      "enlace": "https://www.eldiario.es/economia/empleo-marco-nuevo-record-22-8-millones-trabajadores-paro-subio-95-900-personas-verano_1_13617404.html",
+      "fecha": "Tue, 27 Oct 2026 08:10:03 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Un informe desmonta las dudas del gurú de Feijóo sobre el autoconsumo: \"Un activo estratégico para la industria\"",
@@ -54,12 +60,6 @@
       "titular": "Óscar Puente: \"Tenemos una necesidad urgente de trenes de alta velocidad\"",
       "enlace": "https://www.eldiario.es/economia/oscar-puente-necesidad-urgente-trenes-alta-velocidad_1_13614655.html",
       "fecha": "Mon, 26 Oct 2026 10:01:03 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno asegura que el salario mínimo seguirá sin pagar IRPF tras la subida de 2027",
-      "enlace": "https://www.eldiario.es/economia/gobierno-asegura-salario-minimo-seguira-pagar-irpf-subida-2027_1_13614493.html",
-      "fecha": "Mon, 26 Oct 2026 08:43:02 +0000"
     }
   ]
 }
