@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-28T06:31:24.862Z",
+  "actualizado": "2026-10-28T09:35:36.449Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Un choque entre dos trenes de alta velocidad en Toledo obliga a suspender la línea Madrid-Andalucía",
+      "enlace": "https://www.eldiario.es/economia/adif-suspende-circulacion-linea-ave-madrid-andalucia-alcance-trenes_1_13620625.html",
+      "fecha": "Wed, 28 Oct 2026 08:30:23 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El auge del tráfico aéreo y la actividad internacional elevan las ganancias de Aena, que crecen un 12,4%",
+      "enlace": "https://www.eldiario.es/economia/auge-trafico-aereo-actividad-internacional-elevan-ganancias-aena-crecen-12-4_1_13620553.html",
+      "fecha": "Wed, 28 Oct 2026 08:11:55 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Redeia gana 410 millones hasta septiembre, un 5,3% más, y eleva un 19% sus inversiones en redes",
+      "enlace": "https://www.eldiario.es/economia/redeia-gana-410-millones-septiembre-5-3-eleva-19-inversiones-redes_1_13620544.html",
+      "fecha": "Wed, 28 Oct 2026 08:09:25 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Endesa gana 1.962 millones hasta septiembre y pide un decreto \"proporcionado\" para los centros de datos",
+      "enlace": "https://www.eldiario.es/economia/endesa-gana-1-962-millones-septiembre-pide-decreto-proporcionado-centros-datos_1_13620483.html",
+      "fecha": "Wed, 28 Oct 2026 07:22:32 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Banco Santander dispara un 20% su beneficio con la venta del negocio en Polonia y gana 12.405 millones",
+      "enlace": "https://www.eldiario.es/economia/banco-santander-dispara-20-beneficio-venta-negocio-polonia-gana-12-405-millones_1_13619122.html",
+      "fecha": "Wed, 28 Oct 2026 07:13:34 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "No demonizar al turismo",
@@ -9,7 +39,7 @@
     },
     {
       "medio": "elDiario.es",
-      "titular": "Vecinos de Madrid denuncian 144 pisos turísticos y el bloque de Paquita, pero Ayuso y Almeida los mantienen abiertos",
+      "titular": "El barrio de Paquita: 144 pisos turísticos ilegales denunciados por los vecinos que Almeida y Ayuso mantienen abiertos",
       "enlace": "https://www.eldiario.es/economia/vecinos-madrid-denuncian-144-pisos-turisticos-bloque-paquita-ayuso-almeida-mantienen-abiertos_1_13565555.html",
       "fecha": "Tue, 27 Oct 2026 21:30:43 +0000"
     },
@@ -30,36 +60,6 @@
       "titular": "La patronal madrileña pide recuperar el despido por bajas laborales reiteradas",
       "enlace": "https://www.eldiario.es/economia/patronal-madrilena-pide-recuperar-despido-bajas-laborales-reiteradas_1_13619412.html",
       "fecha": "Tue, 27 Oct 2026 15:58:17 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ryanair cerrará la facturación de equipaje en aeropuerto una hora antes del vuelo desde el 10 de noviembre",
-      "enlace": "https://www.eldiario.es/economia/ryanair-cerrara-facturacion-equipaje-aeropuerto-hora-vuelo-10-noviembre_1_13618792.html",
-      "fecha": "Tue, 27 Oct 2026 13:05:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Casa 47 inyecta 200 millones a constructoras para hacer 2.500 viviendas, pero con condiciones",
-      "enlace": "https://www.eldiario.es/economia/casa-47-inyecta-200-millones-constructoras-2-500-viviendas-condiciones_1_13618576.html",
-      "fecha": "Tue, 27 Oct 2026 12:59:20 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Todos los repartidores de Uber Eats serán personal contratado a partir del 30 de noviembre",
-      "enlace": "https://www.eldiario.es/economia/repartidores-uber-eats-seran-personal-contratado-partir-30-noviembre_1_13618665.html",
-      "fecha": "Tue, 27 Oct 2026 12:51:20 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El sector de los centros de datos cree que el nuevo decreto del Gobierno también es \"incumplible\" y tiene \"ilegalidades\"",
-      "enlace": "https://www.eldiario.es/economia/sector-centros-datos-cree-nuevo-decreto-gobierno-incumplible-ilegalidades_1_13618302.html",
-      "fecha": "Tue, 27 Oct 2026 12:21:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Renfe encarga su megacontrato a Siemens: compra 30 trenes de alta velocidad por más de 1.200 millones",
-      "enlace": "https://www.eldiario.es/economia/renfe-encarga-megacontrato-siemens-compra-30-trenes-alta-velocidad-1-200-millones_1_13618136.html",
-      "fecha": "Tue, 27 Oct 2026 11:58:10 +0000"
     }
   ]
 }
