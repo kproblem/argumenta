@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-27T20:27:16.458Z",
+  "actualizado": "2026-10-28T06:31:24.862Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "No demonizar al turismo",
+      "enlace": "https://www.eldiario.es/economia/no-demonizar-turismo_129_13619279.html",
+      "fecha": "Tue, 27 Oct 2026 21:30:43 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Vecinos de Madrid denuncian 144 pisos turísticos y el bloque de Paquita, pero Ayuso y Almeida los mantienen abiertos",
+      "enlace": "https://www.eldiario.es/economia/vecinos-madrid-denuncian-144-pisos-turisticos-bloque-paquita-ayuso-almeida-mantienen-abiertos_1_13565555.html",
+      "fecha": "Tue, 27 Oct 2026 21:30:43 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El gurú económico del PP promete ahora no cambiar “ningún elemento de la regulación del autoconsumo”",
@@ -48,18 +60,6 @@
       "titular": "Renfe encarga su megacontrato a Siemens: compra 30 trenes de alta velocidad por más de 1.200 millones",
       "enlace": "https://www.eldiario.es/economia/renfe-encarga-megacontrato-siemens-compra-30-trenes-alta-velocidad-1-200-millones_1_13618136.html",
       "fecha": "Tue, 27 Oct 2026 11:58:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La editorial Vicens Vives presenta un ERE para más de 120 personas y se plantea cerrar Gráficas Instar",
-      "enlace": "https://www.eldiario.es/economia/editorial-vicens-vives-presenta-ere-120-personas-plantea-cerrar-graficas-instar_1_13617739.html",
-      "fecha": "Tue, 27 Oct 2026 10:03:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los servicios mínimos de la huelga de Renfe de este jueves 29 de octubre",
-      "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-renfe-jueves-29-octubre_1_13617692.html",
-      "fecha": "Tue, 27 Oct 2026 09:56:23 +0000"
     }
   ]
 }
