@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-29T09:39:07.323Z",
+  "actualizado": "2026-10-29T17:36:48.591Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Fátima Báñez, la ministra de la reforma laboral de Rajoy y de la anterior gran huelga general",
+      "enlace": "https://www.eldiario.es/economia/fatima-banez-ministra-reforma-laboral-rajoy-anterior-gran-huelga-general_1_13622087.html",
+      "fecha": "Thu, 29 Oct 2026 16:28:34 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "España no ha \"regalado\" millones de euros a Marruecos, Uzbekistán y Egipto para mejorar sus trenes",
+      "enlace": "https://www.eldiario.es/economia/espana-no-regalado-millones-euros-marruecos-uzbekistan-egipto-mejorar-trenes_1_13624170.html",
+      "fecha": "Thu, 29 Oct 2026 13:27:31 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Muere la exministra Fátima Báñez en el accidente ferroviario de Urda",
+      "enlace": "https://www.eldiario.es/economia/muere-exministra-fatima-banez-accidente-ferroviario-urda_1_13624112.html",
+      "fecha": "Thu, 29 Oct 2026 13:18:29 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El BCE mantiene los tipos de interés en el 2,5% en una reunión marcada por la salida anticipada de Lagarde",
+      "enlace": "https://www.eldiario.es/economia/bce-mantiene-tipos-interes-2-5-reunion-marcada-salida-anticipada-lagarde_1_13624194.html",
+      "fecha": "Thu, 29 Oct 2026 13:15:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Malestar por el señalamiento al operario de Atocha: \"Todos podemos cometer errores, pero hay fallos estructurales\"",
+      "enlace": "https://www.eldiario.es/economia/malestar-senalamiento-operario-atocha-cometer-errores-hay-fallos-estructurales_1_13624144.html",
+      "fecha": "Thu, 29 Oct 2026 11:34:03 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La avería de un Ouigo provoca retrasos en la línea de alta velocidad entre Madrid y la Comunitat Valenciana",
+      "enlace": "https://www.eldiario.es/economia/incidencia-tren-ouigo-interrumpe-circulacion-alta-velocidad-levante_1_13624228.html",
+      "fecha": "Thu, 29 Oct 2026 11:25:37 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Lagarde anuncia su salida de la presidencia del BCE y abre la pugna por su sucesión",
+      "enlace": "https://www.eldiario.es/economia/lagarde-anuncia-salida-presidencia-bce-abre-pugna-sucesion_1_13623923.html",
+      "fecha": "Thu, 29 Oct 2026 10:13:08 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Naturgy gana 1.758 millones entre enero y septiembre, un 5,9% más, y eleva previsiones hasta otro beneficio récord",
@@ -18,48 +60,6 @@
       "titular": "Repsol multiplica por cuatro su beneficio entre enero y septiembre, hasta 5.006 millones",
       "enlace": "https://www.eldiario.es/economia/repsol-multiplica-cuatro-beneficio-enero-septiembre-5-006-millones_1_13623444.html",
       "fecha": "Thu, 29 Oct 2026 07:08:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El BBVA ganó 9.066 millones de euros hasta septiembre, un 13,6% más, gracias a los intereses y a las comisiones",
-      "enlace": "https://www.eldiario.es/economia/bbva-gano-9-066-millones-euros-septiembre-13-6-gracias-intereses-comisiones_1_13623423.html",
-      "fecha": "Thu, 29 Oct 2026 06:43:09 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Banco Sabadell gana 1.376 millones hasta septiembre, un 1% menos, por la venta de TSB",
-      "enlace": "https://www.eldiario.es/economia/banco-sabadell-gana-1-376-millones-septiembre-1-venta-tsb_1_13623419.html",
-      "fecha": "Thu, 29 Oct 2026 06:35:07 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El rechazo en febrero de Junts, PP y Vox impide topar precios para evitar subidas excesivas por el accidente",
-      "enlace": "https://www.eldiario.es/economia/rechazo-congreso-junts-pp-vox-impide-topar-precios-evitar-excesos-accidente_1_13621745.html",
-      "fecha": "Wed, 28 Oct 2026 13:00:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los peores accidentes ferroviarios que han ocurrido en España: de Angrois a Adamuz y Urda (Toledo)",
-      "enlace": "https://www.eldiario.es/economia/peores-accidentes-ferroviarios-han-ocurrido-espana-angrois-adamuz-urda-toledo_1_13621415.html",
-      "fecha": "Wed, 28 Oct 2026 12:26:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La exministra Fátima Báñez viajaba en uno de los trenes accidentados en Toledo",
-      "enlace": "https://www.eldiario.es/economia/exministra-fatima-banez-viajaba-trenes-accidentados-toledo_1_13621521.html",
-      "fecha": "Wed, 28 Oct 2026 11:49:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Al menos 68 muertos y más de un centenar de heridos tras chocar dos trenes en Urda",
-      "enlace": "https://www.eldiario.es/economia/adif-suspende-circulacion-linea-ave-madrid-andalucia-alcance-trenes_1_13620625.html",
-      "fecha": "Wed, 28 Oct 2026 08:30:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El auge del tráfico aéreo y la actividad internacional elevan las ganancias de Aena, que crecen un 12,4%",
-      "enlace": "https://www.eldiario.es/economia/auge-trafico-aereo-actividad-internacional-elevan-ganancias-aena-crecen-12-4_1_13620553.html",
-      "fecha": "Wed, 28 Oct 2026 08:11:55 +0000"
     }
   ]
 }
