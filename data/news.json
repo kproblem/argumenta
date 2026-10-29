@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-29T06:34:02.448Z",
+  "actualizado": "2026-10-29T09:39:07.323Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Naturgy gana 1.758 millones entre enero y septiembre, un 5,9% más, y eleva previsiones hasta otro beneficio récord",
+      "enlace": "https://www.eldiario.es/economia/naturgy-gana-1-758-millones-enero-septiembre-5-9-eleva-previsiones-beneficio-record_1_13623522.html",
+      "fecha": "Thu, 29 Oct 2026 08:10:08 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Indra ganó 355 millones, un 22% más, empujada por su negocio de defensa y espacio",
+      "enlace": "https://www.eldiario.es/economia/indra-gano-355-millones-22-empujada-negocio-defensa-espacio_1_13623436.html",
+      "fecha": "Thu, 29 Oct 2026 07:12:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Repsol multiplica por cuatro su beneficio entre enero y septiembre, hasta 5.006 millones",
+      "enlace": "https://www.eldiario.es/economia/repsol-multiplica-cuatro-beneficio-enero-septiembre-5-006-millones_1_13623444.html",
+      "fecha": "Thu, 29 Oct 2026 07:08:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El BBVA ganó 9.066 millones de euros hasta septiembre, un 13,6% más, gracias a los intereses y a las comisiones",
+      "enlace": "https://www.eldiario.es/economia/bbva-gano-9-066-millones-euros-septiembre-13-6-gracias-intereses-comisiones_1_13623423.html",
+      "fecha": "Thu, 29 Oct 2026 06:43:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Banco Sabadell gana 1.376 millones hasta septiembre, un 1% menos, por la venta de TSB",
+      "enlace": "https://www.eldiario.es/economia/banco-sabadell-gana-1-376-millones-septiembre-1-venta-tsb_1_13623419.html",
+      "fecha": "Thu, 29 Oct 2026 06:35:07 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El rechazo en febrero de Junts, PP y Vox impide topar precios para evitar subidas excesivas por el accidente",
@@ -30,36 +60,6 @@
       "titular": "El auge del tráfico aéreo y la actividad internacional elevan las ganancias de Aena, que crecen un 12,4%",
       "enlace": "https://www.eldiario.es/economia/auge-trafico-aereo-actividad-internacional-elevan-ganancias-aena-crecen-12-4_1_13620553.html",
       "fecha": "Wed, 28 Oct 2026 08:11:55 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Redeia gana 410 millones hasta septiembre, un 5,3% más, y eleva un 19% sus inversiones en redes",
-      "enlace": "https://www.eldiario.es/economia/redeia-gana-410-millones-septiembre-5-3-eleva-19-inversiones-redes_1_13620544.html",
-      "fecha": "Wed, 28 Oct 2026 08:09:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Endesa gana 1.962 millones hasta septiembre y pide un decreto \"proporcionado\" para los centros de datos",
-      "enlace": "https://www.eldiario.es/economia/endesa-gana-1-962-millones-septiembre-pide-decreto-proporcionado-centros-datos_1_13620483.html",
-      "fecha": "Wed, 28 Oct 2026 07:22:32 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Banco Santander dispara un 20% su beneficio con la venta del negocio en Polonia y gana 12.405 millones",
-      "enlace": "https://www.eldiario.es/economia/banco-santander-dispara-20-beneficio-venta-negocio-polonia-gana-12-405-millones_1_13619122.html",
-      "fecha": "Wed, 28 Oct 2026 07:13:34 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "No demonizar al turismo",
-      "enlace": "https://www.eldiario.es/economia/no-demonizar-turismo_129_13619279.html",
-      "fecha": "Tue, 27 Oct 2026 21:30:43 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El barrio de Paquita: 144 pisos turísticos ilegales denunciados por los vecinos que Almeida y Ayuso mantienen abiertos",
-      "enlace": "https://www.eldiario.es/economia/vecinos-madrid-denuncian-144-pisos-turisticos-bloque-paquita-ayuso-almeida-mantienen-abiertos_1_13565555.html",
-      "fecha": "Tue, 27 Oct 2026 21:30:43 +0000"
     }
   ]
 }
