@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-10-30T06:34:33.628Z",
+  "actualizado": "2026-10-30T09:39:56.967Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La inflación se dispara otro 4,9% en octubre pese al abaratamiento de las gasolinas",
+      "enlace": "https://www.eldiario.es/economia/inflacion-dispara-4-9-octubre_1_13626158.html",
+      "fecha": "Fri, 30 Oct 2026 08:07:08 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La economía española mantiene el ritmo y el PIB creció un 0,6% en verano por la fortaleza del consumo",
+      "enlace": "https://www.eldiario.es/economia/economia-espanola-mantiene-ritmo-pib-crecio-0-6-verano-fortaleza-consumo_1_13626163.html",
+      "fecha": "Fri, 30 Oct 2026 08:00:03 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo trabaja para aprobar de nuevo el tope de precios tras situaciones de catástrofe que tumbaron PP, Vox y Junts",
+      "enlace": "https://www.eldiario.es/economia/consumo-trabaja-aprobar-nuevo-tope-precios-situaciones-catastrofe-tumbaron-pp-vox-junts_1_13626150.html",
+      "fecha": "Fri, 30 Oct 2026 07:33:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La gran banca gana 29.253 millones de euros hasta septiembre, un 15,09% más",
+      "enlace": "https://www.eldiario.es/economia/gran-banca-gana-29-253-millones-euros-septiembre-15-09_1_13626142.html",
+      "fecha": "Fri, 30 Oct 2026 07:29:59 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Binance sufre un ciberataque donde le roban 6.300 millones de dólares y bloquea la retirada de depósitos",
+      "enlace": "https://www.eldiario.es/economia/binance-sufre-ciberataque-le-roban-6-300-millones-dolares-bloquea-retirada-depositos_1_13626118.html",
+      "fecha": "Fri, 30 Oct 2026 07:02:50 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más, gracias al crecimiento del negocio",
@@ -30,36 +60,6 @@
       "titular": "Fátima Báñez, la ministra de la reforma laboral de Rajoy y de la anterior gran huelga general",
       "enlace": "https://www.eldiario.es/economia/fatima-banez-ministra-reforma-laboral-rajoy-anterior-gran-huelga-general_1_13622087.html",
       "fecha": "Thu, 29 Oct 2026 16:28:34 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España no ha \"regalado\" millones de euros a Marruecos, Uzbekistán y Egipto para mejorar sus trenes",
-      "enlace": "https://www.eldiario.es/economia/espana-no-regalado-millones-euros-marruecos-uzbekistan-egipto-mejorar-trenes_1_13624170.html",
-      "fecha": "Thu, 29 Oct 2026 13:27:31 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Muere la exministra Fátima Báñez en el accidente ferroviario de Urda",
-      "enlace": "https://www.eldiario.es/economia/muere-exministra-fatima-banez-accidente-ferroviario-urda_1_13624112.html",
-      "fecha": "Thu, 29 Oct 2026 13:18:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El BCE mantiene los tipos de interés en el 2,5% en una reunión marcada por la salida anticipada de Lagarde",
-      "enlace": "https://www.eldiario.es/economia/bce-mantiene-tipos-interes-2-5-reunion-marcada-salida-anticipada-lagarde_1_13624194.html",
-      "fecha": "Thu, 29 Oct 2026 13:15:22 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Malestar por el señalamiento al operario de Atocha: \"Todos podemos cometer errores, pero hay fallos estructurales\"",
-      "enlace": "https://www.eldiario.es/economia/malestar-senalamiento-operario-atocha-cometer-errores-hay-fallos-estructurales_1_13624144.html",
-      "fecha": "Thu, 29 Oct 2026 11:34:03 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La avería de un Ouigo provoca retrasos en la línea de alta velocidad entre Madrid y la Comunitat Valenciana",
-      "enlace": "https://www.eldiario.es/economia/incidencia-tren-ouigo-interrumpe-circulacion-alta-velocidad-levante_1_13624228.html",
-      "fecha": "Thu, 29 Oct 2026 11:25:37 +0000"
     }
   ]
 }
