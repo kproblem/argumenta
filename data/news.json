@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-29T20:31:19.103Z",
+  "actualizado": "2026-10-30T06:34:33.628Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más, gracias al crecimiento del negocio",
+      "enlace": "https://www.eldiario.es/economia/caixabank-gana-4-962-millones-septiembre-12-9-gracias-crecimiento-negocio_1_13626102.html",
+      "fecha": "Fri, 30 Oct 2026 06:29:34 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La gran experta en brecha salarial: \"Las profesiones feminizadas tienen el doble de probabilidades de ser afectadas por la IA\"",
+      "enlace": "https://www.eldiario.es/economia/gran-experta-brecha-salarial-profesiones-feminizadas-doble-probabilidades-afectadas-ia_1_13543548.html",
+      "fecha": "Thu, 29 Oct 2026 21:30:24 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La Agencia de Seguridad Ferroviaria lleva seis años incumpliendo sus planes para auditar a Adif",
+      "enlace": "https://www.eldiario.es/economia/agencia-seguridad-ferroviaria-lleva-seis-anos-incumpliendo-planes-auditar-adif_1_13625481.html",
+      "fecha": "Thu, 29 Oct 2026 21:30:18 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Renfe cifra en un 26,6% el seguimiento de la huelga de maquinistas de este jueves",
@@ -42,24 +60,6 @@
       "titular": "La avería de un Ouigo provoca retrasos en la línea de alta velocidad entre Madrid y la Comunitat Valenciana",
       "enlace": "https://www.eldiario.es/economia/incidencia-tren-ouigo-interrumpe-circulacion-alta-velocidad-levante_1_13624228.html",
       "fecha": "Thu, 29 Oct 2026 11:25:37 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Lagarde anuncia su salida de la presidencia del BCE y abre la pugna por su sucesión",
-      "enlace": "https://www.eldiario.es/economia/lagarde-anuncia-salida-presidencia-bce-abre-pugna-sucesion_1_13623923.html",
-      "fecha": "Thu, 29 Oct 2026 10:13:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Naturgy gana 1.758 millones entre enero y septiembre, un 5,9% más, y eleva previsiones hasta otro beneficio récord",
-      "enlace": "https://www.eldiario.es/economia/naturgy-gana-1-758-millones-enero-septiembre-5-9-eleva-previsiones-beneficio-record_1_13623522.html",
-      "fecha": "Thu, 29 Oct 2026 08:10:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Indra ganó 355 millones, un 22% más, empujada por su negocio de defensa y espacio",
-      "enlace": "https://www.eldiario.es/economia/indra-gano-355-millones-22-empujada-negocio-defensa-espacio_1_13623436.html",
-      "fecha": "Thu, 29 Oct 2026 07:12:11 +0000"
     }
   ]
 }
