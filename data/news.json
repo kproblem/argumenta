@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-10-30T20:26:48.057Z",
+  "actualizado": "2026-10-31T06:32:57.344Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Claves de la batalla por la presidencia del BCE en la que España se juega dirigir la política monetaria europea",
+      "enlace": "https://www.eldiario.es/economia/claves-batalla-presidencia-bce-espana-juega-dirigir-politica-monetaria-europea_1_13626803.html",
+      "fecha": "Fri, 30 Oct 2026 21:17:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los ciudadanos de los países ricos empiezan a reclamar un nuevo contrato social",
+      "enlace": "https://www.eldiario.es/economia/ciudadanos-paises-ricos-empiezan-reclamar-nuevo-contrato-social_129_13627853.html",
+      "fecha": "Fri, 30 Oct 2026 21:17:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La plantilla advierte del aumento de presión, carga de trabajo y personal sin experiencia en el control ferroviario",
+      "enlace": "https://www.eldiario.es/economia/plantilla-advierte-aumento-presion-carga-trabajo-personal-experiencia-control-ferroviario_1_13625397.html",
+      "fecha": "Fri, 30 Oct 2026 21:17:11 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los inspectores piden refundar la Agencia Tributaria y su director apuesta por transformarla con tecnología",
@@ -42,24 +60,6 @@
       "titular": "Consumo trabaja para aprobar de nuevo el tope de precios tras situaciones de catástrofe que tumbaron PP, Vox y Junts",
       "enlace": "https://www.eldiario.es/economia/consumo-trabaja-aprobar-nuevo-tope-precios-situaciones-catastrofe-tumbaron-pp-vox-junts_1_13626150.html",
       "fecha": "Fri, 30 Oct 2026 07:33:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La gran banca gana 29.253 millones de euros hasta septiembre, un 15,09% más",
-      "enlace": "https://www.eldiario.es/economia/gran-banca-gana-29-253-millones-euros-septiembre-15-09_1_13626142.html",
-      "fecha": "Fri, 30 Oct 2026 07:29:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Binance sufre un ciberataque donde le roban 6.300 millones de dólares y bloquea la retirada de depósitos",
-      "enlace": "https://www.eldiario.es/economia/binance-sufre-ciberataque-le-roban-6-300-millones-dolares-bloquea-retirada-depositos_1_13626118.html",
-      "fecha": "Fri, 30 Oct 2026 07:02:50 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más, gracias al crecimiento del negocio",
-      "enlace": "https://www.eldiario.es/economia/caixabank-gana-4-962-millones-septiembre-12-9-gracias-crecimiento-negocio_1_13626102.html",
-      "fecha": "Fri, 30 Oct 2026 06:29:34 +0000"
     }
   ]
 }
