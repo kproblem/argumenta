@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-10-31T20:22:21.136Z",
+  "actualizado": "2026-11-01T06:39:07.624Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Así funciona el centro de control del AVE en Atocha: 5 mesas, 16 profesionales y el doble de trenes por turno que antes de la liberalización",
+      "enlace": "https://www.eldiario.es/economia/funciona-centro-control-ave-atocha-5-mesas-16-profesionales-doble-trenes-turno-liberalizacion_1_13628184.html",
+      "fecha": "Sat, 31 Oct 2026 21:12:14 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Claves de la batalla por la presidencia del BCE en la que España se juega dirigir la política monetaria europea",
@@ -54,12 +60,6 @@
       "titular": "La economía española mantiene el ritmo y el PIB creció un 0,6% en verano por la fortaleza del consumo",
       "enlace": "https://www.eldiario.es/economia/economia-espanola-mantiene-ritmo-pib-crecio-0-6-verano-fortaleza-consumo_1_13626163.html",
       "fecha": "Fri, 30 Oct 2026 08:00:03 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo trabaja para aprobar de nuevo el tope de precios tras situaciones de catástrofe que tumbaron PP, Vox y Junts",
-      "enlace": "https://www.eldiario.es/economia/consumo-trabaja-aprobar-nuevo-tope-precios-situaciones-catastrofe-tumbaron-pp-vox-junts_1_13626150.html",
-      "fecha": "Fri, 30 Oct 2026 07:33:54 +0000"
     }
   ]
 }
