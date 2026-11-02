@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-01T20:22:33.745Z",
+  "actualizado": "2026-11-02T06:58:36.348Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Inmigración en la campaña",
+      "enlace": "https://www.eldiario.es/economia/inmigracion-campana_129_13624518.html",
+      "fecha": "Sun, 01 Nov 2026 21:07:53 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El capital riesgo se lanza a invertir en empresas españolas de defensa con el paraguas del Estado",
+      "enlace": "https://www.eldiario.es/economia/capital-riesgo-lanza-invertir-empresas-espanolas-defensa-paraguas_1_13608662.html",
+      "fecha": "Sun, 01 Nov 2026 21:07:47 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La alta velocidad, la joya de la corona ahora cuestionada por la falta de inversiones y el impacto de la liberalización",
+      "enlace": "https://www.eldiario.es/economia/alta-velocidad-joya-corona-ahora-cuestionada-falta-inversiones-impacto-liberalizacion_1_13627952.html",
+      "fecha": "Sun, 01 Nov 2026 21:07:43 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Así funciona el centro de control del AVE en Atocha: 5 mesas, 16 profesionales y el doble de trenes por turno que antes de la liberalización",
@@ -42,24 +60,6 @@
       "titular": "Óscar Puente: “Quienes estaban en el centro de control tenían a la vista lo que estaba sucediendo”",
       "enlace": "https://www.eldiario.es/economia/oscar-puente-reconoce-estudia-parar-alta-velocidad-madrid-barcelona-proxima-renovacion_1_13626256.html",
       "fecha": "Fri, 30 Oct 2026 11:54:20 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Moeve multiplica por seis su beneficio entre enero y septiembre, hasta 1.430 millones",
-      "enlace": "https://www.eldiario.es/economia/moeve-multiplica-seis-beneficio-enero-septiembre-1-430-millones_1_13626536.html",
-      "fecha": "Fri, 30 Oct 2026 10:09:47 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La inflación se dispara otro 4,9% en octubre pese al abaratamiento de las gasolinas",
-      "enlace": "https://www.eldiario.es/economia/inflacion-dispara-4-9-octubre_1_13626158.html",
-      "fecha": "Fri, 30 Oct 2026 08:07:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La economía española mantiene el ritmo y el PIB creció un 0,6% en verano por la fortaleza del consumo",
-      "enlace": "https://www.eldiario.es/economia/economia-espanola-mantiene-ritmo-pib-crecio-0-6-verano-fortaleza-consumo_1_13626163.html",
-      "fecha": "Fri, 30 Oct 2026 08:00:03 +0000"
     }
   ]
 }
