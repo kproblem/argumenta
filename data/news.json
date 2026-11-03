@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T17:41:11.079Z",
+  "actualizado": "2026-11-03T20:36:08.468Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Sindicatos y organizaciones sociales de siete países reclaman una fuerte movilización coordinada en toda Europa",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-organizaciones-sociales-siete-paises-reclaman-fuerte-movilizacion-coordinada-europa_1_13635630.html",
+      "fecha": "Tue, 03 Nov 2026 19:15:33 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Óscar Puente: \"El centro de control recibió que el Iryo seguía parado pero no tomó ninguna acción\"",
@@ -54,12 +60,6 @@
       "titular": "Disney estudia miles de despidos y plantea reducir un 20% sus costes anuales",
       "enlace": "https://www.eldiario.es/economia/disney-estudia-miles-despidos-plantea-reducir-20-costes-anuales_1_13632837.html",
       "fecha": "Tue, 03 Nov 2026 08:12:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La globalización se resquebraja por varias costuras: de la energía y la IA al comercio y el capital",
-      "enlace": "https://www.eldiario.es/economia/globalizacion-resquebraja-costuras-energia-ia-comercio-capital_129_13631516.html",
-      "fecha": "Mon, 02 Nov 2026 21:07:13 +0000"
     }
   ]
 }
