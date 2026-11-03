@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T06:49:07.140Z",
+  "actualizado": "2026-11-03T09:46:46.513Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Disney estudia miles de despidos y plantea reducir un 20% sus costes anuales",
+      "enlace": "https://www.eldiario.es/economia/disney-estudia-miles-despidos-plantea-reducir-20-costes-anuales_1_13632837.html",
+      "fecha": "Tue, 03 Nov 2026 08:12:11 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La globalización se resquebraja por varias costuras: de la energía y la IA al comercio y el capital",
@@ -54,12 +60,6 @@
       "titular": "Claves de la batalla por la presidencia del BCE en la que España se juega dirigir la política monetaria europea",
       "enlace": "https://www.eldiario.es/economia/claves-batalla-presidencia-bce-espana-juega-dirigir-politica-monetaria-europea_1_13626803.html",
       "fecha": "Fri, 30 Oct 2026 21:17:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los ciudadanos de los países ricos empiezan a reclamar un nuevo contrato social",
-      "enlace": "https://www.eldiario.es/economia/ciudadanos-paises-ricos-empiezan-reclamar-nuevo-contrato-social_129_13627853.html",
-      "fecha": "Fri, 30 Oct 2026 21:17:14 +0000"
     }
   ]
 }
