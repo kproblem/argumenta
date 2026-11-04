@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-03T20:36:08.468Z",
+  "actualizado": "2026-11-04T06:53:27.230Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El país que dejó de cuidar sus infraestructuras",
+      "enlace": "https://www.eldiario.es/economia/pais-dejo-cuidar-infraestructuras_129_13631717.html",
+      "fecha": "Tue, 03 Nov 2026 23:18:34 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Sindicatos y organizaciones sociales de siete países reclaman una fuerte movilización coordinada en toda Europa",
@@ -54,12 +60,6 @@
       "titular": "CCOO y UGT defienden la huelga y preguntan a Feijóo si gobernará con un partido que “arruinará” los servicios públicos",
       "enlace": "https://www.eldiario.es/economia/ccoo-ugt-defienden-huelga-preguntan-feijoo-si-gobernara-partido-arruinara-servicios-publicos_1_13633155.html",
       "fecha": "Tue, 03 Nov 2026 09:57:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Disney estudia miles de despidos y plantea reducir un 20% sus costes anuales",
-      "enlace": "https://www.eldiario.es/economia/disney-estudia-miles-despidos-plantea-reducir-20-costes-anuales_1_13632837.html",
-      "fecha": "Tue, 03 Nov 2026 08:12:11 +0000"
     }
   ]
 }
