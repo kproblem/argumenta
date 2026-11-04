@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-04T17:42:38.688Z",
+  "actualizado": "2026-11-04T20:41:40.498Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El presidente de Adif renuncia al cargo ante Carlos Cuerpo",
+      "enlace": "https://www.eldiario.es/economia/presidente-adif-luis-pedro-marco-pena-presenta-cuerpo-renuncia-cargo_1_13639153.html",
+      "fecha": "Wed, 04 Nov 2026 18:49:24 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La gestión de Puente más allá del tren: Ley de Movilidad, renovación de los aeropuertos y la meta de un abono único",
@@ -54,12 +60,6 @@
       "titular": "Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes",
       "enlace": "https://www.eldiario.es/economia/expertos-trabajo-recomiendan-salario-minimo-suba-4-9-2027-1-281-euros-mes_1_13636267.html",
       "fecha": "Wed, 04 Nov 2026 08:17:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los migrantes regularizados llevan a España a un octubre récord de empleo con más de 22,6 millones de trabajadores",
-      "enlace": "https://www.eldiario.es/economia/migrantes-regularizados-llevan-espana-octubre-record-empleo-22-6-millones-trabajadores_1_13635983.html",
-      "fecha": "Wed, 04 Nov 2026 08:07:20 +0000"
     }
   ]
 }
