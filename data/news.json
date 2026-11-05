@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-05T06:55:35.776Z",
+  "actualizado": "2026-11-05T09:48:47.648Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La AIE alaba el “impresionante” progreso de las renovables en España, pero reclama más electrificación",
+      "enlace": "https://www.eldiario.es/economia/aie-alaba-impresionante-progreso-renovables-espana-reclama-electrificacion_1_13639846.html",
+      "fecha": "Thu, 05 Nov 2026 09:22:13 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Hacienda mantiene para 2027 los umbrales que permiten a los autónomos tributar por módulos",
+      "enlace": "https://www.eldiario.es/economia/hacienda-mantiene-2027-umbrales-permiten-autonomos-tributar-modulos_1_13639654.html",
+      "fecha": "Thu, 05 Nov 2026 08:14:21 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La dueña de Carbonell seguirá en España: Dcoop y Acesur se hacen con Deoleo por 520 millones",
+      "enlace": "https://www.eldiario.es/economia/duela-carbonell-seguira-espana-dcoop-acesur-deoleo-520-millones_1_13639615.html",
+      "fecha": "Thu, 05 Nov 2026 07:41:19 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
+      "enlace": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
+      "fecha": "Thu, 05 Nov 2026 07:13:12 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Sorpresa positiva en el PIB del tercer trimestre",
@@ -36,30 +60,6 @@
       "titular": "España pide apoyo técnico a la Agencia Ferroviaria de la UE para investigar el accidente de Urda",
       "enlace": "https://www.eldiario.es/economia/espana-pide-apoyo-tecnico-agencia-ferroviaria-ue-investigar-accidente-urda_1_13638225.html",
       "fecha": "Wed, 04 Nov 2026 14:58:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La OCDE avisa de que hay que ahorrar más para una pensión “suficiente” en muchos países, ya garantizada en España",
-      "enlace": "https://www.eldiario.es/economia/ocde-avisa-hay-ahorrar-pension-suficiente-paises-garantizada-espana_1_13637590.html",
-      "fecha": "Wed, 04 Nov 2026 13:26:17 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La AIReF reconoce que el Gobierno no cuenta con mucho “margen fiscal” para elevar la inversión en la red ferroviaria",
-      "enlace": "https://www.eldiario.es/economia/airef-reconoce-gobierno-no-cuenta-margen-fiscal-elevar-inversion-red-ferroviaria_1_13637213.html",
-      "fecha": "Wed, 04 Nov 2026 11:53:04 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La inflación de la zona euro se dispara al 4% en octubre por los precios de la energía",
-      "enlace": "https://www.eldiario.es/economia/inflacion-zona-euro-dispara-4-octubre-precios-energia_1_13637009.html",
-      "fecha": "Wed, 04 Nov 2026 11:01:06 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Carlos Cuerpo, el ministro mejor valorado que asume el reto de recuperar la confianza en los trenes de España",
-      "enlace": "https://www.eldiario.es/economia/carlos-cuerpo-ministro-mejor-valorado-asume-reto-recuperar-confianza-trenes-espana_1_13636682.html",
-      "fecha": "Wed, 04 Nov 2026 10:44:01 +0000"
     }
   ]
 }
