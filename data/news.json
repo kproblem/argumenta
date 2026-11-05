@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-05T09:48:47.648Z",
+  "actualizado": "2026-11-05T17:48:31.433Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "CCOO extiende a Iryo y Ouigo las huelgas de Adif y Renfe del 17 de noviembre por la seguridad ferroviaria",
+      "enlace": "https://www.eldiario.es/economia/ccoo-extiende-iryo-ouigo-huelgas-adif-renfe-17-noviembre-seguridad-ferroviaria_1_13642121.html",
+      "fecha": "Thu, 05 Nov 2026 17:21:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Semaf desconvoca la huelga en Ouigo para mañana, el 9 de noviembre, el 4 y 8 de diciembre",
+      "enlace": "https://www.eldiario.es/economia/semaf-desconvoca-huelga-ouigo-manana-9-noviembre-4-8-diciembre_1_13641675.html",
+      "fecha": "Thu, 05 Nov 2026 15:31:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La patronal pide frenar la subida del salario mínimo y que sea el próximo Gobierno quien la negocie",
+      "enlace": "https://www.eldiario.es/economia/patronal-pide-frenar-subida-salario-minimo-sea-proximo-gobierno-negocie_1_13640944.html",
+      "fecha": "Thu, 05 Nov 2026 12:51:48 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Competencia pone fin a la definición de Telefónica como prestador universal de telefonía",
+      "enlace": "https://www.eldiario.es/economia/competencia-pone-definicion-telefonica-prestador-universal-telefonia_1_13640572.html",
+      "fecha": "Thu, 05 Nov 2026 11:39:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno alerta del impacto de los centros de datos en el precio de la luz y las emisiones de CO2",
+      "enlace": "https://www.eldiario.es/economia/gobierno-alerta-impacto-centros-datos-precio-luz-emisiones-co2_1_13640177.html",
+      "fecha": "Thu, 05 Nov 2026 10:25:52 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La AIE alaba el “impresionante” progreso de las renovables en España, pero reclama más electrificación",
@@ -30,36 +60,6 @@
       "titular": "Sorpresa positiva en el PIB del tercer trimestre",
       "enlace": "https://www.eldiario.es/economia/sorpresa-positiva-pib-tercer-trimestre_129_13638265.html",
       "fecha": "Wed, 04 Nov 2026 21:14:30 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Alicia del Río: \"Es patético usar el accidente de Urda para tumbar una huelga que también es por los servicios públicos\"",
-      "enlace": "https://www.eldiario.es/economia/alicia-rio-patetico-accidente-urda-tumbar-huelga-servicios-publicos_128_13634848.html",
-      "fecha": "Wed, 04 Nov 2026 21:14:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La plantilla de Adif ha crecido un 10% desde la liberalización, con el tráfico disparado y en pleno relevo generacional",
-      "enlace": "https://www.eldiario.es/economia/plantilla-adif-crecido-10-liberalizacion-trafico-disparado-pleno-relevo-generacional_1_13635233.html",
-      "fecha": "Wed, 04 Nov 2026 21:14:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El presidente de Adif renuncia al cargo ante Carlos Cuerpo",
-      "enlace": "https://www.eldiario.es/economia/presidente-adif-luis-pedro-marco-pena-presenta-cuerpo-renuncia-cargo_1_13639153.html",
-      "fecha": "Wed, 04 Nov 2026 18:49:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La gestión de Puente más allá del tren: Ley de Movilidad, renovación de los aeropuertos y la meta de un abono único",
-      "enlace": "https://www.eldiario.es/economia/gestion-puente-tren-ley-movilidad-renovacion-aeropuertos-meta-abono-unico_1_13637022.html",
-      "fecha": "Wed, 04 Nov 2026 17:09:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España pide apoyo técnico a la Agencia Ferroviaria de la UE para investigar el accidente de Urda",
-      "enlace": "https://www.eldiario.es/economia/espana-pide-apoyo-tecnico-agencia-ferroviaria-ue-investigar-accidente-urda_1_13638225.html",
-      "fecha": "Wed, 04 Nov 2026 14:58:42 +0000"
     }
   ]
 }
