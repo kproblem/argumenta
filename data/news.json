@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-04T20:41:40.498Z",
+  "actualizado": "2026-11-05T06:55:35.776Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Sorpresa positiva en el PIB del tercer trimestre",
+      "enlace": "https://www.eldiario.es/economia/sorpresa-positiva-pib-tercer-trimestre_129_13638265.html",
+      "fecha": "Wed, 04 Nov 2026 21:14:30 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Alicia del Río: \"Es patético usar el accidente de Urda para tumbar una huelga que también es por los servicios públicos\"",
+      "enlace": "https://www.eldiario.es/economia/alicia-rio-patetico-accidente-urda-tumbar-huelga-servicios-publicos_128_13634848.html",
+      "fecha": "Wed, 04 Nov 2026 21:14:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La plantilla de Adif ha crecido un 10% desde la liberalización, con el tráfico disparado y en pleno relevo generacional",
+      "enlace": "https://www.eldiario.es/economia/plantilla-adif-crecido-10-liberalizacion-trafico-disparado-pleno-relevo-generacional_1_13635233.html",
+      "fecha": "Wed, 04 Nov 2026 21:14:25 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El presidente de Adif renuncia al cargo ante Carlos Cuerpo",
@@ -42,24 +60,6 @@
       "titular": "Carlos Cuerpo, el ministro mejor valorado que asume el reto de recuperar la confianza en los trenes de España",
       "enlace": "https://www.eldiario.es/economia/carlos-cuerpo-ministro-mejor-valorado-asume-reto-recuperar-confianza-trenes-espana_1_13636682.html",
       "fecha": "Wed, 04 Nov 2026 10:44:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Canva se suma a la oleada de recortes de Disney y Microsoft: despedirá o reubicará al 22% de su plantilla",
-      "enlace": "https://www.eldiario.es/economia/canva-suma-oleada-despidos-microsoft-disney-reducira-1-200-empleos-22-plantilla_1_13636743.html",
-      "fecha": "Wed, 04 Nov 2026 10:09:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La CNMC investiga posibles prácticas anticompetitivas en los mercados energéticos",
-      "enlace": "https://www.eldiario.es/economia/cnmc-investiga-posibles-practicas-anticompetitivas-mercados-energeticos_1_13636337.html",
-      "fecha": "Wed, 04 Nov 2026 08:25:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes",
-      "enlace": "https://www.eldiario.es/economia/expertos-trabajo-recomiendan-salario-minimo-suba-4-9-2027-1-281-euros-mes_1_13636267.html",
-      "fecha": "Wed, 04 Nov 2026 08:17:49 +0000"
     }
   ]
 }
