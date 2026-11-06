@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-05T20:38:07.613Z",
+  "actualizado": "2026-11-06T06:55:07.473Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La crisis ferroviaria aleja la meta de eliminar los vuelos de corto radio y refuerza el Puente Aéreo",
+      "enlace": "https://www.eldiario.es/economia/crisis-ferroviaria-aleja-meta-eliminar-vuelos-corto-radio-refuerza-puente-aereo_1_13642115.html",
+      "fecha": "Thu, 05 Nov 2026 22:43:35 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "CCOO extiende a Iryo y Ouigo las huelgas de Adif y Renfe del 17 de noviembre por la seguridad ferroviaria",
@@ -54,12 +60,6 @@
       "titular": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
       "enlace": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
       "fecha": "Thu, 05 Nov 2026 07:13:12 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sorpresa positiva en el PIB del tercer trimestre",
-      "enlace": "https://www.eldiario.es/economia/sorpresa-positiva-pib-tercer-trimestre_129_13638265.html",
-      "fecha": "Wed, 04 Nov 2026 21:14:30 +0000"
     }
   ]
 }
