@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-06T06:55:07.473Z",
+  "actualizado": "2026-11-06T09:51:30.496Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Sindicatos europeos se desmarcan de la cúpula mundial y apoyan a Yolanda Díaz para dirigir la OIT",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-europeos-desmarcan-cupula-mundial-apoyan-yolanda-diaz-dirigir-oit_1_13640099.html",
+      "fecha": "Fri, 06 Nov 2026 09:42:27 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "IAG gana un 16% menos hasta septiembre por el alza del combustible y asume el recorte de vuelos a Oriente Medio",
+      "enlace": "https://www.eldiario.es/economia/iag-gana-16-septiembre-alza-combustible-asume-recorte-vuelos-oriente-medio_1_13642937.html",
+      "fecha": "Fri, 06 Nov 2026 08:29:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno decreta la retirada de aceite de oliva del mercado por primera vez para evitar un desplome de precios",
+      "enlace": "https://www.eldiario.es/economia/gobierno-decreta-retirada-aceite-oliva-mercado-primera-vez-evitar-desplome-precios_1_13642909.html",
+      "fecha": "Fri, 06 Nov 2026 08:03:00 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La crisis ferroviaria aleja la meta de eliminar los vuelos de corto radio y refuerza el Puente Aéreo",
@@ -42,24 +60,6 @@
       "titular": "La AIE alaba el “impresionante” progreso de las renovables en España, pero reclama más electrificación",
       "enlace": "https://www.eldiario.es/economia/aie-alaba-impresionante-progreso-renovables-espana-reclama-electrificacion_1_13639846.html",
       "fecha": "Thu, 05 Nov 2026 09:22:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Hacienda mantiene para 2027 los umbrales que permiten a los autónomos tributar por módulos",
-      "enlace": "https://www.eldiario.es/economia/hacienda-mantiene-2027-umbrales-permiten-autonomos-tributar-modulos_1_13639654.html",
-      "fecha": "Thu, 05 Nov 2026 08:14:21 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La dueña de Carbonell seguirá en España: Dcoop y Acesur se hacen con Deoleo por 520 millones",
-      "enlace": "https://www.eldiario.es/economia/duela-carbonell-seguira-espana-dcoop-acesur-deoleo-520-millones_1_13639615.html",
-      "fecha": "Thu, 05 Nov 2026 07:41:19 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El salario mínimo subirá un 5,3% hasta los 1.286 euros al mes",
-      "enlace": "https://www.eldiario.es/economia/salario-minimo-subira-5-3-1-286-euros-mes_1_13639220.html",
-      "fecha": "Thu, 05 Nov 2026 07:13:12 +0000"
     }
   ]
 }
