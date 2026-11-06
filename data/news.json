@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-06T17:39:56.344Z",
+  "actualizado": "2026-11-06T20:37:08.385Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Cuerpo y los sindicatos ferroviarios se emplazan a cerrar “con urgencia” medidas para reforzar la seguridad de los trenes",
+      "enlace": "https://www.eldiario.es/economia/cuerpo-sindicatos-ferroviarios-emplazan-cerrar-urgencia-medidas-reforzar-seguridad-trenes_1_13645423.html",
+      "fecha": "Fri, 06 Nov 2026 18:01:29 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Cuerpo se compromete con las víctimas de Adamuz a poner en marcha una oficina para atenderlas",
@@ -54,12 +60,6 @@
       "titular": "IAG gana un 16% menos hasta septiembre por el alza del combustible y asume el recorte de vuelos a Oriente Medio",
       "enlace": "https://www.eldiario.es/economia/iag-gana-16-septiembre-alza-combustible-asume-recorte-vuelos-oriente-medio_1_13642937.html",
       "fecha": "Fri, 06 Nov 2026 08:29:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno decreta la retirada de aceite de oliva del mercado por primera vez para evitar un desplome de precios",
-      "enlace": "https://www.eldiario.es/economia/gobierno-decreta-retirada-aceite-oliva-mercado-primera-vez-evitar-desplome-precios_1_13642909.html",
-      "fecha": "Fri, 06 Nov 2026 08:03:00 +0000"
     }
   ]
 }
