@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-07T17:25:35.253Z",
+  "actualizado": "2026-11-07T23:21:28.705Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Mapa de la alta velocidad en el mundo: España, el segundo país con más kilómetros y el séptimo con más viajeros",
+      "enlace": "https://www.eldiario.es/economia/mapa-alta-velocidad-mundo-espana-segundo-pais-kilometros-septimo-viajeros_1_13643135.html",
+      "fecha": "Sat, 07 Nov 2026 21:41:36 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
@@ -54,12 +60,6 @@
       "titular": "El Gobierno estudia aprobar antes de las elecciones que el salario mínimo de 2027 siga sin pagar IRPF",
       "enlace": "https://www.eldiario.es/economia/gobierno-estudia-aprobar-elecciones-salario-minimo-2027-siga-pagar-irpf_1_13643546.html",
       "fecha": "Fri, 06 Nov 2026 11:34:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Claves de la retirada de aceite de oliva: una medida para proteger al agricultor que tiene a la industria en contra",
-      "enlace": "https://www.eldiario.es/economia/claves-retirada-aceite-oliva-medida-proteger-agricultor-industria_1_13643348.html",
-      "fecha": "Fri, 06 Nov 2026 10:24:44 +0000"
     }
   ]
 }
