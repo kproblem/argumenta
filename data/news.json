@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-06T20:37:08.385Z",
+  "actualizado": "2026-11-07T06:40:14.610Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Trump convierte en pesadilla el ‘sueño americano’: los ricos estadounidenses disparan su patrimonio y los trabajadores se empobrecen",
+      "enlace": "https://www.eldiario.es/economia/trump-convierte-pesadilla-sueno-americano-ricos-estadounidenses-disparan-patrimonio-trabajadores-empobrecen_129_13642954.html",
+      "fecha": "Fri, 06 Nov 2026 21:22:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los trabajadores de la OIT acusan de ocultar despidos al actual director y adversario de Yolanda Díaz",
+      "enlace": "https://www.eldiario.es/economia/trabajadores-oit-acusan-ocultar-despidos-actual-director-adversario-yolanda-diaz_1_13644699.html",
+      "fecha": "Fri, 06 Nov 2026 21:22:07 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cómo se organiza la huelga del 11N: del desahucio de Maricarmen a parar un país por la vivienda",
+      "enlace": "https://www.eldiario.es/economia/organiza-huelga-11n-desahucio-maricarmen-parar-pais-vivienda_1_13639701.html",
+      "fecha": "Fri, 06 Nov 2026 21:22:07 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Cuerpo y los sindicatos ferroviarios se emplazan a cerrar “con urgencia” medidas para reforzar la seguridad de los trenes",
@@ -42,24 +60,6 @@
       "titular": "La conexión entre el suicidio de Olga en L'Hospitalet y la administración Trump",
       "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/conexion-suicidio-olga-l-hospitalet-administracion-trump_132_13643353.html",
       "fecha": "Fri, 06 Nov 2026 10:15:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Transportes abre el plazo para que las víctimas del accidente de Urda soliciten las ayudas",
-      "enlace": "https://www.eldiario.es/economia/transportes-abre-plazo-victimas-accidente-urda-soliciten-ayudas_1_13643213.html",
-      "fecha": "Fri, 06 Nov 2026 09:52:37 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sindicatos europeos se desmarcan de la cúpula mundial y apoyan a Yolanda Díaz para dirigir la OIT",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-europeos-desmarcan-cupula-mundial-apoyan-yolanda-diaz-dirigir-oit_1_13640099.html",
-      "fecha": "Fri, 06 Nov 2026 09:42:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "IAG gana un 16% menos hasta septiembre por el alza del combustible y asume el recorte de vuelos a Oriente Medio",
-      "enlace": "https://www.eldiario.es/economia/iag-gana-16-septiembre-alza-combustible-asume-recorte-vuelos-oriente-medio_1_13642937.html",
-      "fecha": "Fri, 06 Nov 2026 08:29:44 +0000"
     }
   ]
 }
