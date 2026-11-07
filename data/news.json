@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-07T06:40:14.610Z",
+  "actualizado": "2026-11-07T09:37:05.543Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
+      "enlace": "https://www.eldiario.es/economia/consumo-abre-expediente-empresa-autobuses-practicas-enganosas-precio-clausulas-abusivas_1_13646041.html",
+      "fecha": "Sat, 07 Nov 2026 09:08:08 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Trump convierte en pesadilla el ‘sueño americano’: los ricos estadounidenses disparan su patrimonio y los trabajadores se empobrecen",
@@ -54,12 +60,6 @@
       "titular": "Claves de la retirada de aceite de oliva: una medida para proteger al agricultor que tiene a la industria en contra",
       "enlace": "https://www.eldiario.es/economia/claves-retirada-aceite-oliva-medida-proteger-agricultor-industria_1_13643348.html",
       "fecha": "Fri, 06 Nov 2026 10:24:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La conexión entre el suicidio de Olga en L'Hospitalet y la administración Trump",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/conexion-suicidio-olga-l-hospitalet-administracion-trump_132_13643353.html",
-      "fecha": "Fri, 06 Nov 2026 10:15:13 +0000"
     }
   ]
 }
