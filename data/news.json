@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T12:38:53.014Z",
+  "actualizado": "2026-11-08T20:56:08.040Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Unai Sordo y Pepe Álvarez: “La gente ha dicho 'hasta aquí hemos llegado' con la vivienda”",
+      "enlace": "https://www.eldiario.es/economia/unai-sordo-pepe-alvarez-gente-dicho-hemos-llegado-vivienda_128_13644860.html",
+      "fecha": "Sun, 08 Nov 2026 20:36:37 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El deterioro de la sanidad pública dispara un 36% el seguro privado",
+      "enlace": "https://www.eldiario.es/economia/deterioro-sanidad-publica-dispara-36-seguro-privado_129_13644560.html",
+      "fecha": "Sun, 08 Nov 2026 20:36:36 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Estos son los servicios mínimos de Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
@@ -48,18 +60,6 @@
       "titular": "Cuerpo se compromete con las víctimas de Adamuz a poner en marcha una oficina para atenderlas",
       "enlace": "https://www.eldiario.es/economia/cuerpo-compromete-victimas-adamuz-poner-marcha-oficina-atenderlas_1_13644248.html",
       "fecha": "Fri, 06 Nov 2026 13:11:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Yolanda Díaz llama a secundar la huelga general del 11N y convertirla en una \"marea de esperanza\" para las elecciones",
-      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-llama-secundar-huelga-general-11n-convertirla-marea-esperanza-elecciones_1_13643921.html",
-      "fecha": "Fri, 06 Nov 2026 12:34:30 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Hernández de Cos se enfrentará al neerlandés Knot por la presidencia del BCE",
-      "enlace": "https://www.eldiario.es/economia/gobierno-presenta-oficialmente-candidatura-pablo-hernandez-cos-presidencia-bce_1_13644008.html",
-      "fecha": "Fri, 06 Nov 2026 12:30:43 +0000"
     }
   ]
 }
