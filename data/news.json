@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-08T20:56:08.040Z",
+  "actualizado": "2026-11-09T14:57:47.892Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La Seguridad Social estudiará el desgaste físico de las 'kellys' para evaluar su jubilación anticipada",
+      "enlace": "https://www.eldiario.es/economia/seguridad-social-estudiara-desgaste-fisico-kellys-evaluar-jubilacion-anticipada_1_13649704.html",
+      "fecha": "Mon, 09 Nov 2026 13:04:32 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Sindicatos por la vivienda despliegan una lona en la Gran Vía de Madrid por el 11N: “Contra el rentismo, la patronal y sus gobiernos”",
+      "enlace": "https://www.eldiario.es/economia/sindicato-inquilinas-acciones-altura-despliegan-lona-gran-via-madrid-11n-rentismo-patronal-gobiernos_1_13648933.html",
+      "fecha": "Mon, 09 Nov 2026 10:55:39 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Transportes fija los servicios mínimos en Renfe de la huelga general del 11N: hasta 75% en Cercanías y 73% en alta velocidad",
+      "enlace": "https://www.eldiario.es/economia/transportes-fija-servicios-minimos-renfe-huelga-general-11n-75-cercanias-73-alta-velocidad_1_13648716.html",
+      "fecha": "Mon, 09 Nov 2026 08:30:03 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Carlos Cuerpo: \"Somos optimistas. Por primera vez, España puede tener a alguien al frente del BCE\"",
+      "enlace": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
+      "fecha": "Mon, 09 Nov 2026 08:20:57 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Unai Sordo y Pepe Álvarez: “La gente ha dicho 'hasta aquí hemos llegado' con la vivienda”",
@@ -36,30 +60,6 @@
       "titular": "Trump convierte en pesadilla el ‘sueño americano’: los ricos estadounidenses disparan su patrimonio y los trabajadores se empobrecen",
       "enlace": "https://www.eldiario.es/economia/trump-convierte-pesadilla-sueno-americano-ricos-estadounidenses-disparan-patrimonio-trabajadores-empobrecen_129_13642954.html",
       "fecha": "Fri, 06 Nov 2026 21:22:09 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los trabajadores de la OIT acusan de ocultar despidos al actual director y adversario de Yolanda Díaz",
-      "enlace": "https://www.eldiario.es/economia/trabajadores-oit-acusan-ocultar-despidos-actual-director-adversario-yolanda-diaz_1_13644699.html",
-      "fecha": "Fri, 06 Nov 2026 21:22:07 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cómo se organiza la huelga del 11N: del desahucio de Maricarmen a parar un país por la vivienda",
-      "enlace": "https://www.eldiario.es/economia/organiza-huelga-11n-desahucio-maricarmen-parar-pais-vivienda_1_13639701.html",
-      "fecha": "Fri, 06 Nov 2026 21:22:07 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cuerpo y los sindicatos ferroviarios se emplazan a cerrar “con urgencia” medidas para reforzar la seguridad de los trenes",
-      "enlace": "https://www.eldiario.es/economia/cuerpo-sindicatos-ferroviarios-emplazan-cerrar-urgencia-medidas-reforzar-seguridad-trenes_1_13645423.html",
-      "fecha": "Fri, 06 Nov 2026 18:01:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cuerpo se compromete con las víctimas de Adamuz a poner en marcha una oficina para atenderlas",
-      "enlace": "https://www.eldiario.es/economia/cuerpo-compromete-victimas-adamuz-poner-marcha-oficina-atenderlas_1_13644248.html",
-      "fecha": "Fri, 06 Nov 2026 13:11:28 +0000"
     }
   ]
 }
