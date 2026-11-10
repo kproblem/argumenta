@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-09T14:57:47.892Z",
+  "actualizado": "2026-11-10T00:31:29.687Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las centrales de gas baten récords de “indisponibilidad” y añaden más tensión al sistema eléctrico",
+      "enlace": "https://www.eldiario.es/economia/centrales-gas-baten-records-indisponibilidad-anaden-tension-sistema-electrico_1_13641796.html",
+      "fecha": "Mon, 09 Nov 2026 22:02:53 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La derecha contra la transición energética",
+      "enlace": "https://www.eldiario.es/economia/derecha-transicion-energetica_129_13648946.html",
+      "fecha": "Mon, 09 Nov 2026 22:02:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La crisis de la vivienda provoca la primera huelga general a las puertas de unas elecciones",
+      "enlace": "https://www.eldiario.es/economia/crisis-vivienda-provoca-primera-huelga-general-puertas-elecciones_1_13644755.html",
+      "fecha": "Mon, 09 Nov 2026 22:02:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno decreta servicios mínimos de entre el 18% y el 85% para los vuelos durante la huelga general",
+      "enlace": "https://www.eldiario.es/economia/gobierno-decreta-servicios-minimos-18-85-vuelos-durante-huelga-general_1_13650496.html",
+      "fecha": "Mon, 09 Nov 2026 17:10:51 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Tengo que informar si falto al trabajo? ¿Hay servicios mínimos? Guía de derechos y deberes en la huelga del 11N",
+      "enlace": "https://www.eldiario.es/economia/informar-si-falto-trabajo-hay-servicios-minimos-guia-derechos-deberes-huelga-11n_1_13648984.html",
+      "fecha": "Mon, 09 Nov 2026 16:01:00 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La relación del CEO de Nvidia con una presunta espía china lastra casi un 6% sus acciones en Bolsa",
+      "enlace": "https://www.eldiario.es/economia/relacion-ceo-nvidia-presunta-espia-china-lastra-6-acciones-bolsa_1_13650152.html",
+      "fecha": "Mon, 09 Nov 2026 15:05:38 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La Seguridad Social estudiará el desgaste físico de las 'kellys' para evaluar su jubilación anticipada",
@@ -24,42 +60,6 @@
       "titular": "Carlos Cuerpo: \"Somos optimistas. Por primera vez, España puede tener a alguien al frente del BCE\"",
       "enlace": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
       "fecha": "Mon, 09 Nov 2026 08:20:57 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Unai Sordo y Pepe Álvarez: “La gente ha dicho 'hasta aquí hemos llegado' con la vivienda”",
-      "enlace": "https://www.eldiario.es/economia/unai-sordo-pepe-alvarez-gente-dicho-hemos-llegado-vivienda_128_13644860.html",
-      "fecha": "Sun, 08 Nov 2026 20:36:37 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El deterioro de la sanidad pública dispara un 36% el seguro privado",
-      "enlace": "https://www.eldiario.es/economia/deterioro-sanidad-publica-dispara-36-seguro-privado_129_13644560.html",
-      "fecha": "Sun, 08 Nov 2026 20:36:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Estos son los servicios mínimos de Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
-      "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html",
-      "fecha": "Sun, 08 Nov 2026 09:59:57 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Mapa de la alta velocidad en el mundo: España, el segundo país con más kilómetros y el séptimo con más viajeros",
-      "enlace": "https://www.eldiario.es/economia/mapa-alta-velocidad-mundo-espana-segundo-pais-kilometros-septimo-viajeros_1_13643135.html",
-      "fecha": "Sat, 07 Nov 2026 21:41:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas",
-      "enlace": "https://www.eldiario.es/economia/consumo-abre-expediente-empresa-autobuses-practicas-enganosas-precio-clausulas-abusivas_1_13646041.html",
-      "fecha": "Sat, 07 Nov 2026 09:08:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Trump convierte en pesadilla el ‘sueño americano’: los ricos estadounidenses disparan su patrimonio y los trabajadores se empobrecen",
-      "enlace": "https://www.eldiario.es/economia/trump-convierte-pesadilla-sueno-americano-ricos-estadounidenses-disparan-patrimonio-trabajadores-empobrecen_129_13642954.html",
-      "fecha": "Fri, 06 Nov 2026 21:22:09 +0000"
     }
   ]
 }
