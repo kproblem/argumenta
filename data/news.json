@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-10T00:31:29.687Z",
+  "actualizado": "2026-11-10T14:11:01.771Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Gestha cifra en 1.034 euros la deducción necesaria para que el salario mínimo no pague el IRPF",
+      "enlace": "https://www.eldiario.es/economia/gestha-cifra-1-034-euros-deduccion-necesaria-salario-minimo-no-pague-irpf_1_13652577.html",
+      "fecha": "Tue, 10 Nov 2026 13:31:36 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Ana Botín anuncia que será la última persona de su familia en dirigir Banco Santander",
+      "enlace": "https://www.eldiario.es/economia/ana-botin-afirma-sera-ultima-persona-familia-dirigir-banco-santander_1_13651379.html",
+      "fecha": "Tue, 10 Nov 2026 10:35:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno crea un Defensor de víctimas de accidentes y aprueba nuevas medidas de refuerzo de la seguridad ferroviaria",
+      "enlace": "https://www.eldiario.es/economia/gobierno-crea-defensor-victimas-accidentes-aprueba-nuevas-medidas-refuerzo-seguridad-ferroviaria_1_13651432.html",
+      "fecha": "Tue, 10 Nov 2026 10:18:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El 20% de las gasolineras deberán abrir como servicio mínimo en la huelga general de este miércoles",
+      "enlace": "https://www.eldiario.es/economia/20-gasolineras-deberan-abrir-servicio-minimo-huelga-general-miercoles_1_13651366.html",
+      "fecha": "Tue, 10 Nov 2026 09:45:58 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La huelga de maquinistas paraliza líneas de Cercanías en Madrid y Rodalies de Barcelona",
+      "enlace": "https://www.eldiario.es/economia/huelga-maquinistas-paraliza-lineas-cercanias-madrid-rodalies-barcelona_1_13651204.html",
+      "fecha": "Tue, 10 Nov 2026 09:00:24 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las centrales de gas baten récords de “indisponibilidad” y añaden más tensión al sistema eléctrico",
@@ -30,36 +60,6 @@
       "titular": "¿Tengo que informar si falto al trabajo? ¿Hay servicios mínimos? Guía de derechos y deberes en la huelga del 11N",
       "enlace": "https://www.eldiario.es/economia/informar-si-falto-trabajo-hay-servicios-minimos-guia-derechos-deberes-huelga-11n_1_13648984.html",
       "fecha": "Mon, 09 Nov 2026 16:01:00 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La relación del CEO de Nvidia con una presunta espía china lastra casi un 6% sus acciones en Bolsa",
-      "enlace": "https://www.eldiario.es/economia/relacion-ceo-nvidia-presunta-espia-china-lastra-6-acciones-bolsa_1_13650152.html",
-      "fecha": "Mon, 09 Nov 2026 15:05:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La Seguridad Social estudiará el desgaste físico de las 'kellys' para evaluar su jubilación anticipada",
-      "enlace": "https://www.eldiario.es/economia/seguridad-social-estudiara-desgaste-fisico-kellys-evaluar-jubilacion-anticipada_1_13649704.html",
-      "fecha": "Mon, 09 Nov 2026 13:04:32 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sindicatos por la vivienda despliegan una lona en la Gran Vía de Madrid por el 11N: “Contra el rentismo, la patronal y sus gobiernos”",
-      "enlace": "https://www.eldiario.es/economia/sindicato-inquilinas-acciones-altura-despliegan-lona-gran-via-madrid-11n-rentismo-patronal-gobiernos_1_13648933.html",
-      "fecha": "Mon, 09 Nov 2026 10:55:39 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Transportes fija los servicios mínimos en Renfe de la huelga general del 11N: hasta 75% en Cercanías y 73% en alta velocidad",
-      "enlace": "https://www.eldiario.es/economia/transportes-fija-servicios-minimos-renfe-huelga-general-11n-75-cercanias-73-alta-velocidad_1_13648716.html",
-      "fecha": "Mon, 09 Nov 2026 08:30:03 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Carlos Cuerpo: \"Somos optimistas. Por primera vez, España puede tener a alguien al frente del BCE\"",
-      "enlace": "https://www.eldiario.es/economia/carlos-cuerpo-optimistas-primera-vez-espana-alguien-frente-bce_1_13648662.html",
-      "fecha": "Mon, 09 Nov 2026 08:20:57 +0000"
     }
   ]
 }
