@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-10T14:11:01.771Z",
+  "actualizado": "2026-11-10T22:07:04.694Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los primeros piquetes animan a unirse a la huelga general del 11N: \"Esto tiene que ser una riada de gente\"",
+      "enlace": "https://www.eldiario.es/economia/primeros-piquetes-animan-unirse-huelga-general-11n-riada-gente_1_13653998.html",
+      "fecha": "Tue, 10 Nov 2026 21:00:18 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Fin a medio siglo de peajes en la AP-68: viajar de Zaragoza a Logroño permitirá ahorrar 41 euros en ida y vuelta",
+      "enlace": "https://www.eldiario.es/economia/medio-siglo-peajes-ap-68-viajar-zaragoza-logrono-permitira-ahorrar-41-euros-ida-vuelta_1_13652367.html",
+      "fecha": "Tue, 10 Nov 2026 20:28:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "🎙 PODCAST | Razones para una huelga general",
+      "enlace": "https://www.eldiario.es/economia/podcast-razones-huelga-general_1_13653596.html",
+      "fecha": "Tue, 10 Nov 2026 20:28:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Vivir dignamente en las grandes áreas metropolitanas exige un salario de entre 1.645 y 2.061 euros brutos al mes",
+      "enlace": "https://www.eldiario.es/economia/vivir-dignamente-grandes-areas-metropolitanas-exige-salario-1-645-2-061-euros-brutos-mes_1_13653246.html",
+      "fecha": "Tue, 10 Nov 2026 20:28:10 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "España vive una huelga general inédita por el derecho a la vivienda y los sueldos dignos",
+      "enlace": "https://www.eldiario.es/economia/espana-vive-huelga-general-inedita-derecho-vivienda-sueldos-dignos_1_13652980.html",
+      "fecha": "Tue, 10 Nov 2026 20:28:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los maquinistas mueven la huelga del día 12 al 23 para tener margen de negociación tras la aprobación del decreto en el Consejo de Ministros",
+      "enlace": "https://www.eldiario.es/economia/maquinistas-mueven-huelga-dia-12-23-margen-negociacion-aprobacion-decreto-consejo-ministros_1_13653720.html",
+      "fecha": "Tue, 10 Nov 2026 18:17:23 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Ibex se queda a un paso de recuperar la cifra histórica de los 20.000 puntos impulsado por la caída del petróleo",
+      "enlace": "https://www.eldiario.es/economia/ibex-queda-paso-recuperar-cifra-historica-20-000-puntos-impulsado-caida-petroleo_1_13652863.html",
+      "fecha": "Tue, 10 Nov 2026 16:51:27 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Estos son los servicios mínimos para la huelga general del 11 de noviembre: sanidad, transportes, metro y educación",
+      "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-general-11n-sanidad-transportes-metro-educacion_1_13653244.html",
+      "fecha": "Tue, 10 Nov 2026 16:38:28 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Gestha cifra en 1.034 euros la deducción necesaria para que el salario mínimo no pague el IRPF",
@@ -12,54 +60,6 @@
       "titular": "Ana Botín anuncia que será la última persona de su familia en dirigir Banco Santander",
       "enlace": "https://www.eldiario.es/economia/ana-botin-afirma-sera-ultima-persona-familia-dirigir-banco-santander_1_13651379.html",
       "fecha": "Tue, 10 Nov 2026 10:35:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno crea un Defensor de víctimas de accidentes y aprueba nuevas medidas de refuerzo de la seguridad ferroviaria",
-      "enlace": "https://www.eldiario.es/economia/gobierno-crea-defensor-victimas-accidentes-aprueba-nuevas-medidas-refuerzo-seguridad-ferroviaria_1_13651432.html",
-      "fecha": "Tue, 10 Nov 2026 10:18:01 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El 20% de las gasolineras deberán abrir como servicio mínimo en la huelga general de este miércoles",
-      "enlace": "https://www.eldiario.es/economia/20-gasolineras-deberan-abrir-servicio-minimo-huelga-general-miercoles_1_13651366.html",
-      "fecha": "Tue, 10 Nov 2026 09:45:58 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La huelga de maquinistas paraliza líneas de Cercanías en Madrid y Rodalies de Barcelona",
-      "enlace": "https://www.eldiario.es/economia/huelga-maquinistas-paraliza-lineas-cercanias-madrid-rodalies-barcelona_1_13651204.html",
-      "fecha": "Tue, 10 Nov 2026 09:00:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las centrales de gas baten récords de “indisponibilidad” y añaden más tensión al sistema eléctrico",
-      "enlace": "https://www.eldiario.es/economia/centrales-gas-baten-records-indisponibilidad-anaden-tension-sistema-electrico_1_13641796.html",
-      "fecha": "Mon, 09 Nov 2026 22:02:53 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La derecha contra la transición energética",
-      "enlace": "https://www.eldiario.es/economia/derecha-transicion-energetica_129_13648946.html",
-      "fecha": "Mon, 09 Nov 2026 22:02:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La crisis de la vivienda provoca la primera huelga general a las puertas de unas elecciones",
-      "enlace": "https://www.eldiario.es/economia/crisis-vivienda-provoca-primera-huelga-general-puertas-elecciones_1_13644755.html",
-      "fecha": "Mon, 09 Nov 2026 22:02:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno decreta servicios mínimos de entre el 18% y el 85% para los vuelos durante la huelga general",
-      "enlace": "https://www.eldiario.es/economia/gobierno-decreta-servicios-minimos-18-85-vuelos-durante-huelga-general_1_13650496.html",
-      "fecha": "Mon, 09 Nov 2026 17:10:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Tengo que informar si falto al trabajo? ¿Hay servicios mínimos? Guía de derechos y deberes en la huelga del 11N",
-      "enlace": "https://www.eldiario.es/economia/informar-si-falto-trabajo-hay-servicios-minimos-guia-derechos-deberes-huelga-11n_1_13648984.html",
-      "fecha": "Mon, 09 Nov 2026 16:01:00 +0000"
     }
   ]
 }
