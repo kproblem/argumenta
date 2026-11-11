@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-11T13:26:37.376Z",
+  "actualizado": "2026-11-11T23:16:24.270Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las duras cargas policiales marcan las movilizaciones por la huelga general entre críticas y denuncias sindicales",
+      "enlace": "https://www.eldiario.es/economia/duras-cargas-policiales-marcan-movilizaciones-huelga-general-criticas-denuncias-sindicales_1_13656636.html",
+      "fecha": "Wed, 11 Nov 2026 22:10:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La primera huelga general por la vivienda moviliza a millones de personas y eleva la tensión con PP y Vox",
+      "enlace": "https://www.eldiario.es/economia/primera-huelga-general-vivienda-moviliza-millones-personas-eleva-tension-pp-vox_1_13656244.html",
+      "fecha": "Wed, 11 Nov 2026 22:10:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Una marea recorre toda España en las movilizaciones de la huelga por el derecho a una vivienda digna",
+      "enlace": "https://www.eldiario.es/economia/marea-recorre-espana-movilizaciones-huelga-derecho-vivienda-digna_1_13655963.html",
+      "fecha": "Wed, 11 Nov 2026 17:12:08 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las imágenes de la huelga general del 11 de noviembre",
+      "enlace": "https://www.eldiario.es/economia/imagenes-huelga-general-11-noviembre_3_13656120.html",
+      "fecha": "Wed, 11 Nov 2026 16:39:40 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cinco gráficos y un mapa que explican la huelga general",
+      "enlace": "https://www.eldiario.es/economia/cinco-graficos-mapa-explican-huelga-general_1_13654364.html",
+      "fecha": "Wed, 11 Nov 2026 15:48:21 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los sindicatos cifran el seguimiento de la huelga entre el 75% y el 41% según comunidades: \"Es un éxito\"",
@@ -30,36 +60,6 @@
       "titular": "Vivir dignamente en las grandes áreas metropolitanas exige un salario de entre 1.645 y 2.061 euros brutos al mes",
       "enlace": "https://www.eldiario.es/economia/vivir-dignamente-grandes-areas-metropolitanas-exige-salario-1-645-2-061-euros-brutos-mes_1_13653246.html",
       "fecha": "Tue, 10 Nov 2026 20:28:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España vive una huelga general inédita por el derecho a la vivienda y los sueldos dignos",
-      "enlace": "https://www.eldiario.es/economia/espana-vive-huelga-general-inedita-derecho-vivienda-sueldos-dignos_1_13652980.html",
-      "fecha": "Tue, 10 Nov 2026 20:28:09 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los maquinistas mueven la huelga del día 12 al 23 para tener margen de negociación tras la aprobación del decreto en el Consejo de Ministros",
-      "enlace": "https://www.eldiario.es/economia/maquinistas-mueven-huelga-dia-12-23-margen-negociacion-aprobacion-decreto-consejo-ministros_1_13653720.html",
-      "fecha": "Tue, 10 Nov 2026 18:17:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Ibex se queda a un paso de recuperar la cifra histórica de los 20.000 puntos impulsado por la caída del petróleo",
-      "enlace": "https://www.eldiario.es/economia/ibex-queda-paso-recuperar-cifra-historica-20-000-puntos-impulsado-caida-petroleo_1_13652863.html",
-      "fecha": "Tue, 10 Nov 2026 16:51:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Estos son los servicios mínimos para la huelga general del 11 de noviembre: sanidad, transportes, metro y educación",
-      "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-general-11n-sanidad-transportes-metro-educacion_1_13653244.html",
-      "fecha": "Tue, 10 Nov 2026 16:38:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Gestha cifra en 1.034 euros la deducción necesaria para que el salario mínimo no pague el IRPF",
-      "enlace": "https://www.eldiario.es/economia/gestha-cifra-1-034-euros-deduccion-necesaria-salario-minimo-no-pague-irpf_1_13652577.html",
-      "fecha": "Tue, 10 Nov 2026 13:31:36 +0000"
     }
   ]
 }
