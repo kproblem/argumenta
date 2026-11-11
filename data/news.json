@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-10T22:07:04.694Z",
+  "actualizado": "2026-11-11T13:26:37.376Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los sindicatos cifran el seguimiento de la huelga entre el 75% y el 41% según comunidades: \"Es un éxito\"",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-cifran-seguimiento-huelga-75-41-comunidades-si-sigue-exito_1_13654588.html",
+      "fecha": "Wed, 11 Nov 2026 09:34:44 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los primeros piquetes animan a unirse a la huelga general del 11N: \"Esto tiene que ser una riada de gente\"",
@@ -54,12 +60,6 @@
       "titular": "Gestha cifra en 1.034 euros la deducción necesaria para que el salario mínimo no pague el IRPF",
       "enlace": "https://www.eldiario.es/economia/gestha-cifra-1-034-euros-deduccion-necesaria-salario-minimo-no-pague-irpf_1_13652577.html",
       "fecha": "Tue, 10 Nov 2026 13:31:36 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ana Botín anuncia que será la última persona de su familia en dirigir Banco Santander",
-      "enlace": "https://www.eldiario.es/economia/ana-botin-afirma-sera-ultima-persona-familia-dirigir-banco-santander_1_13651379.html",
-      "fecha": "Tue, 10 Nov 2026 10:35:11 +0000"
     }
   ]
 }
