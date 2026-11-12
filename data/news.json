@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-12T14:30:26.150Z",
+  "actualizado": "2026-11-12T22:32:21.379Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las comunidades autónomas en el actual boom económico",
+      "enlace": "https://www.eldiario.es/economia/comunidades-autonomas-actual-boom-economico_129_13652778.html",
+      "fecha": "Thu, 12 Nov 2026 21:57:48 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Jensen Huang dimite, ¿y ahora qué?",
+      "enlace": "https://www.eldiario.es/economia/jensen-huang-dimite-ahora_1_13659930.html",
+      "fecha": "Thu, 12 Nov 2026 21:57:44 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno prepara una nueva edición de los programas 'Kit Digital' y 'Kit Consulting' con 200 millones de euros",
+      "enlace": "https://www.eldiario.es/economia/gobierno-prepara-nueva-edicion-programas-kit-digital-kit-consulting-200-millones-euros_1_13659196.html",
+      "fecha": "Thu, 12 Nov 2026 15:57:55 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El rechazo a las prórrogas indefinidas amenaza la estabilidad económica de un millón de inquilinas en 2029",
+      "enlace": "https://www.eldiario.es/economia/rechazo-prorrogas-indefinidas-amenaza-estabilidad-economica-millon-inquilinas-2029_1_13658415.html",
+      "fecha": "Thu, 12 Nov 2026 15:53:27 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Telefónica gana margen para invertir en la autonomía tecnológica europea",
@@ -33,33 +57,9 @@
     },
     {
       "medio": "elDiario.es",
-      "titular": "Nvidia cae más del 6% en el mercado de futuros del Nasdaq ante el posible cese de su consejero delegado",
+      "titular": "Nvidia se desploma más de un 7% en Bolsa tras la dimisión de su CEO, Jensen Huang",
       "enlace": "https://www.eldiario.es/economia/nvidia-cae-6-mercado-futuros-nasdaq-posible-cese-consejero-delegado_1_13657840.html",
       "fecha": "Thu, 12 Nov 2026 11:27:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El posible apoyo de Francia a Hernández de Cos allana el camino para conseguir la presidencia del BCE",
-      "enlace": "https://www.eldiario.es/economia/posible-apoyo-francia-hernandez-cos-allana-camino-presidencia-bce_1_13657460.html",
-      "fecha": "Thu, 12 Nov 2026 10:30:35 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El uso de trenes de alta velocidad cae un 11% entre enero y septiembre",
-      "enlace": "https://www.eldiario.es/economia/trenes-alta-velocidad-cae-11-enero-septiembre_1_13657127.html",
-      "fecha": "Thu, 12 Nov 2026 09:00:19 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Telefónica vuelve a los beneficios y gana 464 millones hasta septiembre",
-      "enlace": "https://www.eldiario.es/economia/telefonica-vuelve-beneficios-gana-464-millones-septiembre_1_13656946.html",
-      "fecha": "Thu, 12 Nov 2026 07:39:05 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las duras cargas policiales marcan las movilizaciones por la huelga general entre críticas y denuncias sindicales",
-      "enlace": "https://www.eldiario.es/economia/duras-cargas-policiales-marcan-movilizaciones-huelga-general-criticas-denuncias-sindicales_1_13656636.html",
-      "fecha": "Wed, 11 Nov 2026 22:10:45 +0000"
     }
   ]
 }
