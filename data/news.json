@@ -1,65 +1,65 @@
 {
-  "actualizado": "2026-11-11T23:16:24.270Z",
+  "actualizado": "2026-11-12T14:30:26.150Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Telefónica gana margen para invertir en la autonomía tecnológica europea",
+      "enlace": "https://www.eldiario.es/economia/telefonica-gana-margen-invertir-autonomia-tecnologica-europea_129_13658486.html",
+      "fecha": "Thu, 12 Nov 2026 13:21:38 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Antonio Garamendi, líder de la patronal, sobre las cargas policiales: \"Mi solidaridad, son los que nos defienden\"",
+      "enlace": "https://www.eldiario.es/economia/antonio-garamendi-lider-patronal-cargas-policiales-solidaridad-son-defienden_1_13658295.html",
+      "fecha": "Thu, 12 Nov 2026 12:50:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Corte Inglés eleva su beneficio un 11% en la primera mitad del año y gana 249 millones",
+      "enlace": "https://www.eldiario.es/economia/corte-ingles-eleva-beneficio-11-primera-mitad-ano-gana-249-millones_1_13658278.html",
+      "fecha": "Thu, 12 Nov 2026 12:33:42 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los trabajadores de la OIT se movilizan en una protesta histórica por los despidos que planea el rival de Yolanda Díaz",
+      "enlace": "https://www.eldiario.es/economia/trabajadores-oit-movilizan-protesta-historica-despidos-planea-rival-yolanda-diaz_1_13657720.html",
+      "fecha": "Thu, 12 Nov 2026 12:05:31 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las medidas del nuevo decreto de vivienda: prórroga extraordinaria, veto a fondos buitre y alquiler de temporada",
+      "enlace": "https://www.eldiario.es/economia/medidas-nuevo-decreto-vivienda-prorroga-extraordinaria-escudo-antidesahucios-alquiler-temporada_1_13657013.html",
+      "fecha": "Thu, 12 Nov 2026 11:37:29 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Nvidia cae más del 6% en el mercado de futuros del Nasdaq ante el posible cese de su consejero delegado",
+      "enlace": "https://www.eldiario.es/economia/nvidia-cae-6-mercado-futuros-nasdaq-posible-cese-consejero-delegado_1_13657840.html",
+      "fecha": "Thu, 12 Nov 2026 11:27:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El posible apoyo de Francia a Hernández de Cos allana el camino para conseguir la presidencia del BCE",
+      "enlace": "https://www.eldiario.es/economia/posible-apoyo-francia-hernandez-cos-allana-camino-presidencia-bce_1_13657460.html",
+      "fecha": "Thu, 12 Nov 2026 10:30:35 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El uso de trenes de alta velocidad cae un 11% entre enero y septiembre",
+      "enlace": "https://www.eldiario.es/economia/trenes-alta-velocidad-cae-11-enero-septiembre_1_13657127.html",
+      "fecha": "Thu, 12 Nov 2026 09:00:19 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Telefónica vuelve a los beneficios y gana 464 millones hasta septiembre",
+      "enlace": "https://www.eldiario.es/economia/telefonica-vuelve-beneficios-gana-464-millones-septiembre_1_13656946.html",
+      "fecha": "Thu, 12 Nov 2026 07:39:05 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las duras cargas policiales marcan las movilizaciones por la huelga general entre críticas y denuncias sindicales",
       "enlace": "https://www.eldiario.es/economia/duras-cargas-policiales-marcan-movilizaciones-huelga-general-criticas-denuncias-sindicales_1_13656636.html",
       "fecha": "Wed, 11 Nov 2026 22:10:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La primera huelga general por la vivienda moviliza a millones de personas y eleva la tensión con PP y Vox",
-      "enlace": "https://www.eldiario.es/economia/primera-huelga-general-vivienda-moviliza-millones-personas-eleva-tension-pp-vox_1_13656244.html",
-      "fecha": "Wed, 11 Nov 2026 22:10:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Una marea recorre toda España en las movilizaciones de la huelga por el derecho a una vivienda digna",
-      "enlace": "https://www.eldiario.es/economia/marea-recorre-espana-movilizaciones-huelga-derecho-vivienda-digna_1_13655963.html",
-      "fecha": "Wed, 11 Nov 2026 17:12:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las imágenes de la huelga general del 11 de noviembre",
-      "enlace": "https://www.eldiario.es/economia/imagenes-huelga-general-11-noviembre_3_13656120.html",
-      "fecha": "Wed, 11 Nov 2026 16:39:40 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cinco gráficos y un mapa que explican la huelga general",
-      "enlace": "https://www.eldiario.es/economia/cinco-graficos-mapa-explican-huelga-general_1_13654364.html",
-      "fecha": "Wed, 11 Nov 2026 15:48:21 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los sindicatos cifran el seguimiento de la huelga entre el 75% y el 41% según comunidades: \"Es un éxito\"",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-cifran-seguimiento-huelga-75-41-comunidades-si-sigue-exito_1_13654588.html",
-      "fecha": "Wed, 11 Nov 2026 09:34:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los primeros piquetes animan a unirse a la huelga general del 11N: \"Esto tiene que ser una riada de gente\"",
-      "enlace": "https://www.eldiario.es/economia/primeros-piquetes-animan-unirse-huelga-general-11n-riada-gente_1_13653998.html",
-      "fecha": "Tue, 10 Nov 2026 21:00:18 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Fin a medio siglo de peajes en la AP-68: viajar de Zaragoza a Logroño permitirá ahorrar 41 euros en ida y vuelta",
-      "enlace": "https://www.eldiario.es/economia/medio-siglo-peajes-ap-68-viajar-zaragoza-logrono-permitira-ahorrar-41-euros-ida-vuelta_1_13652367.html",
-      "fecha": "Tue, 10 Nov 2026 20:28:16 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "🎙 PODCAST | Razones para una huelga general",
-      "enlace": "https://www.eldiario.es/economia/podcast-razones-huelga-general_1_13653596.html",
-      "fecha": "Tue, 10 Nov 2026 20:28:11 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Vivir dignamente en las grandes áreas metropolitanas exige un salario de entre 1.645 y 2.061 euros brutos al mes",
-      "enlace": "https://www.eldiario.es/economia/vivir-dignamente-grandes-areas-metropolitanas-exige-salario-1-645-2-061-euros-brutos-mes_1_13653246.html",
-      "fecha": "Tue, 10 Nov 2026 20:28:10 +0000"
     }
   ]
 }
