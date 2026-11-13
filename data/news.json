@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-13T13:51:23.535Z",
+  "actualizado": "2026-11-13T22:21:00.994Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El consumo de gas de una industria española “al límite” sufre la mayor caída desde finales de 2022",
+      "enlace": "https://www.eldiario.es/economia/consumo-gas-industria-espanola-limite-sufre-mayor-caida-finales-2022_1_13662441.html",
+      "fecha": "Fri, 13 Nov 2026 21:53:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Qué viene después del 11N: reforzar los barrios por la vivienda y protestas crecientes por los salarios",
+      "enlace": "https://www.eldiario.es/economia/viene-despues-11n-reforzar-barrios-vivienda-protestas-crecientes-salarios_1_13661690.html",
+      "fecha": "Fri, 13 Nov 2026 21:53:29 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Facua denuncia que Ryanair se ahorre costes aprovechándose de los pasajeros al adelantar 20 minutos el cierre de mostradores",
+      "enlace": "https://www.eldiario.es/economia/facua-denuncia-ryanair-ahorre-costes-costa-pasajeros-adelantar-20-minutos-cierre-mostradores_1_13662774.html",
+      "fecha": "Fri, 13 Nov 2026 16:47:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Yolanda Díaz apura la campaña para \"recuperar\" la OIT de la crisis actual: \"Vamos a ganar\"",
+      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-apura-campana-recuperar-oit-crisis-actual-ganar_1_13662440.html",
+      "fecha": "Fri, 13 Nov 2026 15:45:56 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Cuerpo nombra a Inmaculada Gutiérrez nueva presidenta de Renfe y sitúa a Joaquim Hortalà al frente de Adif",
@@ -36,30 +60,6 @@
       "titular": "La inflación cerró octubre en el 4,9% pese a contenerse las subidas de los combustibles y los alimentos",
       "enlace": "https://www.eldiario.es/economia/inflacion-cerro-octubre-4-9-contenerse-subidas-combustibles-alimentos_1_13660651.html",
       "fecha": "Fri, 13 Nov 2026 08:07:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las comunidades autónomas en el actual boom económico",
-      "enlace": "https://www.eldiario.es/economia/comunidades-autonomas-actual-boom-economico_129_13652778.html",
-      "fecha": "Thu, 12 Nov 2026 21:57:48 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Jensen Huang dimite, ¿y ahora qué?",
-      "enlace": "https://www.eldiario.es/economia/jensen-huang-dimite-ahora_1_13659930.html",
-      "fecha": "Thu, 12 Nov 2026 21:57:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno prepara una nueva edición de los programas 'Kit Digital' y 'Kit Consulting' con 200 millones de euros",
-      "enlace": "https://www.eldiario.es/economia/gobierno-prepara-nueva-edicion-programas-kit-digital-kit-consulting-200-millones-euros_1_13659196.html",
-      "fecha": "Thu, 12 Nov 2026 15:57:55 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El rechazo a las prórrogas indefinidas amenaza la estabilidad económica de un millón de inquilinas en 2029",
-      "enlace": "https://www.eldiario.es/economia/rechazo-prorrogas-indefinidas-amenaza-estabilidad-economica-millon-inquilinas-2029_1_13658415.html",
-      "fecha": "Thu, 12 Nov 2026 15:53:27 +0000"
     }
   ]
 }
