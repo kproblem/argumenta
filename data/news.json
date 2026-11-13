@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-12T22:32:21.379Z",
+  "actualizado": "2026-11-13T13:51:23.535Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Cuerpo nombra a Inmaculada Gutiérrez nueva presidenta de Renfe y sitúa a Joaquim Hortalà al frente de Adif",
+      "enlace": "https://www.eldiario.es/economia/cuerpo-nombra-inmaculada-gutierrez-nueva-presidenta-renfe-situa-joaquim-hortala-frente-adif_1_13661803.html",
+      "fecha": "Fri, 13 Nov 2026 12:38:29 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno da el primer paso para revalorizar las pensiones \"entre el 3 y el 4%\" a partir del 1 de enero de 2027",
+      "enlace": "https://www.eldiario.es/economia/gobierno-da-primer-paso-revalorizar-pensiones-1-enero-2027_1_13661647.html",
+      "fecha": "Fri, 13 Nov 2026 12:10:31 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La huelga sí que fue contra el (los) Gobierno(s)",
+      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/huelga-si-gobierno-s_132_13660991.html",
+      "fecha": "Fri, 13 Nov 2026 10:15:56 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El descuento de 20 céntimos en gasolina y diésel se mantendrá en vigor hasta final de año",
+      "enlace": "https://www.eldiario.es/economia/descuento-20-centimos-gasolina-diesel-mantendra-vigor-final-ano_1_13660815.html",
+      "fecha": "Fri, 13 Nov 2026 09:17:17 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Hacienda dictamina que la indemnización por prejubilación voluntaria tributa en el IRPF",
+      "enlace": "https://www.eldiario.es/economia/hacienda-dictamina-indemnizacion-prejubilacion-voluntaria-tributa-irpf_1_13660666.html",
+      "fecha": "Fri, 13 Nov 2026 08:19:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La inflación cerró octubre en el 4,9% pese a contenerse las subidas de los combustibles y los alimentos",
+      "enlace": "https://www.eldiario.es/economia/inflacion-cerro-octubre-4-9-contenerse-subidas-combustibles-alimentos_1_13660651.html",
+      "fecha": "Fri, 13 Nov 2026 08:07:38 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las comunidades autónomas en el actual boom económico",
@@ -24,42 +60,6 @@
       "titular": "El rechazo a las prórrogas indefinidas amenaza la estabilidad económica de un millón de inquilinas en 2029",
       "enlace": "https://www.eldiario.es/economia/rechazo-prorrogas-indefinidas-amenaza-estabilidad-economica-millon-inquilinas-2029_1_13658415.html",
       "fecha": "Thu, 12 Nov 2026 15:53:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Telefónica gana margen para invertir en la autonomía tecnológica europea",
-      "enlace": "https://www.eldiario.es/economia/telefonica-gana-margen-invertir-autonomia-tecnologica-europea_129_13658486.html",
-      "fecha": "Thu, 12 Nov 2026 13:21:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Antonio Garamendi, líder de la patronal, sobre las cargas policiales: \"Mi solidaridad, son los que nos defienden\"",
-      "enlace": "https://www.eldiario.es/economia/antonio-garamendi-lider-patronal-cargas-policiales-solidaridad-son-defienden_1_13658295.html",
-      "fecha": "Thu, 12 Nov 2026 12:50:14 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Corte Inglés eleva su beneficio un 11% en la primera mitad del año y gana 249 millones",
-      "enlace": "https://www.eldiario.es/economia/corte-ingles-eleva-beneficio-11-primera-mitad-ano-gana-249-millones_1_13658278.html",
-      "fecha": "Thu, 12 Nov 2026 12:33:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los trabajadores de la OIT se movilizan en una protesta histórica por los despidos que planea el rival de Yolanda Díaz",
-      "enlace": "https://www.eldiario.es/economia/trabajadores-oit-movilizan-protesta-historica-despidos-planea-rival-yolanda-diaz_1_13657720.html",
-      "fecha": "Thu, 12 Nov 2026 12:05:31 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las medidas del nuevo decreto de vivienda: prórroga extraordinaria, veto a fondos buitre y alquiler de temporada",
-      "enlace": "https://www.eldiario.es/economia/medidas-nuevo-decreto-vivienda-prorroga-extraordinaria-escudo-antidesahucios-alquiler-temporada_1_13657013.html",
-      "fecha": "Thu, 12 Nov 2026 11:37:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Nvidia se desploma más de un 7% en Bolsa tras la dimisión de su CEO, Jensen Huang",
-      "enlace": "https://www.eldiario.es/economia/nvidia-cae-6-mercado-futuros-nasdaq-posible-cese-consejero-delegado_1_13657840.html",
-      "fecha": "Thu, 12 Nov 2026 11:27:54 +0000"
     }
   ]
 }
