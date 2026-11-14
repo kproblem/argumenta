@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-13T22:21:00.994Z",
+  "actualizado": "2026-11-14T12:52:42.331Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
+      "enlace": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
+      "fecha": "Fri, 13 Nov 2026 23:01:06 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
+      "enlace": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
+      "fecha": "Fri, 13 Nov 2026 22:42:19 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El consumo de gas de una industria española “al límite” sufre la mayor caída desde finales de 2022",
@@ -48,18 +60,6 @@
       "titular": "El descuento de 20 céntimos en gasolina y diésel se mantendrá en vigor hasta final de año",
       "enlace": "https://www.eldiario.es/economia/descuento-20-centimos-gasolina-diesel-mantendra-vigor-final-ano_1_13660815.html",
       "fecha": "Fri, 13 Nov 2026 09:17:17 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Hacienda dictamina que la indemnización por prejubilación voluntaria tributa en el IRPF",
-      "enlace": "https://www.eldiario.es/economia/hacienda-dictamina-indemnizacion-prejubilacion-voluntaria-tributa-irpf_1_13660666.html",
-      "fecha": "Fri, 13 Nov 2026 08:19:49 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La inflación cerró octubre en el 4,9% pese a contenerse las subidas de los combustibles y los alimentos",
-      "enlace": "https://www.eldiario.es/economia/inflacion-cerro-octubre-4-9-contenerse-subidas-combustibles-alimentos_1_13660651.html",
-      "fecha": "Fri, 13 Nov 2026 08:07:38 +0000"
     }
   ]
 }
