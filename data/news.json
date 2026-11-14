@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T12:52:42.331Z",
+  "actualizado": "2026-11-14T21:08:27.072Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Las ‘midterms’ y el escándalo Nvidia desvelan la lucha sin cuartel de EEUU y China por la disputa del trono de la IA",
+      "enlace": "https://www.eldiario.es/economia/midterms-escandalo-nvidia-desvelan-lucha-cuartel-eeuu-china-disputa-trono-ia_129_13661296.html",
+      "fecha": "Sat, 14 Nov 2026 20:41:50 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
@@ -54,12 +60,6 @@
       "titular": "La huelga sí que fue contra el (los) Gobierno(s)",
       "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/huelga-si-gobierno-s_132_13660991.html",
       "fecha": "Fri, 13 Nov 2026 10:15:56 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El descuento de 20 céntimos en gasolina y diésel se mantendrá en vigor hasta final de año",
-      "enlace": "https://www.eldiario.es/economia/descuento-20-centimos-gasolina-diesel-mantendra-vigor-final-ano_1_13660815.html",
-      "fecha": "Fri, 13 Nov 2026 09:17:17 +0000"
     }
   ]
 }
