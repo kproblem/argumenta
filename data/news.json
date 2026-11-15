@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-14T21:08:27.072Z",
+  "actualizado": "2026-11-15T13:24:56.966Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "CCOO convoca una huelga en el transporte de mercancías por carretera para Navidad: el 23 y el 24 de diciembre",
+      "enlace": "https://www.eldiario.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-navidad-23-24-diciembre_1_13665338.html",
+      "fecha": "Sun, 15 Nov 2026 11:10:17 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Las ‘midterms’ y el escándalo Nvidia desvelan la lucha sin cuartel de EEUU y China por la disputa del trono de la IA",
@@ -54,12 +60,6 @@
       "titular": "El Gobierno da el primer paso para revalorizar las pensiones \"entre el 3 y el 4%\" a partir del 1 de enero de 2027",
       "enlace": "https://www.eldiario.es/economia/gobierno-da-primer-paso-revalorizar-pensiones-1-enero-2027_1_13661647.html",
       "fecha": "Fri, 13 Nov 2026 12:10:31 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La huelga sí que fue contra el (los) Gobierno(s)",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/huelga-si-gobierno-s_132_13660991.html",
-      "fecha": "Fri, 13 Nov 2026 10:15:56 +0000"
     }
   ]
 }
