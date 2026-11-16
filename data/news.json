@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-15T21:26:25.634Z",
+  "actualizado": "2026-11-16T14:34:13.985Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Yolanda Díaz anuncia que este martes se aprobará el salario mínimo de 1.286 euros \"sin pagar impuestos\"",
+      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-anuncia-martes-aprobara-salario-minimo-1-286-euros-pagar-impuestos_1_13667625.html",
+      "fecha": "Mon, 16 Nov 2026 12:45:48 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Italia interviene Revolut tras detectar operaciones de blanqueo de la mafia",
+      "enlace": "https://www.eldiario.es/economia/justicia-italiana-interviene-revolut-pais-detectar-operaciones-blanqueo-mafia_1_13667596.html",
+      "fecha": "Mon, 16 Nov 2026 12:39:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Repsol demanda a Iberdrola, Endesa y Naturgy por el apagón de 2025",
+      "enlace": "https://www.eldiario.es/economia/repsol-demanda-iberdrola-endesa-naturgy-apagon-2025_1_13667104.html",
+      "fecha": "Mon, 16 Nov 2026 11:10:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La Comisión Europea aprueba \"sin condiciones\" la compra de Commerzbank por Unicredit",
+      "enlace": "https://www.eldiario.es/economia/comision-europea-aprueba-condiciones-compra-commerzbank-unicredit_1_13666869.html",
+      "fecha": "Mon, 16 Nov 2026 10:33:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Gilbert F. Houngbo, reelegido director de la OIT tras la retirada de Yolanda Díaz",
+      "enlace": "https://www.eldiario.es/economia/gilbert-f-houngbo-reelegido-director-oit-retirada-yolanda-diaz_1_13666864.html",
+      "fecha": "Mon, 16 Nov 2026 10:15:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Huelga de trenes este martes 17 de noviembre: estos son los servicios mínimos en Renfe, Rodalies, Ouigo e Iryo",
+      "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-ferroviaria-martes-17-noviembre_1_13666598.html",
+      "fecha": "Mon, 16 Nov 2026 09:53:13 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Jensen Huang tira del apoyo de Elon Musk y otros ejecutivos de Silicon Valley para intentar su vuelta como CEO de Nvidia",
+      "enlace": "https://www.eldiario.es/economia/jensen-huang-analiza-volver-consejero-delegado-nvidia_1_13666514.html",
+      "fecha": "Mon, 16 Nov 2026 08:12:30 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones",
+      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-retira-candidatura-presidir-oit-horas-elecciones_1_13666457.html",
+      "fecha": "Mon, 16 Nov 2026 07:01:19 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "¿Un SMI para cada territorio?",
@@ -12,54 +60,6 @@
       "titular": "La OIT decide si Yolanda Díaz se convierte en la primera mujer en dirigir la agencia internacional",
       "enlace": "https://www.eldiario.es/economia/oit-decide-si-yolanda-diaz-convierte-primera-mujer-dirigir-agencia-internacional_1_13662616.html",
       "fecha": "Sun, 15 Nov 2026 20:56:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El PP cuestiona a la AIReF y al Banco de España y esconde sus planes hasta tener una auditoría “independiente” del Estado",
-      "enlace": "https://www.eldiario.es/economia/pp-cuestiona-airef-banco-espana-esconde-planes-auditoria-independiente_1_13658352.html",
-      "fecha": "Sun, 15 Nov 2026 20:56:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "CCOO convoca una huelga en el transporte de mercancías por carretera para Navidad: el 23 y el 24 de diciembre",
-      "enlace": "https://www.eldiario.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-navidad-23-24-diciembre_1_13665338.html",
-      "fecha": "Sun, 15 Nov 2026 11:10:17 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las ‘midterms’ y el escándalo Nvidia desvelan la lucha sin cuartel de EEUU y China por la disputa del trono de la IA",
-      "enlace": "https://www.eldiario.es/economia/midterms-escandalo-nvidia-desvelan-lucha-cuartel-eeuu-china-disputa-trono-ia_129_13661296.html",
-      "fecha": "Sat, 14 Nov 2026 20:41:50 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
-      "enlace": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
-      "fecha": "Fri, 13 Nov 2026 23:01:06 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
-      "enlace": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
-      "fecha": "Fri, 13 Nov 2026 22:42:19 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El consumo de gas de una industria española “al límite” sufre la mayor caída desde finales de 2022",
-      "enlace": "https://www.eldiario.es/economia/consumo-gas-industria-espanola-limite-sufre-mayor-caida-finales-2022_1_13662441.html",
-      "fecha": "Fri, 13 Nov 2026 21:53:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Qué viene después del 11N: reforzar los barrios por la vivienda y protestas crecientes por los salarios",
-      "enlace": "https://www.eldiario.es/economia/viene-despues-11n-reforzar-barrios-vivienda-protestas-crecientes-salarios_1_13661690.html",
-      "fecha": "Fri, 13 Nov 2026 21:53:29 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Facua denuncia que Ryanair se ahorre costes aprovechándose de los pasajeros al adelantar 20 minutos el cierre de mostradores",
-      "enlace": "https://www.eldiario.es/economia/facua-denuncia-ryanair-ahorre-costes-costa-pasajeros-adelantar-20-minutos-cierre-mostradores_1_13662774.html",
-      "fecha": "Fri, 13 Nov 2026 16:47:22 +0000"
     }
   ]
 }
