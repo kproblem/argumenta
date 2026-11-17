@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-16T14:34:13.985Z",
+  "actualizado": "2026-11-17T00:37:44.293Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "United Airlines sufre una interrupción generalizada de sus sistemas tres días después de la suspensión de vuelos en EEUU",
+      "enlace": "https://www.eldiario.es/economia/united-airlines-sufre-interrupcion-generalizada-sistemas-tres-dias-despues-suspension-vuelos-eeuu_1_13669367.html",
+      "fecha": "Mon, 16 Nov 2026 22:36:17 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Feijóo utiliza a niños para inflar la cifra de inmigrantes que cobran el ingreso mínimo vital sin trabajar",
+      "enlace": "https://www.eldiario.es/economia/feijoo-utiliza-ninos-inflar-cifra-inmigrantes-cobran-ingreso-minimo-vital-trabajar_1_13668198.html",
+      "fecha": "Mon, 16 Nov 2026 20:35:56 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La carestía de la vida también vota",
+      "enlace": "https://www.eldiario.es/economia/carestia-vida-vota_129_13667248.html",
+      "fecha": "Mon, 16 Nov 2026 20:35:56 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Miles de clientes de los principales bancos estadounidenses sufren dificultades al acceder a sus cuentas online",
+      "enlace": "https://www.eldiario.es/economia/miles-clientes-principales-bancos-estadounidenses-sufren-dificultades-acceder-cuentas-online_1_13669239.html",
+      "fecha": "Mon, 16 Nov 2026 20:25:37 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Yolanda Díaz anuncia que este martes se aprobará el salario mínimo de 1.286 euros \"sin pagar impuestos\"",
@@ -36,30 +60,6 @@
       "titular": "Huelga de trenes este martes 17 de noviembre: estos son los servicios mínimos en Renfe, Rodalies, Ouigo e Iryo",
       "enlace": "https://www.eldiario.es/economia/son-servicios-minimos-huelga-ferroviaria-martes-17-noviembre_1_13666598.html",
       "fecha": "Mon, 16 Nov 2026 09:53:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Jensen Huang tira del apoyo de Elon Musk y otros ejecutivos de Silicon Valley para intentar su vuelta como CEO de Nvidia",
-      "enlace": "https://www.eldiario.es/economia/jensen-huang-analiza-volver-consejero-delegado-nvidia_1_13666514.html",
-      "fecha": "Mon, 16 Nov 2026 08:12:30 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Yolanda Díaz retira su candidatura a presidir la OIT a unas horas de las elecciones",
-      "enlace": "https://www.eldiario.es/economia/yolanda-diaz-retira-candidatura-presidir-oit-horas-elecciones_1_13666457.html",
-      "fecha": "Mon, 16 Nov 2026 07:01:19 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Un SMI para cada territorio?",
-      "enlace": "https://www.eldiario.es/economia/smi-territorio_129_13661099.html",
-      "fecha": "Sun, 15 Nov 2026 20:56:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La OIT decide si Yolanda Díaz se convierte en la primera mujer en dirigir la agencia internacional",
-      "enlace": "https://www.eldiario.es/economia/oit-decide-si-yolanda-diaz-convierte-primera-mujer-dirigir-agencia-internacional_1_13662616.html",
-      "fecha": "Sun, 15 Nov 2026 20:56:45 +0000"
     }
   ]
 }
