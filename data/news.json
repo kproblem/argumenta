@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-17T15:25:57.782Z",
+  "actualizado": "2026-11-17T23:42:58.394Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La vivienda más allá de una casa: la falta de padrón como la falta de derechos",
+      "enlace": "https://www.eldiario.es/economia/vivienda-casa-falta-padron-falta-derechos_1_13671440.html",
+      "fecha": "Tue, 17 Nov 2026 20:45:28 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El desplome del aceite de oliva que ha llevado a retirar producto: su precio en origen se hunde un 65%",
+      "enlace": "https://www.eldiario.es/economia/desplome-aceite-oliva-llevado-retirar-producto-precio-origen-hunde-65_1_13668467.html",
+      "fecha": "Tue, 17 Nov 2026 20:45:25 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Proyecto Rifle: el oscuro papel del Deutsche Bank en el pelotazo de la armamentística española Defex en Angola",
+      "enlace": "https://www.eldiario.es/economia/proyecto-rifle-oscuro-papel-deutsche-bank-pelotazo-armamentistica-espanola-defex-angola_1_13670945.html",
+      "fecha": "Tue, 17 Nov 2026 20:45:21 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Se acabó el \"secreto salarial\": estos son los nuevos derechos para conocer los sueldos y combatir la brecha de género",
+      "enlace": "https://www.eldiario.es/economia/acabo-secreto-salarial-son-nuevos-derechos-conocer-sueldos-combatir-brecha-genero_1_13671413.html",
+      "fecha": "Tue, 17 Nov 2026 16:08:14 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Gobierno aprueba ayudas y medidas fiscales para cooperativas y proveedores sociales de vivienda",
@@ -36,30 +60,6 @@
       "titular": "El salario mínimo sube a 1.286 euros al mes: cuál es el neto, desde cuándo se cobra y quién lo recibe",
       "enlace": "https://www.eldiario.es/economia/salario-minimo-sube-1-286-euros-mes-neto-cobra-recibe_1_13669825.html",
       "fecha": "Tue, 17 Nov 2026 11:41:47 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Deutsche Bank se hunde en Bolsa tras las revelaciones de malas prácticas del banco",
-      "enlace": "https://www.eldiario.es/economia/deutsche-bank-hunde-bolsa-revelaciones-malas-practicas-banco_1_13670287.html",
-      "fecha": "Tue, 17 Nov 2026 11:28:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La compraventa de vivienda frena en septiembre: cae un 13,4%",
-      "enlace": "https://www.eldiario.es/economia/compraventa-vivienda-frena-septiembre-cae-13-4_1_13670004.html",
-      "fecha": "Tue, 17 Nov 2026 11:06:18 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Hernández de Cos está más cerca de la presidencia del BCE tras la designación de Alemania del economista jefe",
-      "enlace": "https://www.eldiario.es/economia/hernandez-cos-cerca-presidencia-bce-designacion-alemania-economista-jefe_1_13670100.html",
-      "fecha": "Tue, 17 Nov 2026 10:40:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno da una semana al comité de técnicos del sistema ferroviario para que diseñe un plan de choque",
-      "enlace": "https://www.eldiario.es/economia/gobierno-da-semana-comite-tecnicos-sistema-ferroviario-disene-plan-choque_1_13669978.html",
-      "fecha": "Tue, 17 Nov 2026 10:04:38 +0000"
     }
   ]
 }
