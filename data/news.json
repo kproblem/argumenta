@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-18T14:58:35.544Z",
+  "actualizado": "2026-11-18T23:14:38.750Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Anthropic fija en 83 dólares por acción el precio de su salida a bolsa y prevé recaudar 94.000 millones para superar a SpaceX",
+      "enlace": "https://www.eldiario.es/economia/anthropic-fija-83-dolares-accion-precio-salida-bolsa-valora-empresa-94-000-millones-spacex_1_13675570.html",
+      "fecha": "Wed, 18 Nov 2026 22:04:34 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La incertidumbre económica de las elecciones del 29N",
+      "enlace": "https://www.eldiario.es/economia/incertidumbre-economica-elecciones-29n_129_13673384.html",
+      "fecha": "Wed, 18 Nov 2026 21:11:55 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La Diputación Permanente da luz verde al mecanismo para limitar el precio de los transportes en situaciones de emergencia",
+      "enlace": "https://www.eldiario.es/economia/diputacion-permanente-da-luz-verde-mecanismo-limitar-precio-transportes-situaciones-emergencia_1_13674371.html",
+      "fecha": "Wed, 18 Nov 2026 15:06:59 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Congreso aprueba el paquete de medidas para reforzar la seguridad ferroviaria tras el accidente de Urda",
+      "enlace": "https://www.eldiario.es/economia/congreso-aprueba-ayudas-victimas-urda-paquete-medidas-reforzar-seguridad-ferroviaria_1_13674425.html",
+      "fecha": "Wed, 18 Nov 2026 15:05:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Congreso amplía la pensión de viudedad a parejas de hecho y aprueba la baja por menopausia y otras prestaciones",
+      "enlace": "https://www.eldiario.es/economia/congreso-amplia-viudedad-parejas-hecho-aprueba-baja-menopausia-prestaciones_1_13673123.html",
+      "fecha": "Wed, 18 Nov 2026 15:03:43 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Mentiras y verdades del debate sobre vivienda entre PP y PSOE",
@@ -30,36 +60,6 @@
       "titular": "La vivienda más allá de una casa: la falta de padrón como la falta de derechos",
       "enlace": "https://www.eldiario.es/economia/vivienda-casa-falta-padron-falta-derechos_1_13671440.html",
       "fecha": "Tue, 17 Nov 2026 20:45:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El desplome del aceite de oliva que ha llevado a retirar producto: su precio en origen se hunde un 65%",
-      "enlace": "https://www.eldiario.es/economia/desplome-aceite-oliva-llevado-retirar-producto-precio-origen-hunde-65_1_13668467.html",
-      "fecha": "Tue, 17 Nov 2026 20:45:25 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Proyecto Rifle: el oscuro papel del Deutsche Bank en el pelotazo de la armamentística española Defex en Angola",
-      "enlace": "https://www.eldiario.es/economia/proyecto-rifle-oscuro-papel-deutsche-bank-pelotazo-armamentistica-espanola-defex-angola_1_13670945.html",
-      "fecha": "Tue, 17 Nov 2026 20:45:21 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Se acabó el \"secreto salarial\": estos son los nuevos derechos para conocer los sueldos y combatir la brecha de género",
-      "enlace": "https://www.eldiario.es/economia/acabo-secreto-salarial-son-nuevos-derechos-conocer-sueldos-combatir-brecha-genero_1_13671413.html",
-      "fecha": "Tue, 17 Nov 2026 16:08:14 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba ayudas y medidas fiscales para cooperativas y proveedores sociales de vivienda",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-ayudas-medidas-fiscales-cooperativas-proveedores-sociales-vivienda_1_13671338.html",
-      "fecha": "Tue, 17 Nov 2026 15:01:04 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno precisará los tiempos del trabajo del personal de control ferroviario para reforzar la seguridad",
-      "enlace": "https://www.eldiario.es/economia/gobierno-precisara-tiempos-trabajo-personal-control-ferroviario-reforzar-seguridad_1_13671360.html",
-      "fecha": "Tue, 17 Nov 2026 14:41:53 +0000"
     }
   ]
 }
