@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-17T23:42:58.394Z",
+  "actualizado": "2026-11-18T14:58:35.544Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Mentiras y verdades del debate sobre vivienda entre PP y PSOE",
+      "enlace": "https://www.eldiario.es/economia/mentiras-verdades-debate-vivienda-pp-psoe_1_13672878.html",
+      "fecha": "Wed, 18 Nov 2026 11:42:14 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "CCOO denunciará a Ayuso por sus insultos de \"mafia\" y pide \"cabezas\" a Marlaska por las cargas policiales el 11N",
+      "enlace": "https://www.eldiario.es/economia/ccoo-denunciara-ayuso-insultos-mafia-pide-cabezas-marlaska-cargas-policiales-11n_1_13673289.html",
+      "fecha": "Wed, 18 Nov 2026 11:40:42 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cuerpo logra un acuerdo con varios sindicatos del sector ferroviario, pero los maquinistas amenazan con más huelgas",
+      "enlace": "https://www.eldiario.es/economia/cuerpo-logra-acuerdo-sindicatos-sector-ferroviario-maquinistas-amenazan-huelgas_1_13672789.html",
+      "fecha": "Wed, 18 Nov 2026 08:46:45 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Nvidia bate las expectativas al duplicar ingresos y beneficios en plena crisis por la salida de Jensen Huang",
+      "enlace": "https://www.eldiario.es/economia/nvidia-duplica-ingresos-tercer-trimestre-plena-crisis-salida-jensen-huang_1_13672608.html",
+      "fecha": "Wed, 18 Nov 2026 02:37:23 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La vivienda más allá de una casa: la falta de padrón como la falta de derechos",
@@ -36,30 +60,6 @@
       "titular": "El Gobierno precisará los tiempos del trabajo del personal de control ferroviario para reforzar la seguridad",
       "enlace": "https://www.eldiario.es/economia/gobierno-precisara-tiempos-trabajo-personal-control-ferroviario-reforzar-seguridad_1_13671360.html",
       "fecha": "Tue, 17 Nov 2026 14:41:53 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La UE advierte de que la crisis de vivienda en España es un problema social que frena el crecimiento económico",
-      "enlace": "https://www.eldiario.es/economia/ue-advierte-crisis-vivienda-espana-problema-social-frena-crecimiento-economico_1_13670454.html",
-      "fecha": "Tue, 17 Nov 2026 12:52:34 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba una subida salarial del 4,5% a los funcionarios",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-subida-salarial-4-5-funcionarios_1_13670267.html",
-      "fecha": "Tue, 17 Nov 2026 11:44:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Garamendi asegura que entiende la huelga ferroviaria y reitera  que \"está fuera de plazo\" aprobar el SMI en campaña",
-      "enlace": "https://www.eldiario.es/economia/garamendi-asegura-entiende-huelga-ferroviaria-reitera-fuera-plazo-aprobar-smi-campana_1_13670369.html",
-      "fecha": "Tue, 17 Nov 2026 11:42:13 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El salario mínimo sube a 1.286 euros al mes: cuál es el neto, desde cuándo se cobra y quién lo recibe",
-      "enlace": "https://www.eldiario.es/economia/salario-minimo-sube-1-286-euros-mes-neto-cobra-recibe_1_13669825.html",
-      "fecha": "Tue, 17 Nov 2026 11:41:47 +0000"
     }
   ]
 }
