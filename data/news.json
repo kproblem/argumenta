@@ -1,9 +1,27 @@
 {
-  "actualizado": "2026-11-18T23:14:38.750Z",
+  "actualizado": "2026-11-19T15:07:04.120Z",
   "noticias": [
     {
       "medio": "elDiario.es",
-      "titular": "Anthropic fija en 83 dólares por acción el precio de su salida a bolsa y prevé recaudar 94.000 millones para superar a SpaceX",
+      "titular": "Bruselas llama la atención a España por la lucha contra el fraude de fondos europeos",
+      "enlace": "https://www.eldiario.es/economia/bruselas-llama-atencion-espana-lucha-fraude-fondos-europeos_1_13676442.html",
+      "fecha": "Thu, 19 Nov 2026 11:26:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Uno de cada tres jóvenes considera que su trabajo perjudica su salud mental",
+      "enlace": "https://www.eldiario.es/economia/tres-jovenes-considera-trabajo-perjudica-salud-mental_1_13676364.html",
+      "fecha": "Thu, 19 Nov 2026 11:04:41 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cómo Deutsche Bank financió los negocios turbios de Eurofinsa, la constructora quebrada que debe 92 millones a Hacienda",
+      "enlace": "https://www.eldiario.es/economia/deutsche-bank-financio-negocios-turbios-eurofinsa-constructora-quebrada-debe-92-millones-hacienda_1_13674634.html",
+      "fecha": "Thu, 19 Nov 2026 06:01:49 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Anthropic fija en 83 dólares por acción el precio de su salida a bolsa y prevé superar la cifra captada por SpaceX",
       "enlace": "https://www.eldiario.es/economia/anthropic-fija-83-dolares-accion-precio-salida-bolsa-valora-empresa-94-000-millones-spacex_1_13675570.html",
       "fecha": "Wed, 18 Nov 2026 22:04:34 +0000"
     },
@@ -42,24 +60,6 @@
       "titular": "CCOO denunciará a Ayuso por sus insultos de \"mafia\" y pide \"cabezas\" a Marlaska por las cargas policiales el 11N",
       "enlace": "https://www.eldiario.es/economia/ccoo-denunciara-ayuso-insultos-mafia-pide-cabezas-marlaska-cargas-policiales-11n_1_13673289.html",
       "fecha": "Wed, 18 Nov 2026 11:40:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cuerpo logra un acuerdo con varios sindicatos del sector ferroviario, pero los maquinistas amenazan con más huelgas",
-      "enlace": "https://www.eldiario.es/economia/cuerpo-logra-acuerdo-sindicatos-sector-ferroviario-maquinistas-amenazan-huelgas_1_13672789.html",
-      "fecha": "Wed, 18 Nov 2026 08:46:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Nvidia bate las expectativas al duplicar ingresos y beneficios en plena crisis por la salida de Jensen Huang",
-      "enlace": "https://www.eldiario.es/economia/nvidia-duplica-ingresos-tercer-trimestre-plena-crisis-salida-jensen-huang_1_13672608.html",
-      "fecha": "Wed, 18 Nov 2026 02:37:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La vivienda más allá de una casa: la falta de padrón como la falta de derechos",
-      "enlace": "https://www.eldiario.es/economia/vivienda-casa-falta-padron-falta-derechos_1_13671440.html",
-      "fecha": "Tue, 17 Nov 2026 20:45:28 +0000"
     }
   ]
 }
