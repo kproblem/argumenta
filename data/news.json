@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-19T15:07:04.120Z",
+  "actualizado": "2026-11-19T23:22:53.253Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Anthropic se estrena en bolsa con la mayor oferta pública de la historia entre temores por una posible burbuja de la IA y su falta de regulación",
+      "enlace": "https://www.eldiario.es/economia/anthropic-estrena-bolsa-mayor-oferta-publica-historia-temores-posible-burbuja-ia-falta-regulacion_1_13678993.html",
+      "fecha": "Thu, 19 Nov 2026 23:03:30 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Anthropic debuta en bolsa a 111,50 dólares por acción, un 34% por encima del precio de la salida a los mercados",
+      "enlace": "https://www.eldiario.es/economia/anthropic-debuta-bolsa-111-50-dolares-accion-34-precio-salida-mercados_1_13678112.html",
+      "fecha": "Thu, 19 Nov 2026 16:58:59 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La FAO apunta a una producción récord de aceite de oliva en el mundo y a una bajada de precios",
+      "enlace": "https://www.eldiario.es/economia/fao-apunta-produccion-record-aceite-oliva-mundo-bajada-precios_1_13677880.html",
+      "fecha": "Thu, 19 Nov 2026 16:16:08 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los Sindicatos de Inquilinas convocan movilizaciones este fin de semana siguiendo la ola europea",
+      "enlace": "https://www.eldiario.es/economia/sindicatos-inquilinas-convocan-movilizaciones-semana-siguiendo-ola-europea_1_13677688.html",
+      "fecha": "Thu, 19 Nov 2026 15:07:24 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Bruselas llama la atención a España por la lucha contra el fraude de fondos europeos",
@@ -36,30 +60,6 @@
       "titular": "La Diputación Permanente da luz verde al mecanismo para limitar el precio de los transportes en situaciones de emergencia",
       "enlace": "https://www.eldiario.es/economia/diputacion-permanente-da-luz-verde-mecanismo-limitar-precio-transportes-situaciones-emergencia_1_13674371.html",
       "fecha": "Wed, 18 Nov 2026 15:06:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Congreso aprueba el paquete de medidas para reforzar la seguridad ferroviaria tras el accidente de Urda",
-      "enlace": "https://www.eldiario.es/economia/congreso-aprueba-ayudas-victimas-urda-paquete-medidas-reforzar-seguridad-ferroviaria_1_13674425.html",
-      "fecha": "Wed, 18 Nov 2026 15:05:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Congreso amplía la pensión de viudedad a parejas de hecho y aprueba la baja por menopausia y otras prestaciones",
-      "enlace": "https://www.eldiario.es/economia/congreso-amplia-viudedad-parejas-hecho-aprueba-baja-menopausia-prestaciones_1_13673123.html",
-      "fecha": "Wed, 18 Nov 2026 15:03:43 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Mentiras y verdades del debate sobre vivienda entre PP y PSOE",
-      "enlace": "https://www.eldiario.es/economia/mentiras-verdades-debate-vivienda-pp-psoe_1_13672878.html",
-      "fecha": "Wed, 18 Nov 2026 11:42:14 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "CCOO denunciará a Ayuso por sus insultos de \"mafia\" y pide \"cabezas\" a Marlaska por las cargas policiales el 11N",
-      "enlace": "https://www.eldiario.es/economia/ccoo-denunciara-ayuso-insultos-mafia-pide-cabezas-marlaska-cargas-policiales-11n_1_13673289.html",
-      "fecha": "Wed, 18 Nov 2026 11:40:42 +0000"
     }
   ]
 }
