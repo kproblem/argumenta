@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-20T14:47:40.111Z",
+  "actualizado": "2026-11-20T22:55:58.164Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Abhijit Banerjee, Nobel de Economía: “Pensar que frenar la inmigración lo resuelve todo es una fantasía”",
+      "enlace": "https://www.eldiario.es/economia/abhijit-banerjee-nobel-economia-pensar-frenar-inmigracion-resuelve-fantasia_1_13674461.html",
+      "fecha": "Fri, 20 Nov 2026 21:08:33 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Del renacer nuclear a la incógnita del uranio y el ‘fracking’: la política energética que promueven PP y Vox",
+      "enlace": "https://www.eldiario.es/economia/renacer-nuclear-incognita-uranio-fracking-politica-energetica-promueven-pp-vox_1_13676338.html",
+      "fecha": "Fri, 20 Nov 2026 21:08:28 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La construcción de vivienda alcanza su punto álgido desde 2012 y apunta a un año de 100.000 viviendas",
@@ -48,18 +60,6 @@
       "titular": "Anthropic debuta en bolsa a 111,50 dólares por acción, un 34% por encima del precio de la salida a los mercados",
       "enlace": "https://www.eldiario.es/economia/anthropic-debuta-bolsa-111-50-dolares-accion-34-precio-salida-mercados_1_13678112.html",
       "fecha": "Thu, 19 Nov 2026 16:58:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La FAO apunta a una producción récord de aceite de oliva en el mundo y a una bajada de precios",
-      "enlace": "https://www.eldiario.es/economia/fao-apunta-produccion-record-aceite-oliva-mundo-bajada-precios_1_13677880.html",
-      "fecha": "Thu, 19 Nov 2026 16:16:08 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los Sindicatos de Inquilinas convocan movilizaciones este fin de semana siguiendo la ola europea",
-      "enlace": "https://www.eldiario.es/economia/sindicatos-inquilinas-convocan-movilizaciones-semana-siguiendo-ola-europea_1_13677688.html",
-      "fecha": "Thu, 19 Nov 2026 15:07:24 +0000"
     }
   ]
 }
