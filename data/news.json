@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-21T14:03:23.205Z",
+  "actualizado": "2026-11-21T21:59:23.980Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Monte dei Paschi di Siena, el banco más antiguo del mundo, encara su absorción por el mayor gigante financiero de Italia",
+      "enlace": "https://www.eldiario.es/economia/monte-dei-paschi-di-siena-banco-antiguo-mundo-encara-absorcion-mayor-gigante-financiero-italia_1_13679967.html",
+      "fecha": "Sat, 21 Nov 2026 21:10:51 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Ni discriminados ni \"reemplazados\": el pleno empleo entre los hombres españoles que desmonta a la ultraderecha",
+      "enlace": "https://www.eldiario.es/economia/discriminados-reemplazados-pleno-empleo-hombres-espanoles-desmonta-ultraderecha_129_13678028.html",
+      "fecha": "Sat, 21 Nov 2026 21:10:47 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cuando se sitúa la pensión como privilegio y se ignora la riqueza: así se gestan los recortes a los jubilados",
+      "enlace": "https://www.eldiario.es/economia/situa-pension-privilegio-ignora-riqueza-gestan-recortes-jubilados_1_13619464.html",
+      "fecha": "Sat, 21 Nov 2026 21:10:45 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Costa se rinde ante los austeros y presenta un proyecto de presupuesto europeo con un recorte del 10,2%",
@@ -42,24 +60,6 @@
       "titular": "Las claves en vivienda de los programas electorales",
       "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/claves-vivienda-programas-electorales_132_13679620.html",
       "fecha": "Fri, 20 Nov 2026 10:34:48 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Trabajo abre expedientes para retirar medallas a franquistas como Pilar Primo de Rivera, líder de la Sección Femenina",
-      "enlace": "https://www.eldiario.es/economia/trabajo-abre-expedientes-retirar-medallas-franquistas-pilar-primo-rivera-lider-seccion-femenina_1_13679302.html",
-      "fecha": "Fri, 20 Nov 2026 08:38:35 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Semaf desconvoca la huelga de maquinistas del 23 de noviembre tras alcanzar acuerdo en seguridad ferroviaria",
-      "enlace": "https://www.eldiario.es/economia/semaf-desconvoca-huelga-maquinistas-23-noviembre-alcanzar-acuerdo-seguridad-ferroviaria_1_13679212.html",
-      "fecha": "Fri, 20 Nov 2026 06:25:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "China quiere convertir África en la nueva fábrica del mundo",
-      "enlace": "https://www.eldiario.es/economia/china-quiere-convertir-africa-nueva-fabrica-mundo_1_13676368.html",
-      "fecha": "Fri, 20 Nov 2026 00:43:22 +0000"
     }
   ]
 }
