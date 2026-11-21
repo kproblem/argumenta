@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-20T22:55:58.164Z",
+  "actualizado": "2026-11-21T14:03:23.205Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Costa se rinde ante los austeros y presenta un proyecto de presupuesto europeo con un recorte del 10,2%",
+      "enlace": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
+      "fecha": "Sat, 21 Nov 2026 10:13:09 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Sánchez prorrogará el impuesto a la banca para destinarlo a vivienda",
+      "enlace": "https://www.eldiario.es/economia/sanchez-anuncia-prorroga-impuesto-banca-2027-politicas-vivienda_1_13682337.html",
+      "fecha": "Sat, 21 Nov 2026 08:15:45 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Abhijit Banerjee, Nobel de Economía: “Pensar que frenar la inmigración lo resuelve todo es una fantasía”",
@@ -48,18 +60,6 @@
       "titular": "China quiere convertir África en la nueva fábrica del mundo",
       "enlace": "https://www.eldiario.es/economia/china-quiere-convertir-africa-nueva-fabrica-mundo_1_13676368.html",
       "fecha": "Fri, 20 Nov 2026 00:43:22 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Anthropic se estrena en bolsa con la mayor oferta pública de la historia entre temores por una posible burbuja de la IA y su falta de regulación",
-      "enlace": "https://www.eldiario.es/economia/anthropic-estrena-bolsa-mayor-oferta-publica-historia-temores-posible-burbuja-ia-falta-regulacion_1_13678993.html",
-      "fecha": "Thu, 19 Nov 2026 23:03:30 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Anthropic debuta en bolsa a 111,50 dólares por acción, un 34% por encima del precio de la salida a los mercados",
-      "enlace": "https://www.eldiario.es/economia/anthropic-debuta-bolsa-111-50-dolares-accion-34-precio-salida-mercados_1_13678112.html",
-      "fecha": "Thu, 19 Nov 2026 16:58:59 +0000"
     }
   ]
 }
