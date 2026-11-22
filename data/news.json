@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-22T13:56:27.778Z",
+  "actualizado": "2026-11-22T22:16:48.521Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El nuevo gobierno y la colonización de empresas",
+      "enlace": "https://www.eldiario.es/economia/nuevo-gobierno-colonizacion-empresas_129_13681166.html",
+      "fecha": "Sun, 22 Nov 2026 20:39:42 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El precio del dinero fragmenta el orden monetario: el G7 restringe el crédito y los BRICS relajan sus tipos de interés",
+      "enlace": "https://www.eldiario.es/economia/precio-dinero-fragmenta-orden-monetario-g7-restringe-credito-brics-relajan-tipos-interes_129_13680428.html",
+      "fecha": "Sun, 22 Nov 2026 20:39:41 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Plan Vive de Ayuso rechaza a un trabajador que gana 2.300 euros al mes por \"insuficientes\" para un alquiler asequible",
+      "enlace": "https://www.eldiario.es/economia/plan-vive-ayuso-rechaza-trabajador-gana-2-300-euros-mes-insuficientes-alquiler-asequible_1_13667373.html",
+      "fecha": "Sun, 22 Nov 2026 20:39:39 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Una avería en el tren que une las terminales T4 y T4S de Barajas provoca grandes colas en el aeropuerto",
@@ -42,24 +60,6 @@
       "titular": "Abhijit Banerjee, Nobel de Economía: “Pensar que frenar la inmigración lo resuelve todo es una fantasía”",
       "enlace": "https://www.eldiario.es/economia/abhijit-banerjee-nobel-economia-pensar-frenar-inmigracion-resuelve-fantasia_1_13674461.html",
       "fecha": "Fri, 20 Nov 2026 21:08:33 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Del renacer nuclear a la incógnita del uranio y el ‘fracking’: la política energética que promueven PP y Vox",
-      "enlace": "https://www.eldiario.es/economia/renacer-nuclear-incognita-uranio-fracking-politica-energetica-promueven-pp-vox_1_13676338.html",
-      "fecha": "Fri, 20 Nov 2026 21:08:28 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La construcción de vivienda alcanza su punto álgido desde 2012 y apunta a un año de 100.000 viviendas",
-      "enlace": "https://www.eldiario.es/economia/construccion-vivienda-alcanza-punto-algido-2012-apunta-ano-100-000-viviendas_1_13679966.html",
-      "fecha": "Fri, 20 Nov 2026 12:41:20 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba la regulación de los centros de datos: \"A nivel mundial no existe otra referencia\"",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-regulacion-centros-datos-nivel-mundial-no-existe-referencia_1_13679928.html",
-      "fecha": "Fri, 20 Nov 2026 11:37:17 +0000"
     }
   ]
 }
