@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-21T21:59:23.980Z",
+  "actualizado": "2026-11-22T13:56:27.778Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Una avería en el tren que une las terminales T4 y T4S de Barajas provoca grandes colas en el aeropuerto",
+      "enlace": "https://www.eldiario.es/economia/averia-tren-une-terminales-t4-t4s-barajas-provoca-grandes-colas-aeropuerto_1_13684193.html",
+      "fecha": "Sun, 22 Nov 2026 13:24:44 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Monte dei Paschi di Siena, el banco más antiguo del mundo, encara su absorción por el mayor gigante financiero de Italia",
@@ -54,12 +60,6 @@
       "titular": "El Gobierno aprueba la regulación de los centros de datos: \"A nivel mundial no existe otra referencia\"",
       "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-regulacion-centros-datos-nivel-mundial-no-existe-referencia_1_13679928.html",
       "fecha": "Fri, 20 Nov 2026 11:37:17 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las claves en vivienda de los programas electorales",
-      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/claves-vivienda-programas-electorales_132_13679620.html",
-      "fecha": "Fri, 20 Nov 2026 10:34:48 +0000"
     }
   ]
 }
