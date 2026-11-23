@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-22T22:16:48.521Z",
+  "actualizado": "2026-11-23T17:10:44.254Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La aerolínea Plus Ultra cesa todas sus operaciones hasta nuevo aviso en pleno preconcurso de acreedores",
+      "enlace": "https://www.eldiario.es/economia/aerolinea-plus-ultra-cesa-operaciones-nuevo-aviso-pleno-preconcurso-acreedores_1_13687026.html",
+      "fecha": "Mon, 23 Nov 2026 16:55:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Nvidia recupera a Jensen Huang como CEO después de su renuncia por su relación con una espía china y con otras dos empleadas",
+      "enlace": "https://www.eldiario.es/economia/nvidia-recupera-jensen-huang-ceo-despues-haberlo-despedido-relacion-espia-china-empleadas_1_13686512.html",
+      "fecha": "Mon, 23 Nov 2026 14:11:11 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "CCOO y UGT animan a votar para evitar recortes en pensiones y otros derechos: \"Hay mucho que perder y que ganar\"",
+      "enlace": "https://www.eldiario.es/economia/ccoo-ugt-animan-votar-evitar-recortes-pensiones-derechos-hay-perder-ganar_1_13685618.html",
+      "fecha": "Mon, 23 Nov 2026 12:50:05 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Murtra pide que Europa cree su propia tecnología y avisa de que no puede depender de multimillonarios \"astutos\"",
+      "enlace": "https://www.eldiario.es/economia/murtra-pide-europa-cree-propia-tecnologia-avisa-no-depender-multimillonarios-astutos_1_13685706.html",
+      "fecha": "Mon, 23 Nov 2026 11:35:25 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Bruselas abre una investigación antimonopolio a la embotelladora de Coca Cola de la familia Daurella",
+      "enlace": "https://www.eldiario.es/economia/bruselas-abre-investigacion-antimonopolio-embotelladora-coca-cola-familia-daurella_1_13685415.html",
+      "fecha": "Mon, 23 Nov 2026 10:47:09 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El nuevo gobierno y la colonización de empresas",
@@ -30,36 +60,6 @@
       "titular": "Monte dei Paschi di Siena, el banco más antiguo del mundo, encara su absorción por el mayor gigante financiero de Italia",
       "enlace": "https://www.eldiario.es/economia/monte-dei-paschi-di-siena-banco-antiguo-mundo-encara-absorcion-mayor-gigante-financiero-italia_1_13679967.html",
       "fecha": "Sat, 21 Nov 2026 21:10:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Ni discriminados ni \"reemplazados\": el pleno empleo entre los hombres españoles que desmonta a la ultraderecha",
-      "enlace": "https://www.eldiario.es/economia/discriminados-reemplazados-pleno-empleo-hombres-espanoles-desmonta-ultraderecha_129_13678028.html",
-      "fecha": "Sat, 21 Nov 2026 21:10:47 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Cuando se sitúa la pensión como privilegio y se ignora la riqueza: así se gestan los recortes a los jubilados",
-      "enlace": "https://www.eldiario.es/economia/situa-pension-privilegio-ignora-riqueza-gestan-recortes-jubilados_1_13619464.html",
-      "fecha": "Sat, 21 Nov 2026 21:10:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Costa se rinde ante los austeros y presenta un proyecto de presupuesto europeo con un recorte del 10,2%",
-      "enlace": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
-      "fecha": "Sat, 21 Nov 2026 10:13:09 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Sánchez prorrogará el impuesto a la banca para destinarlo a vivienda",
-      "enlace": "https://www.eldiario.es/economia/sanchez-anuncia-prorroga-impuesto-banca-2027-politicas-vivienda_1_13682337.html",
-      "fecha": "Sat, 21 Nov 2026 08:15:45 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Abhijit Banerjee, Nobel de Economía: “Pensar que frenar la inmigración lo resuelve todo es una fantasía”",
-      "enlace": "https://www.eldiario.es/economia/abhijit-banerjee-nobel-economia-pensar-frenar-inmigracion-resuelve-fantasia_1_13674461.html",
-      "fecha": "Fri, 20 Nov 2026 21:08:33 +0000"
     }
   ]
 }
