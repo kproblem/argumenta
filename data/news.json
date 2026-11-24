@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-23T17:10:44.254Z",
+  "actualizado": "2026-11-24T04:33:59.157Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Nvidia se dispara un 31% en bolsa tras el regreso de Jensen Huang por la presión de Trump después del escándalo de la espía china",
+      "enlace": "https://www.eldiario.es/economia/nvidia-dispara-31-bolsa-regreso-jensen-huang-presion-trump-despues-escandalo-espia-china_1_13687773.html",
+      "fecha": "Mon, 23 Nov 2026 22:39:18 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Cargos de Ayuso y apoyo de una opaca fundación suiza: el 'think tank' ultra que alimenta mentiras económicas de Feijóo",
+      "enlace": "https://www.eldiario.es/economia/cargos-ayuso-apoyo-opaca-fundacion-suiza-think-tank-ultra-alimenta-mentiras-economicas-feijoo_1_13687267.html",
+      "fecha": "Mon, 23 Nov 2026 21:55:23 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Por qué un gobierno conservador supondría un retroceso en derechos laborales",
+      "enlace": "https://www.eldiario.es/economia/gobierno-conservador-supondria-retroceso-derechos-laborales_129_13687052.html",
+      "fecha": "Mon, 23 Nov 2026 21:55:20 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno ampliará a diez días el permiso por fallecimiento de familiares",
+      "enlace": "https://www.eldiario.es/economia/gobierno-ampliara-diez-dias-permiso-fallecimiento-familiares_1_13687311.html",
+      "fecha": "Mon, 23 Nov 2026 18:15:02 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La aerolínea Plus Ultra cesa todas sus operaciones hasta nuevo aviso en pleno preconcurso de acreedores",
@@ -36,30 +60,6 @@
       "titular": "El nuevo gobierno y la colonización de empresas",
       "enlace": "https://www.eldiario.es/economia/nuevo-gobierno-colonizacion-empresas_129_13681166.html",
       "fecha": "Sun, 22 Nov 2026 20:39:42 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El precio del dinero fragmenta el orden monetario: el G7 restringe el crédito y los BRICS relajan sus tipos de interés",
-      "enlace": "https://www.eldiario.es/economia/precio-dinero-fragmenta-orden-monetario-g7-restringe-credito-brics-relajan-tipos-interes_129_13680428.html",
-      "fecha": "Sun, 22 Nov 2026 20:39:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Plan Vive de Ayuso rechaza a un trabajador que gana 2.300 euros al mes por \"insuficientes\" para un alquiler asequible",
-      "enlace": "https://www.eldiario.es/economia/plan-vive-ayuso-rechaza-trabajador-gana-2-300-euros-mes-insuficientes-alquiler-asequible_1_13667373.html",
-      "fecha": "Sun, 22 Nov 2026 20:39:39 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Una avería en el tren que une las terminales T4 y T4S de Barajas provoca grandes colas en el aeropuerto",
-      "enlace": "https://www.eldiario.es/economia/averia-tren-une-terminales-t4-t4s-barajas-provoca-grandes-colas-aeropuerto_1_13684193.html",
-      "fecha": "Sun, 22 Nov 2026 13:24:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Monte dei Paschi di Siena, el banco más antiguo del mundo, encara su absorción por el mayor gigante financiero de Italia",
-      "enlace": "https://www.eldiario.es/economia/monte-dei-paschi-di-siena-banco-antiguo-mundo-encara-absorcion-mayor-gigante-financiero-italia_1_13679967.html",
-      "fecha": "Sat, 21 Nov 2026 21:10:51 +0000"
     }
   ]
 }
