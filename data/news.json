@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-25T01:13:49.439Z",
+  "actualizado": "2026-11-25T16:40:56.552Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "El Corte Inglés da luz verde a su plan estratégico e invertirá hasta 5.000 millones en el periodo 2027-2032",
+      "enlace": "https://www.eldiario.es/economia/corte-ingles-da-luz-verde-plan-estrategico-e-invertira-5-000-millones-periodo-2027-2032_1_13692940.html",
+      "fecha": "Wed, 25 Nov 2026 14:49:59 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Bruselas amplía el plazo para que los países mantengan las ayudas por la guerra de Irán hasta junio de 2027",
+      "enlace": "https://www.eldiario.es/economia/bruselas-amplia-plazo-paises-mantengan-ayudas-guerra-iran-junio-2027_1_13692554.html",
+      "fecha": "Wed, 25 Nov 2026 14:00:10 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El salario medio aumentó un 4,7% en 2025 hasta rozar los 2.500 euros, pero con más brecha entre hombres y mujeres",
+      "enlace": "https://www.eldiario.es/economia/salario-medio-aumento-4-7-2025-rozar-2-500-euros-brecha-hombres-mujeres_1_13692301.html",
+      "fecha": "Wed, 25 Nov 2026 13:22:46 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las 20 semanas del permiso por nacimiento y los 10 días por duelo entran en vigor este jueves",
+      "enlace": "https://www.eldiario.es/economia/20-semanas-permiso-nacimiento-10-dias-duelo-entran-vigor-jueves_1_13691325.html",
+      "fecha": "Wed, 25 Nov 2026 10:01:26 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Un informe advierte de la dependencia estructural de Europa del gas y el petróleo importado pese a las crisis energéticas",
+      "enlace": "https://www.eldiario.es/economia/informe-advierte-dependencia-estructural-europa-gas-petroleo-importado-pese-crisis-energeticas_1_13690239.html",
+      "fecha": "Wed, 25 Nov 2026 08:08:54 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Indra lanza su Plan Estratégico y confía en alcanzar los 20.000 millones de euros de ingresos en 2035",
+      "enlace": "https://www.eldiario.es/economia/indra-lanza-plan-estrategico-confia-alcanzar-20-000-millones-euros-ingresos-2035_1_13691008.html",
+      "fecha": "Wed, 25 Nov 2026 07:31:26 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "¿Van a quebrar las pensiones? Cinco claves que conviene repasar antes de valorar cualquier propuesta",
@@ -24,42 +60,6 @@
       "titular": "La Comisión Europea advierte a España por riesgo de déficit excesivo en 2026 y 2027",
       "enlace": "https://www.eldiario.es/economia/comision-europea-advierte-espana-riesgo-deficit-excesivo-2026-2027_1_13688720.html",
       "fecha": "Tue, 24 Nov 2026 14:53:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Todas las claves de los nuevos permisos de duelo y de nacimiento: ¿cuánto se amplían y quién los retribuye?",
-      "enlace": "https://www.eldiario.es/economia/claves-nuevos-permisos-duelo-nacimiento-amplian-retribuye_1_13688753.html",
-      "fecha": "Tue, 24 Nov 2026 13:22:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Ejecutivo eleva la inversión en Adif hasta 19.000 millones para mejorar el mantenimiento",
-      "enlace": "https://www.eldiario.es/economia/ejecutivo-eleva-inversion-adif-19-000-millones-mejorar-mantenimiento_1_13689262.html",
-      "fecha": "Tue, 24 Nov 2026 12:59:44 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno echa el resto en el último Consejo de Ministros antes de las elecciones con una cascada de medidas sociales",
-      "enlace": "https://www.eldiario.es/economia/ultimo-consejo-ministros-elecciones-da-luz-verde-gran-paquete-permisos-ayudas-impuesto-banca_1_13688755.html",
-      "fecha": "Tue, 24 Nov 2026 12:22:05 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los buenos resultados de las energéticas disparan los beneficios de las empresas un 36%, según el Banco de España",
-      "enlace": "https://www.eldiario.es/economia/buenos-resultados-energeticas-disparan-beneficios-empresas-36-banco-espana_1_13688760.html",
-      "fecha": "Tue, 24 Nov 2026 12:01:20 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno aprueba que los autónomos declaren el IVA solo una vez al año si facturan menos de 85.000 euros",
-      "enlace": "https://www.eldiario.es/economia/gobierno-aprueba-autonomos-declaren-iva-vez-ano-si-facturan-85-000-euros_1_13688917.html",
-      "fecha": "Tue, 24 Nov 2026 11:54:38 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes",
-      "enlace": "https://www.eldiario.es/economia/gobierno-prorroga-ayudas-transporte-mantiene-abono-unico-jovenes_1_13688832.html",
-      "fecha": "Tue, 24 Nov 2026 11:30:41 +0000"
     }
   ]
 }
