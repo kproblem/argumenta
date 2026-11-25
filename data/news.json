@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-24T16:52:45.592Z",
+  "actualizado": "2026-11-25T01:13:49.439Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "¿Van a quebrar las pensiones? Cinco claves que conviene repasar antes de valorar cualquier propuesta",
+      "enlace": "https://www.eldiario.es/economia/quebrar-pensiones-cinco-claves-conviene-repasar-valorar-propuesta_129_13688767.html",
+      "fecha": "Tue, 24 Nov 2026 21:12:56 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Expropiación de más de 200.000 casas a los fondos: la propuesta de Frente Amplio y Podemos que ataca el sector",
+      "enlace": "https://www.eldiario.es/economia/expropiacion-200-000-casas-fondos-propuesta-frente-amplio-ataca-sector_1_13681788.html",
+      "fecha": "Tue, 24 Nov 2026 21:12:54 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Dcoop, nueva dueña de Carbonell, defiende la retirada de aceite: “Un precio de 10 euros es un disparate, también de 2 euros”",
@@ -48,18 +60,6 @@
       "titular": "El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes",
       "enlace": "https://www.eldiario.es/economia/gobierno-prorroga-ayudas-transporte-mantiene-abono-unico-jovenes_1_13688832.html",
       "fecha": "Tue, 24 Nov 2026 11:30:41 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno amplía una semana más hasta las 20 los permisos por nacimiento",
-      "enlace": "https://www.eldiario.es/economia/gobierno-eleva-20-semanas-permiso-nacimiento-34-semanas-familias-monomarentales_1_13688066.html",
-      "fecha": "Tue, 24 Nov 2026 08:55:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La UE impone cuotas de importación a los vehículos híbridos para proteger a la industria europea",
-      "enlace": "https://www.eldiario.es/economia/ue-impone-cuotas-importacion-vehiculos-hibridos-proteger-industria-europea_1_13688026.html",
-      "fecha": "Tue, 24 Nov 2026 08:21:52 +0000"
     }
   ]
 }
