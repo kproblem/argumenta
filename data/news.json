@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-25T16:40:56.552Z",
+  "actualizado": "2026-11-26T00:48:43.634Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Los impagos de una subcontrata afectan a trabajadores de polideportivos de toda España: “Esto no es normal\"",
+      "enlace": "https://www.eldiario.es/economia/impagos-subcontrata-afectan-trabajadores-polideportivos-espana-no-normal_1_13689796.html",
+      "fecha": "Wed, 25 Nov 2026 21:08:51 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "España tiene medio millón de pisos más en alquiler que en 2018: la cifra que desmiente al PP y a las patronales",
+      "enlace": "https://www.eldiario.es/economia/espana-medio-millon-pisos-alquiler-cifra-desmiente-pp-patronales_1_13693142.html",
+      "fecha": "Wed, 25 Nov 2026 21:08:48 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Los 27 chocan por el presupuesto europeo en una cumbre que designará a Hernández de Cos como presidente del BCE",
+      "enlace": "https://www.eldiario.es/economia/27-chocan-presupuesto-europeo-cumbre-designara-hernandez-cos-presidente-bce_1_13692828.html",
+      "fecha": "Wed, 25 Nov 2026 21:08:47 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Banco de España entrega a la justicia lo que pagó a la banca por sus depósitos y Sumar exige acceso \"inmediato”",
+      "enlace": "https://www.eldiario.es/economia/banco-espana-entrega-justicia-pago-banca-depositos-sumar-exige-acceso-inmediato_1_13692955.html",
+      "fecha": "Wed, 25 Nov 2026 16:42:46 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "El Corte Inglés da luz verde a su plan estratégico e invertirá hasta 5.000 millones en el periodo 2027-2032",
@@ -36,30 +60,6 @@
       "titular": "Indra lanza su Plan Estratégico y confía en alcanzar los 20.000 millones de euros de ingresos en 2035",
       "enlace": "https://www.eldiario.es/economia/indra-lanza-plan-estrategico-confia-alcanzar-20-000-millones-euros-ingresos-2035_1_13691008.html",
       "fecha": "Wed, 25 Nov 2026 07:31:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "¿Van a quebrar las pensiones? Cinco claves que conviene repasar antes de valorar cualquier propuesta",
-      "enlace": "https://www.eldiario.es/economia/quebrar-pensiones-cinco-claves-conviene-repasar-valorar-propuesta_129_13688767.html",
-      "fecha": "Tue, 24 Nov 2026 21:12:56 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Expropiación de más de 200.000 casas a los fondos: la propuesta de Frente Amplio y Podemos que ataca el sector",
-      "enlace": "https://www.eldiario.es/economia/expropiacion-200-000-casas-fondos-propuesta-frente-amplio-ataca-sector_1_13681788.html",
-      "fecha": "Tue, 24 Nov 2026 21:12:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Dcoop, nueva dueña de Carbonell, defiende la retirada de aceite: “Un precio de 10 euros es un disparate, también de 2 euros”",
-      "enlace": "https://www.eldiario.es/economia/dcoop-nueva-duena-carbonell-defiende-retirada-aceite-precio-10-euros-disparate-2-euros_1_13688474.html",
-      "fecha": "Tue, 24 Nov 2026 15:05:06 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La Comisión Europea advierte a España por riesgo de déficit excesivo en 2026 y 2027",
-      "enlace": "https://www.eldiario.es/economia/comision-europea-advierte-espana-riesgo-deficit-excesivo-2026-2027_1_13688720.html",
-      "fecha": "Tue, 24 Nov 2026 14:53:52 +0000"
     }
   ]
 }
