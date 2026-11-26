@@ -1,65 +1,65 @@
 {
-  "actualizado": "2026-11-26T00:48:43.634Z",
+  "actualizado": "2026-11-26T16:14:44.063Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Hernández de Cos, el nuevo presidente del BCE: paloma en tipos, ortodoxo en todo lo demás",
+      "enlace": "https://www.eldiario.es/economia/hernandez-cos-nuevo-presidente-bce-paloma-tipos-ortodoxo_129_13673552.html",
+      "fecha": "Thu, 26 Nov 2026 14:29:35 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El español Pablo Hernández de Cos, elegido presidente del BCE",
+      "enlace": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html",
+      "fecha": "Thu, 26 Nov 2026 13:23:22 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Estos son los nuevos derechos de transparencia en salarios y condiciones laborales que ha ratificado el Congreso",
+      "enlace": "https://www.eldiario.es/economia/son-nuevos-derechos-transparencia-salarios-condiciones-laborales-ratificado-congreso_1_13695548.html",
+      "fecha": "Thu, 26 Nov 2026 12:52:27 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Congreso ratifica la subida de sueldo del 4,5% de los funcionarios y que el salario mínimo de 2027 no pague IRPF",
+      "enlace": "https://www.eldiario.es/economia/congreso-ratifica-subida-sueldo-4-5-funcionarios-salario-minimo-2027-no-pague-irpf_1_13695386.html",
+      "fecha": "Thu, 26 Nov 2026 12:07:10 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La reforma laboral disparó los indefinidos y 840.000 antiguos temporales pasaron a trabajar cuatro meses más al año",
+      "enlace": "https://www.eldiario.es/economia/reforma-laboral-disparo-indefinidos-840-000-antiguos-temporales-pasaron-trabajar-cuatro-meses-ano_1_13695148.html",
+      "fecha": "Thu, 26 Nov 2026 11:24:23 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La vivienda sube de precio un 15% pese a que las ventas caen desde hace 10 meses",
+      "enlace": "https://www.eldiario.es/economia/vivienda-sube-precio-15-pese-ventas-caen-10-meses_1_13694864.html",
+      "fecha": "Thu, 26 Nov 2026 10:28:52 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Isidre Fainé deja la presidencia de la Confederación Española de Directivos y será relevado por Ramon Adell",
+      "enlace": "https://www.eldiario.es/economia/isidre-faine-deja-presidencia-fundacion-cede-sera-relevado-ramon-adell_1_13694525.html",
+      "fecha": "Thu, 26 Nov 2026 08:46:24 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El Gobierno convoca 14.373 plazas de empleo público en la Administración General del Estado",
+      "enlace": "https://www.eldiario.es/economia/gobierno-convoca-14-373-plazas-empleo-publico-administracion-general_1_13694533.html",
+      "fecha": "Thu, 26 Nov 2026 08:45:27 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "El magnate Bernard Arnault podrá seguir al frente del gigante del lujo LVMH hasta los 95 años, casi dos décadas más",
+      "enlace": "https://www.eldiario.es/economia/magnate-bernard-arnault-podra-seguir-frente-gigante-lujo-lvmh-95-anos-decadas_1_13694500.html",
+      "fecha": "Thu, 26 Nov 2026 08:30:58 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los impagos de una subcontrata afectan a trabajadores de polideportivos de toda España: “Esto no es normal\"",
       "enlace": "https://www.eldiario.es/economia/impagos-subcontrata-afectan-trabajadores-polideportivos-espana-no-normal_1_13689796.html",
       "fecha": "Wed, 25 Nov 2026 21:08:51 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "España tiene medio millón de pisos más en alquiler que en 2018: la cifra que desmiente al PP y a las patronales",
-      "enlace": "https://www.eldiario.es/economia/espana-medio-millon-pisos-alquiler-cifra-desmiente-pp-patronales_1_13693142.html",
-      "fecha": "Wed, 25 Nov 2026 21:08:48 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los 27 chocan por el presupuesto europeo en una cumbre que designará a Hernández de Cos como presidente del BCE",
-      "enlace": "https://www.eldiario.es/economia/27-chocan-presupuesto-europeo-cumbre-designara-hernandez-cos-presidente-bce_1_13692828.html",
-      "fecha": "Wed, 25 Nov 2026 21:08:47 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Banco de España entrega a la justicia lo que pagó a la banca por sus depósitos y Sumar exige acceso \"inmediato”",
-      "enlace": "https://www.eldiario.es/economia/banco-espana-entrega-justicia-pago-banca-depositos-sumar-exige-acceso-inmediato_1_13692955.html",
-      "fecha": "Wed, 25 Nov 2026 16:42:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Corte Inglés da luz verde a su plan estratégico e invertirá hasta 5.000 millones en el periodo 2027-2032",
-      "enlace": "https://www.eldiario.es/economia/corte-ingles-da-luz-verde-plan-estrategico-e-invertira-5-000-millones-periodo-2027-2032_1_13692940.html",
-      "fecha": "Wed, 25 Nov 2026 14:49:59 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Bruselas amplía el plazo para que los países mantengan las ayudas por la guerra de Irán hasta junio de 2027",
-      "enlace": "https://www.eldiario.es/economia/bruselas-amplia-plazo-paises-mantengan-ayudas-guerra-iran-junio-2027_1_13692554.html",
-      "fecha": "Wed, 25 Nov 2026 14:00:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El salario medio aumentó un 4,7% en 2025 hasta rozar los 2.500 euros, pero con más brecha entre hombres y mujeres",
-      "enlace": "https://www.eldiario.es/economia/salario-medio-aumento-4-7-2025-rozar-2-500-euros-brecha-hombres-mujeres_1_13692301.html",
-      "fecha": "Wed, 25 Nov 2026 13:22:46 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Las 20 semanas del permiso por nacimiento y los 10 días por duelo entran en vigor este jueves",
-      "enlace": "https://www.eldiario.es/economia/20-semanas-permiso-nacimiento-10-dias-duelo-entran-vigor-jueves_1_13691325.html",
-      "fecha": "Wed, 25 Nov 2026 10:01:26 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Un informe advierte de la dependencia estructural de Europa del gas y el petróleo importado pese a las crisis energéticas",
-      "enlace": "https://www.eldiario.es/economia/informe-advierte-dependencia-estructural-europa-gas-petroleo-importado-pese-crisis-energeticas_1_13690239.html",
-      "fecha": "Wed, 25 Nov 2026 08:08:54 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Indra lanza su Plan Estratégico y confía en alcanzar los 20.000 millones de euros de ingresos en 2035",
-      "enlace": "https://www.eldiario.es/economia/indra-lanza-plan-estrategico-confia-alcanzar-20-000-millones-euros-ingresos-2035_1_13691008.html",
-      "fecha": "Wed, 25 Nov 2026 07:31:26 +0000"
     }
   ]
 }
