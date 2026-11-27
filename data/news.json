@@ -1,9 +1,21 @@
 {
-  "actualizado": "2026-11-26T16:14:44.063Z",
+  "actualizado": "2026-11-27T00:55:15.967Z",
   "noticias": [
     {
       "medio": "elDiario.es",
-      "titular": "Hernández de Cos, el nuevo presidente del BCE: paloma en tipos, ortodoxo en todo lo demás",
+      "titular": "Los líderes de la UE escenifican el desencuentro y dejan para diciembre la negociación del presupuesto europeo",
+      "enlace": "https://www.eldiario.es/economia/lideres-ue-escenifican-desencuentro-dejan-diciembre-negociacion-presupuesto-europeo_1_13696056.html",
+      "fecha": "Thu, 26 Nov 2026 23:40:17 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Vox concreta su tijeretazo al gasto público: 112.000 millones, el doble del gasto anual en Educación",
+      "enlace": "https://www.eldiario.es/economia/vox-concreta-tijeretazo-gasto-publico-112-000-millones-doble-gasto-anual-educacion_1_13696579.html",
+      "fecha": "Thu, 26 Nov 2026 16:34:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Hernández de Cos, el nuevo presidente del BCE: las ideas económicas del hombre que influirá en tu hipoteca",
       "enlace": "https://www.eldiario.es/economia/hernandez-cos-nuevo-presidente-bce-paloma-tipos-ortodoxo_129_13673552.html",
       "fecha": "Thu, 26 Nov 2026 14:29:35 +0000"
     },
@@ -48,18 +60,6 @@
       "titular": "El Gobierno convoca 14.373 plazas de empleo público en la Administración General del Estado",
       "enlace": "https://www.eldiario.es/economia/gobierno-convoca-14-373-plazas-empleo-publico-administracion-general_1_13694533.html",
       "fecha": "Thu, 26 Nov 2026 08:45:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El magnate Bernard Arnault podrá seguir al frente del gigante del lujo LVMH hasta los 95 años, casi dos décadas más",
-      "enlace": "https://www.eldiario.es/economia/magnate-bernard-arnault-podra-seguir-frente-gigante-lujo-lvmh-95-anos-decadas_1_13694500.html",
-      "fecha": "Thu, 26 Nov 2026 08:30:58 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Los impagos de una subcontrata afectan a trabajadores de polideportivos de toda España: “Esto no es normal\"",
-      "enlace": "https://www.eldiario.es/economia/impagos-subcontrata-afectan-trabajadores-polideportivos-espana-no-normal_1_13689796.html",
-      "fecha": "Wed, 25 Nov 2026 21:08:51 +0000"
     }
   ]
 }
