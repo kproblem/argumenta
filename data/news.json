@@ -1,6 +1,36 @@
 {
-  "actualizado": "2026-11-27T00:55:15.967Z",
+  "actualizado": "2026-11-27T15:59:39.690Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "La falsa vivienda asequible del PP y la privatización de lo público",
+      "enlace": "https://www.eldiario.es/economia/una-casa-para-vivir/falsa-vivienda-asequible-pp-privatizacion-publico_132_13698194.html",
+      "fecha": "Fri, 27 Nov 2026 11:45:04 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "Las pensiones subirán un 3,5% en 2027",
+      "enlace": "https://www.eldiario.es/economia/pensiones-subiran-3-5-2027_1_13697886.html",
+      "fecha": "Fri, 27 Nov 2026 08:00:18 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La caída de los precios de la gasolina y el diésel frena la escalada de la inflación: se desacelera al 4,1% en noviembre",
+      "enlace": "https://www.eldiario.es/economia/caida-precios-gasolina-diesel-frena-escalada-inflacion-desacelera-4-1-noviembre_1_13697884.html",
+      "fecha": "Fri, 27 Nov 2026 08:00:01 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La inmigración en perspectiva",
+      "enlace": "https://www.eldiario.es/economia/inmigracion-perspectiva_129_13695183.html",
+      "fecha": "Fri, 27 Nov 2026 00:46:16 +0000"
+    },
+    {
+      "medio": "elDiario.es",
+      "titular": "La puerta giratoria entre el PP y la patronal: más de 70 cargos populares han trabajado para la CEOE",
+      "enlace": "https://www.eldiario.es/economia/puerta-giratoria-pp-patronal-70-cargos-populares-han-trabajado-ceoe_1_13695993.html",
+      "fecha": "Fri, 27 Nov 2026 00:46:15 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "Los líderes de la UE escenifican el desencuentro y dejan para diciembre la negociación del presupuesto europeo",
@@ -30,36 +60,6 @@
       "titular": "Estos son los nuevos derechos de transparencia en salarios y condiciones laborales que ha ratificado el Congreso",
       "enlace": "https://www.eldiario.es/economia/son-nuevos-derechos-transparencia-salarios-condiciones-laborales-ratificado-congreso_1_13695548.html",
       "fecha": "Thu, 26 Nov 2026 12:52:27 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Congreso ratifica la subida de sueldo del 4,5% de los funcionarios y que el salario mínimo de 2027 no pague IRPF",
-      "enlace": "https://www.eldiario.es/economia/congreso-ratifica-subida-sueldo-4-5-funcionarios-salario-minimo-2027-no-pague-irpf_1_13695386.html",
-      "fecha": "Thu, 26 Nov 2026 12:07:10 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La reforma laboral disparó los indefinidos y 840.000 antiguos temporales pasaron a trabajar cuatro meses más al año",
-      "enlace": "https://www.eldiario.es/economia/reforma-laboral-disparo-indefinidos-840-000-antiguos-temporales-pasaron-trabajar-cuatro-meses-ano_1_13695148.html",
-      "fecha": "Thu, 26 Nov 2026 11:24:23 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "La vivienda sube de precio un 15% pese a que las ventas caen desde hace 10 meses",
-      "enlace": "https://www.eldiario.es/economia/vivienda-sube-precio-15-pese-ventas-caen-10-meses_1_13694864.html",
-      "fecha": "Thu, 26 Nov 2026 10:28:52 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Isidre Fainé deja la presidencia de la Confederación Española de Directivos y será relevado por Ramon Adell",
-      "enlace": "https://www.eldiario.es/economia/isidre-faine-deja-presidencia-fundacion-cede-sera-relevado-ramon-adell_1_13694525.html",
-      "fecha": "Thu, 26 Nov 2026 08:46:24 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "El Gobierno convoca 14.373 plazas de empleo público en la Administración General del Estado",
-      "enlace": "https://www.eldiario.es/economia/gobierno-convoca-14-373-plazas-empleo-publico-administracion-general_1_13694533.html",
-      "fecha": "Thu, 26 Nov 2026 08:45:27 +0000"
     }
   ]
 }
