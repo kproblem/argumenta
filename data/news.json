@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-27T15:59:39.690Z",
+  "actualizado": "2026-11-28T00:20:18.895Z",
   "noticias": [
+    {
+      "medio": "elDiario.es",
+      "titular": "Vox pone al alcance de la motosierra 200.000 millones en recortes del Estado del Bienestar y rebajas fiscales a los ricos",
+      "enlace": "https://www.eldiario.es/economia/vox-pone-alcance-motosierra-200-000-millones-recortes-bienestar-rebajas-fiscales-ricos_1_13681204.html",
+      "fecha": "Fri, 27 Nov 2026 22:26:51 +0000"
+    },
     {
       "medio": "elDiario.es",
       "titular": "La falsa vivienda asequible del PP y la privatización de lo público",
@@ -54,12 +60,6 @@
       "titular": "El español Pablo Hernández de Cos, elegido presidente del BCE",
       "enlace": "https://www.eldiario.es/economia/lideres-europeos-eligen-espanol-pablo-hernandez-cos-presidente-bce_1_13694914.html",
       "fecha": "Thu, 26 Nov 2026 13:23:22 +0000"
-    },
-    {
-      "medio": "elDiario.es",
-      "titular": "Estos son los nuevos derechos de transparencia en salarios y condiciones laborales que ha ratificado el Congreso",
-      "enlace": "https://www.eldiario.es/economia/son-nuevos-derechos-transparencia-salarios-condiciones-laborales-ratificado-congreso_1_13695548.html",
-      "fecha": "Thu, 26 Nov 2026 12:52:27 +0000"
     }
   ]
 }
